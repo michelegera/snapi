@@ -9,3 +9,13 @@ datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
 }
+
+model Card {
+  id      String  @id @default(cuid())
+  name    String
+  type    String
+  cost    Int
+  power   Int
+  ability String
+  trigger String?
+}
