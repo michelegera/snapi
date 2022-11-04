@@ -1,7 +1,7 @@
 {
   "name": "snapi",
   "version": "1.0.0",
-  "description": "",
+  "description": "GraphQL API for Marvel Snap™",
   "main": "index.js",
   "scripts": {
     "build": "npm i && npx prisma generate",
