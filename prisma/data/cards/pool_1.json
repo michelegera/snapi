@@ -1,0 +1,360 @@
+[
+  {
+    "name": "America Chavez",
+    "type": "character",
+    "cost": 6,
+    "power": 9,
+    "ability": "You always draw this card on turn 6, and not before."
+  },
+  {
+    "name": "Angel",
+    "type": "character",
+    "cost": 1,
+    "power": 2,
+    "ability": "When one of your cards is destroyed, this flies out of your deck to replace it."
+  },
+  {
+    "name": "Angela",
+    "type": "character",
+    "cost": 2,
+    "power": 1,
+    "ability": "When you play a card here, +2 Power."
+  },
+  {
+    "name": "Apocalypse",
+    "type": "character",
+    "cost": 6,
+    "power": 8,
+    "ability": "When you discard this from your hand, put it back with +4 Power."
+  },
+  {
+    "name": "Apocalypse",
+    "type": "character",
+    "cost": 6,
+    "power": 8,
+    "ability": "Cards at this location can’t be destroyed.",
+    "trigger": "ongoing"
+  },
+  {
+    "name": "Bishop",
+    "type": "character",
+    "cost": 3,
+    "power": 1,
+    "ability": "When you play a card, this gains +1 Power."
+  },
+  {
+    "name": "Blade",
+    "type": "character",
+    "cost": 1,
+    "power": 3,
+    "ability": "Discard a card from your hand.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Cable",
+    "type": "character",
+    "cost": 2,
+    "power": 2,
+    "ability": "Put the bottom card of your opponent's deck into your hand.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Captain America",
+    "type": "character",
+    "cost": 3,
+    "power": 1,
+    "ability": "Your other cards at this location have +1 Power.",
+    "trigger": "ongoing"
+  },
+  {
+    "name": "Carnage",
+    "type": "character",
+    "cost": 2,
+    "power": 2,
+    "ability": "Destroy your other cards here. +2 Power for each destroyed.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Cosmo",
+    "type": "character",
+    "cost": 3,
+    "power": 3,
+    "ability": "On Reveal abilities won’t happen at this location.",
+    "trigger": "ongoing"
+  },
+  {
+    "name": "Deathlok",
+    "type": "character",
+    "cost": 3,
+    "power": 5,
+    "ability": "Destroy your other cards at this location.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Devil Dinosaur",
+    "type": "character",
+    "cost": 5,
+    "power": 3,
+    "ability": "+2 Power for each card in your hand.",
+    "trigger": "ongoing"
+  },
+  {
+    "name": "Doctor Strange",
+    "type": "character",
+    "cost": 3,
+    "power": 3,
+    "ability": "Move your highest Power cards to this location.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Domino",
+    "type": "character",
+    "cost": 2,
+    "power": 3,
+    "ability": "You always draw this card on turn 2, and not before."
+  },
+  {
+    "name": "Elektra",
+    "type": "character",
+    "cost": 1,
+    "power": 1,
+    "ability": "Destroy a random enemy 1-Cost card at this location.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Enchantress",
+    "type": "character",
+    "cost": 4,
+    "power": 4,
+    "ability": "Remove the abilities from all Ongoing cards at this location.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Forge",
+    "type": "character",
+    "cost": 2,
+    "power": 1,
+    "ability": "Give the next card you play +2 Power.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Groot",
+    "type": "character",
+    "cost": 3,
+    "power": 3,
+    "ability": "If your opponent played a card here this turn, +3 Power."
+  },
+  {
+    "name": "Heimdall",
+    "type": "character",
+    "cost": 6,
+    "power": 8,
+    "ability": "Move your other cards one location to the left.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Hulk Buster",
+    "type": "character",
+    "cost": 3,
+    "power": 4,
+    "ability": "Merge this card with a random friendly card at this location.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Iron Fist",
+    "type": "character",
+    "cost": 1,
+    "power": 2,
+    "ability": "Move the next card you play one location to the left after it reveals.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Ka-Zar",
+    "type": "character",
+    "cost": 4,
+    "power": 4,
+    "ability": "Your 1-Cost cards have +1 Power.",
+    "trigger": "ongoing"
+  },
+  {
+    "name": "Klaw",
+    "type": "character",
+    "cost": 5,
+    "power": 4,
+    "ability": "The location to the right has +6 Power.",
+    "trigger": "ongoing"
+  },
+  {
+    "name": "Korg",
+    "type": "character",
+    "cost": 1,
+    "power": 2,
+    "ability": "Shuffle a Rock into your opponent’s deck.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Kraven",
+    "type": "character",
+    "cost": 2,
+    "power": 2,
+    "ability": "When a card moves here, this gets +2 Power."
+  },
+  {
+    "name": "Lady Sif",
+    "type": "character",
+    "cost": 3,
+    "power": 4,
+    "ability": "Discard the highest-cost card from your hand.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Lizard",
+    "type": "character",
+    "cost": 2,
+    "power": 5,
+    "ability": "-3 Power if your opponent has 4 cards here.",
+    "trigger": "ongoing"
+  },
+  {
+    "name": "Mantis",
+    "type": "character",
+    "cost": 1,
+    "power": 2,
+    "ability": "If your opponent played a card here this turn, draw a card from their deck.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Mister Sinister",
+    "type": "character",
+    "cost": 2,
+    "power": 2,
+    "ability": "Add a Sinister Clone to this location with the same Power.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Moon Girl",
+    "type": "character",
+    "cost": 4,
+    "power": 4,
+    "ability": "Duplicate your hand.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Morph",
+    "type": "character",
+    "cost": 3,
+    "power": 0,
+    "ability": "Become a copy of a random card in your opponent’s hand.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Multiple Man",
+    "type": "character",
+    "cost": 2,
+    "power": 3,
+    "ability": "When this moves, add a copy to the old location.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Namor",
+    "type": "character",
+    "cost": 4,
+    "power": 5,
+    "ability": "+5 Power if this is your only card here.",
+    "trigger": "ongoing"
+  },
+  {
+    "name": "Nova",
+    "type": "character",
+    "cost": 1,
+    "power": 2,
+    "ability": "When this is destroyed, give your cards +1 Power."
+  },
+  {
+    "name": "Onslaught",
+    "type": "character",
+    "cost": 6,
+    "power": 7,
+    "ability": "Double your other Ongoing effects at this location.",
+    "trigger": "ongoing"
+  },
+  {
+    "name": "Professor X",
+    "type": "character",
+    "cost": 5,
+    "power": 3,
+    "ability": "Lock down this location. (Cards can’t be added, removed, etc.).",
+    "trigger": "ongoing"
+  },
+  {
+    "name": "Rocket Racoon",
+    "type": "character",
+    "cost": 1,
+    "power": 2,
+    "ability": "If your opponent played a card here this turn, +2 Power.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Scarlet Witch",
+    "type": "character",
+    "cost": 2,
+    "power": 3,
+    "ability": "Replace this location with a random new one.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Spider-Woman",
+    "type": "character",
+    "cost": 5,
+    "power": 7,
+    "ability": "Afflict all enemy cards here with -1 Power.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Squirrel Girl",
+    "type": "character",
+    "cost": 1,
+    "power": 1,
+    "ability": "Add a 1-Power Squirrel to each other location.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Strong Guy",
+    "type": "character",
+    "cost": 4,
+    "power": 4,
+    "ability": "If your hand is empty, +6 Power.",
+    "trigger": "ongoing"
+  },
+  {
+    "name": "Sword Master",
+    "type": "character",
+    "cost": 3,
+    "power": 6,
+    "ability": "Discard a card from your hand.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "White Queen",
+    "type": "character",
+    "cost": 4,
+    "power": 6,
+    "ability": "Draw a copy of the highest Cost card in your opponent’s hand.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Wolverine",
+    "type": "character",
+    "cost": 2,
+    "power": 3,
+    "ability": "When this is discarded or destroyed, play it at a random location."
+  },
+  {
+    "name": "Yondu",
+    "type": "character",
+    "cost": 1,
+    "power": 2,
+    "ability": "Remove the top card of your opponent’s deck.",
+    "trigger": "on_reveal"
+  }
+]

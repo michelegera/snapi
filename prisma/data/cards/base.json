@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Jessica Jones",
+    "type": "character",
+    "cost": 4,
+    "power": 4,
+    "ability": "If you don’t play a card here next turn, +4 Power.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Mister Fantastic",
+    "type": "character",
+    "cost": 3,
+    "power": 2,
+    "ability": "Adjacent locations have +2 Power.",
+    "trigger": "ongoing"
+  },
+  {
+    "name": "Nightcrawler",
+    "type": "character",
+    "cost": 1,
+    "power": 2,
+    "ability": "You can move this once."
+  },
+  {
+    "name": "Odin",
+    "type": "character",
+    "cost": 6,
+    "power": 8,
+    "ability": "Activate the On Reveal ability of your other cards at this location.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Spectrum",
+    "type": "character",
+    "cost": 6,
+    "power": 5,
+    "ability": "Give your Ongoing cards +2 Power.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "White Tiger",
+    "type": "character",
+    "cost": 5,
+    "power": 1,
+    "ability": "Add a 7-Power Tiger to another location.",
+    "trigger": "on_reveal"
+  },
+  {
+    "name": "Wolfsbane",
+    "type": "character",
+    "cost": 3,
+    "power": 1,
+    "ability": "+2 Power for each other card you have here.",
+    "trigger": "on_reveal"
+  }
+]
