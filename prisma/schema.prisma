@@ -25,3 +25,14 @@ model Card {
 
   @@map("card")
 }
+
+model Location {
+  id          String   @id @default(cuid())
+  name        String
+  description String
+  rarity      String
+  difficulty  String
+  abilities   String[]
+
+  @@map("location")
+}
