@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Agent 13",
+    "description": "On Reveal: Add a random card to your hand.",
+    "cost": 1,
+    "power": 2,
+    "abilities": ["on_reveal", "add_card_to_hand", "add_card"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Bucky Barnes",
+    "description": "When this is destroyed, create the Winter Soldier in its place.",
+    "cost": 2,
+    "power": 1,
+    "abilities": ["destroy", "add_card_at_location", "add_card"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Cloak",
+    "description": "On Reveal: Next turn, both players can move cards to this location.",
+    "cost": 2,
+    "power": 4,
+    "abilities": ["on_reveal", "move"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Ebony Maw",
+    "description": "You can’t play this after turn 3. Ongoing: You can’t play cards here.",
+    "cost": 1,
+    "power": 7,
+    "abilities": ["ongoing", "disable_location", "limit_card_play_turn"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Hobgoblin",
+    "description": "On Reveal: Your opponent gains control of this.",
+    "cost": 5,
+    "power": -8,
+    "abilities": ["on_reveal"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Iceman",
+    "description": "On Reveal: Give a random card in your opponent's hand +1 Cost. (maximum 6)",
+    "cost": 1,
+    "power": 2,
+    "abilities": ["on_reveal", "increase_cost"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Jubilee",
+    "description": "On Reveal: Play a card from your deck at this location.",
+    "cost": 4,
+    "power": 1,
+    "abilities": ["on_reveal", "play_deck"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Killmonger",
+    "description": "On Reveal: Destroy ALL 1-Cost cards.",
+    "cost": 3,
+    "power": 3,
+    "abilities": ["on_reveal", "destroy"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Leech",
+    "description": "On Reveal: Remove the abilities from all cards in your opponent’s hand.",
+    "cost": 5,
+    "power": 3,
+    "abilities": ["on_reveal", "disable_ability"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Morbius",
+    "description": "Ongoing: +2 Power for each time you discarded a card this game.",
+    "cost": 2,
+    "power": 0,
+    "abilities": ["ongoing", "power_on_discard", "discard"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Nakia",
+    "description": "On Reveal: Give the 2 leftmost cards in your hand +2 Power.",
+    "cost": 3,
+    "power": 1,
+    "abilities": ["on_reveal", "increase_power"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Okoye",
+    "description": "On Reveal: Give every card in your deck +1 Power.",
+    "cost": 2,
+    "power": 2,
+    "abilities": ["on_reveal", "increase_power"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Rhino",
+    "description": "On Reveal: Ruin this location. (remove its ability)",
+    "cost": 3,
+    "power": 3,
+    "abilities": ["on_reveal", "ruin_location", "disable_ability"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Sabretooth",
+    "description": "When this is destroyed, return it to your hand. It costs 0.",
+    "cost": 3,
+    "power": 4,
+    "abilities": ["destroy", "return_to_hand", "decrease_cost"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Sandman",
+    "description": "Ongoing: Players can only play 1 card a turn.",
+    "cost": 4,
+    "power": 1,
+    "abilities": ["ongoing", "limit_card_play_count"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Scorpion",
+    "description": "On Reveal: Afflict cards in your opponent’s hand with -1 Power.",
+    "cost": 2,
+    "power": 2,
+    "abilities": ["on_reveal", "decrease_power"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Shang-Chi",
+    "description": "On Reveal: Destroy all enemy cards at this location that have 9 or more Power",
+    "cost": 4,
+    "power": 3,
+    "abilities": ["on_reveal", "destroy"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Storm",
+    "description": "On Reveal: Flood this location. Next turn is the last turn cards can be played here.",
+    "cost": 3,
+    "power": 2,
+    "abilities": ["on_reveal", "disable_location"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Sunspot",
+    "description": "At the end of each turn, gain +1 Power for each unspent Energy.",
+    "cost": 1,
+    "power": 1,
+    "abilities": ["increase_power"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Swarm",
+    "description": "When this is discarded from your hand, add two copies that Cost 0 to your hand.",
+    "cost": 2,
+    "power": 3,
+    "abilities": ["add_card_to_hand", "add_card", "discard"],
+    "source": "pool-2"
+  },
+  {
+    "name": "The Collector",
+    "description": "When a card enters your hand from anywhere (except your deck), +1 Power.",
+    "cost": 2,
+    "power": 1,
+    "abilities": ["increase_power"],
+    "source": "pool-2"
+  },
+  {
+    "name": "The Infinaut",
+    "description": "If you played a card last turn, you can’t play this.",
+    "cost": 6,
+    "power": 20,
+    "abilities": [""],
+    "source": "pool-2"
+  },
+  {
+    "name": "Vision",
+    "description": "You can move this each turn.",
+    "cost": 5,
+    "power": 7,
+    "abilities": ["move"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Vulture",
+    "description": "When this card moves, +5 Power.",
+    "cost": 3,
+    "power": 3,
+    "abilities": ["move", "power_on_move", "increase_power"],
+    "source": "pool-2"
+  },
+  {
+    "name": "Warpath",
+    "description": "Ongoing: If any of your locations are empty, +4 Power.",
+    "cost": 4,
+    "power": 5,
+    "abilities": ["ongoing", "increase_power", "power_on_location_count"],
+    "source": "pool-2"
+  }
+]
