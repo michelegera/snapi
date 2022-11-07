@@ -4,7 +4,11 @@
     "description": "On Reveal: If you don’t play a card here next turn, +4 Power.",
     "cost": 4,
     "power": 4,
-    "abilities": ["on_reveal", "power_on_card_play", "increase_power"],
+    "abilities": [
+      "increase_power",
+      "on_reveal",
+      "power_on_card_play"
+    ],
     "source": "pool-0"
   },
   {
@@ -12,7 +16,10 @@
     "description": "Ongoing: Your 1-Cost cards have +1 Power.",
     "cost": 4,
     "power": 4,
-    "abilities": ["ongoing", "increase_power"],
+    "abilities": [
+      "increase_power",
+      "ongoing"
+    ],
     "source": "pool-0"
   },
   {
@@ -20,7 +27,11 @@
     "description": "Ongoing: Adjacent locations have +2 Power.",
     "cost": 3,
     "power": 2,
-    "abilities": ["ongoing", "power_on_location_position", "increase_power"],
+    "abilities": [
+      "increase_power",
+      "ongoing",
+      "power_on_location_position"
+    ],
     "source": "pool-0"
   },
   {
@@ -28,7 +39,9 @@
     "description": "You can move this once.",
     "cost": 1,
     "power": 2,
-    "abilities": ["move"],
+    "abilities": [
+      "move"
+    ],
     "source": "pool-0"
   },
   {
@@ -36,7 +49,9 @@
     "description": "On Reveal: Activate the On Reveal ability of your other cards at this location.",
     "cost": 6,
     "power": 8,
-    "abilities": ["on_reveal"],
+    "abilities": [
+      "on_reveal"
+    ],
     "source": "pool-0"
   },
   {
@@ -44,7 +59,11 @@
     "description": "On Reveal: Give your Ongoing cards +2 Power.",
     "cost": 6,
     "power": 5,
-    "abilities": ["on_reveal", "ongoing", "increase_power"],
+    "abilities": [
+      "increase_power",
+      "on_reveal",
+      "ongoing"
+    ],
     "source": "pool-0"
   },
   {
@@ -52,7 +71,11 @@
     "description": "On Reveal: Add a 7-Power Tiger to another location.",
     "cost": 5,
     "power": 1,
-    "abilities": ["on_reveal", "add_card_at_location", "add_card"],
+    "abilities": [
+      "add_card_at_location",
+      "add_card",
+      "on_reveal"
+    ],
     "source": "pool-0"
   },
   {
@@ -60,7 +83,11 @@
     "description": "On Reveal: +2 Power for each other card you have here.",
     "cost": 3,
     "power": 1,
-    "abilities": ["on_reveal", "power_on_card_count", "increase_power"],
+    "abilities": [
+      "increase_power",
+      "on_reveal",
+      "power_on_card_count"
+    ],
     "source": "pool-0"
   }
 ]
