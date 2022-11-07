@@ -1,0 +1,863 @@
+[
+  {
+    "name": "Altar of Death",
+    "description": "After you play a card here, destroy it to get +2 Energy next turn.",
+    "rarity": "rare",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Asgard",
+    "description": "After turn 4, whoever is winning here draws 2 cards.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Asteroid M",
+    "description": "After you play a 3 or 4-Cost card, move it here.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Atlantis",
+    "description": "If you only have one card here, it has +5 Power.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Attilan",
+    "description": "After turn 3, shuffle your hand into your deck. Draw cards.",
+    "rarity": "ultra-rare",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Avengers Compound",
+    "description": "On turn 5, all cards must be played here.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Bar Sinister",
+    "description": "After you play a card here, fill this location with copies of it.",
+    "rarity": "uncommon",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Bar With No Name",
+    "description": "Whoever has the least Power here wins.",
+    "rarity": "rare",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Baxter Building",
+    "description": "Whoever is winning this location gets +3 Power at the others.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Camp Lehigh",
+    "description": "Add a random 3-Cost card to each player’s hand.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Central Park",
+    "description": "Add a Squirrel to each location.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Cloning Vats",
+    "description": "After you play a card here, add a copy to your hand.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Collapsed Mine",
+    "description": "Fill this location with Rocks. Skip a turn to destroy your Rocks.",
+    "rarity": "uncommon",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Counter-Earth",
+    "description": "After you play a card here, create a copy at this location.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Crimson Cosmos",
+    "description": "Cards that cost 1, 2, or 3 can’t be played here.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Crystal Towers",
+    "description": "Shuffle your hand into your deck. Draw 3 cards.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Daily Bugle",
+    "description": "Get a copy of a card in your opponent’s hand.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Danger Room",
+    "description": "Cards played here have a 25% chance to be destroyed.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Dark Dimension",
+    "description": "Cards here are not revealed until the game ends.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Death’s Domain",
+    "description": "After you play a card here, destroy it.",
+    "rarity": "uncommon",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Deep Space",
+    "description": "On Reveal abilities won’t happen at this location.",
+    "rarity": "common",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "District X",
+    "description": "Replace both decks with 10 random cards.",
+    "rarity": "rare",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Dream Dimension",
+    "description": "On turn 5, cards cost more.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Ego",
+    "description": "Ego takes over and plays your cards for you.",
+    "rarity": "ultra-rare",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Elysium",
+    "description": "Cards cost 1 less.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Eternity Range",
+    "description": "After turn 3, add a Rock to the losing player’s side.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Fisk Tower",
+    "description": "When a card moves here, destroy it.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Flooded",
+    "description": "Cards can’t be played here.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Flooding",
+    "description": "This is the last turn cards can be played here.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Fogwell’s Gym",
+    "description": "Both players get double Card XP this game.",
+    "rarity": "rare",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Gamma Lab",
+    "description": "After turn 3, transform all cards here into the Hulk.",
+    "rarity": "uncommon",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Genosha",
+    "description": "You can move cards to this location.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Grand Central",
+    "description": "After turn 5, put a card from each player’s hand here.",
+    "rarity": "uncommon",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Hala",
+    "description": "After turn 4, destroy all cards controlled by the player losing here.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Hell’s Kitchen",
+    "description": "Draw a 1-Cost card from your deck.",
+    "rarity": "uncommon",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Hellfire Club",
+    "description": "Cards that cost 1 can’t be played here.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Isle of Silence",
+    "description": "Ongoing effects are disabled here.",
+    "rarity": "uncommon",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Jotunheim",
+    "description": "After each turn, cards here lose 1 Power.",
+    "rarity": "uncommon",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "K’un-Lun",
+    "description": "When a card moves here, give it +2 Power.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Kamar-Taj",
+    "description": "On Reveal effects happen twice at this location.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Klyntar",
+    "description": "After turn 4, merge your cards here into a Symbiote.",
+    "rarity": "uncommon",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Knowhere",
+    "description": "On Reveal effects do not happen at this location.",
+    "rarity": "uncommon",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Krakoa",
+    "description": "On turn 5, takes over and plays both players’ cards for them.",
+    "rarity": "rare",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Kyln",
+    "description": "You can’t play cards here after turn 4.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Lamentis-1",
+    "description": "Draw 3 cards. Destroy both decks.",
+    "rarity": "rare",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Lechuguilla",
+    "description": "After you play a card here, shuffle 3 rocks into your deck.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Lemuria",
+    "description": "No cards are revealed this turn.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Limbo",
+    "description": "There is a turn 7 this game.",
+    "rarity": "uncommon",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Los Diablos Base",
+    "description": "After turn 3, ruin a random location.",
+    "rarity": "uncommon",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Luke’s Bar",
+    "description": "After you play a card here, return it to your hand.",
+    "rarity": "rare",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Machineworld",
+    "description": "After you play a card here, add a copy to the opponent’s hand.",
+    "rarity": "uncommon",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Madripoor",
+    "description": "You can move cards from this location.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Mindscape",
+    "description": "At the start of turn 6, swap hands.",
+    "rarity": "uncommon",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Miniaturized Lab",
+    "description": "On turns 3, 4, and 5, no cards can be added here.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Mirror Dimension",
+    "description": "On turn 4, transform into one of the other locations.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Mojoworld",
+    "description": "Whoever has more cards here gets +100 Power.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Monster Island",
+    "description": "Add a Monster-Power here for each player.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Monster Metropolis",
+    "description": "The card(s) with the highest Power here get +3 Power.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Morag",
+    "description": "You can’t play your first card here each turn.",
+    "rarity": "uncommon",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Mother Mold",
+    "description": "When you play a card here, add a Sentinel to your hand.",
+    "rarity": "common",
+    "difficulty": "",
+    "abilities": []
+  },
+  {
+    "name": "Mt. Wundagore",
+    "description": "After you play a card here, discard a card.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Muir Island",
+    "description": "After each turn, give cards here +1 Power.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Murderworld",
+    "description": "After turn 3, destroy all cards here.",
+    "rarity": "common",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Necrosha",
+    "description": "Cards here have -2 Power.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Negative Zone",
+    "description": "Cards here have -3 Power.",
+    "rarity": "uncommon",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "New York",
+    "description": " ",
+    "rarity": "rare",
+    "difficulty": "basic",
+    "abilities": []
+  },
+  {
+    "name": "Nidavellir",
+    "description": "Cards here have +5 Power.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Nova Roma",
+    "description": "Draw a card.",
+    "rarity": "uncommon",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Olympia",
+    "description": "Draw 2 cards.",
+    "rarity": "rare",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Onslaught’s Citadel",
+    "description": "Ongoing effects here are doubled.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Orchis Forge",
+    "description": "After you play a card here, add a Sentinel to your hand.",
+    "rarity": "uncommon",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Oscorp Tower",
+    "description": "After turn 3, all cards here swap sides.",
+    "rarity": "uncommon",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Pet Mansion",
+    "description": "This turn, all cards must be played here.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Pleasant Hill",
+    "description": "After you play a card here, draw a card.",
+    "rarity": "uncommon",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Plunder Castle",
+    "description": "Only cards that cost 6 can be played here.",
+    "rarity": "uncommon",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Project Pegasus",
+    "description": "+5 Energy this turn.",
+    "rarity": "uncommon",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Quantum Realm",
+    "description": "After you play a card here, set its base Power to 2.",
+    "rarity": "uncommon",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Quantum Tunnel",
+    "description": "After you play a card here, swap it with a card in your deck.",
+    "rarity": "rare",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Rickety Bridge",
+    "description": "After each turn, if there is more than one card here, destroy them.",
+    "rarity": "uncommon",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Ruins",
+    "description": "",
+    "rarity": "common",
+    "difficulty": "basic",
+    "abilities": []
+  },
+  {
+    "name": "Sakaar",
+    "description": "Put a card from each player’s hand here.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Sanctum Sanctorum",
+    "description": "Cards can’t be played here.",
+    "rarity": "common",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Savage Land",
+    "description": "Add two Raptors on each side of this location.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Sewer System",
+    "description": "Cards here have -1 Power.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Shadowland",
+    "description": "Add a Ninja to each side with Power.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Shuri’s Lab",
+    "description": "After you play a card here, double its Power.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Sinister London",
+    "description": "After you play a card here, add a copy to another location.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Sokovia",
+    "description": "Discard a card from each player’s hand.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Stark Tower",
+    "description": "After turn 5, give all cards here + Power.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Starlight Citadel",
+    "description": "After turn 4, swap the position of each location.",
+    "rarity": "uncommon",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Strange Academy",
+    "description": "After turn 5, move all cards here to other random locations.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Subterranea",
+    "description": "Shuffle 5 rocks into each deck.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "T.A.H.I.T.I.",
+    "description": "When a card is discarded or destroyed, add a copy here.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "The Bifrost",
+    "description": "After turn 4, move all cards one location to the right.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "The Big House",
+    "description": "Cards that cost 4, 5, or 6 can’t be played here.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "The Hub",
+    "description": "Add a random card to each player’s hand.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "The Ice Box",
+    "description": "Give a card in each player’s hand +1 Cost.",
+    "rarity": "uncommon",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "The Nexus",
+    "description": "Your Power here is granted to other locations as well.",
+    "rarity": "uncommon",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "The Peak",
+    "description": "Each card in your hand swaps its Power and Cost.",
+    "rarity": "rare",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "The Raft",
+    "description": "First to fill this breaks out a 6-Cost card. It costs 0.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "The Sacred Timeline",
+    "description": "First to fill this gets a copy of their opening hand.",
+    "rarity": "rare",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "The Sandbar",
+    "description": "Cards with abilities can’t be played here.",
+    "rarity": "rare",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "The Space Throne",
+    "description": "Only one card can be here for each player.",
+    "rarity": "uncommon",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "The Superflow",
+    "description": "If you have no cards here, +1 energy each turn.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "The Triskelion",
+    "description": "Fill each player’s hand with random cards.",
+    "rarity": "rare",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "The Vault",
+    "description": "On turn 6, cards can’t be played here.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Throne Room",
+    "description": "Card(s) here with the highest Power have their Power doubled.",
+    "rarity": "uncommon",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Tinkerer’s Workshop",
+    "description": "+1 Energy this turn.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Titan",
+    "description": "6-Cost cards cost less.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Transia",
+    "description": "Swap the positions of each location.",
+    "rarity": "uncommon",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "TVA",
+    "description": "After turn 4, end the game.",
+    "rarity": "rare",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Utopia",
+    "description": "On turn 4, cards here can move.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Vibranium Mines",
+    "description": "After you play here, shuffle 3 Vibranium into your deck.",
+    "rarity": "common",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "Vormir",
+    "description": "The first card you play here is destroyed.",
+    "rarity": "uncommon",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Wakanda",
+    "description": "Cards here can’t be destroyed.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Wakandan Embassy",
+    "description": "Give +2 Power to cards in players’ hands.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Warrior Falls",
+    "description": "After each turn, cards here FIGHT! Destroy the weakest one(s).",
+    "rarity": "rare",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Washington D.C.",
+    "description": "Cards here with no abilities have +3 Power.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Weirdworld",
+    "description": "Both players draw from their opponent’s decks.",
+    "rarity": "rare",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Westview",
+    "description": "Turns into a new location on turn 4.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  },
+  {
+    "name": "Worldship",
+    "description": "Destroy the other locations.",
+    "rarity": "ultra-rare",
+    "difficulty": "complex",
+    "abilities": []
+  },
+  {
+    "name": "X-Mansion",
+    "description": "After turn 3, add a random card here for each player.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": []
+  },
+  {
+    "name": "Xandar",
+    "description": "Cards here have +1 Power.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": []
+  }
+]
