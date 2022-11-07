@@ -1,360 +1,376 @@
 [
   {
     "name": "America Chavez",
-    "type": "character",
+    "description": "You always draw this card on turn 6, and not before.",
     "cost": 6,
     "power": 9,
-    "ability": "You always draw this card on turn 6, and not before."
+    "abilities": ["draw_card_on_turn"],
+    "source": "pool-1"
   },
   {
     "name": "Angel",
-    "type": "character",
+    "description": "When one of your cards is destroyed, this flies out of your deck to replace it.",
     "cost": 1,
     "power": 2,
-    "ability": "When one of your cards is destroyed, this flies out of your deck to replace it."
+    "abilities": ["destroy"],
+    "source": "pool-1"
   },
   {
     "name": "Angela",
-    "type": "character",
+    "description": "When you play a card here, +2 Power.",
     "cost": 2,
     "power": 1,
-    "ability": "When you play a card here, +2 Power."
+    "abilities": ["power_on_card_play", "increase_power"],
+    "source": "pool-1"
   },
   {
     "name": "Apocalypse",
-    "type": "character",
+    "description": "When you discard this from your hand, put it back with +4 Power.",
     "cost": 6,
     "power": 8,
-    "ability": "When you discard this from your hand, put it back with +4 Power."
+    "abilities": ["discard", "increase_power", "power_on_discard"],
+    "source": "pool-1"
   },
   {
-    "name": "Apocalypse",
-    "type": "character",
+    "name": "Armor",
+    "description": "Ongoing: Cards at this location can’t be destroyed.",
     "cost": 6,
     "power": 8,
-    "ability": "Cards at this location can’t be destroyed.",
-    "trigger": "ongoing"
+    "abilities": ["ongoing", "destroy"],
+    "source": "pool-1"
   },
   {
     "name": "Bishop",
-    "type": "character",
+    "description": "When you play a card, this gains +1 Power.",
     "cost": 3,
     "power": 1,
-    "ability": "When you play a card, this gains +1 Power."
+    "abilities": ["increase_power", "power_on_card_play"],
+    "source": "pool-1"
   },
   {
     "name": "Blade",
-    "type": "character",
+    "description": "On Reveal: Discard a card from your hand.",
     "cost": 1,
     "power": 3,
-    "ability": "Discard a card from your hand.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "discard"],
+    "source": "pool-1"
   },
   {
     "name": "Cable",
-    "type": "character",
+    "description": "On Reveal: Put the bottom card of your opponent's deck into your hand.",
     "cost": 2,
     "power": 2,
-    "ability": "Put the bottom card of your opponent's deck into your hand.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "add_card_to_hand", "add_card"],
+    "source": "pool-1"
   },
   {
     "name": "Captain America",
-    "type": "character",
+    "description": "Ongoing: Your other cards at this location have +1 Power.",
     "cost": 3,
-    "power": 1,
-    "ability": "Your other cards at this location have +1 Power.",
-    "trigger": "ongoing"
+    "power": 3,
+    "abilities": ["ongoing", "increase_power"],
+    "source": "pool-1"
   },
   {
     "name": "Carnage",
-    "type": "character",
+    "description": "On Reveal: Destroy your other cards here. +2 Power for each destroyed.",
     "cost": 2,
     "power": 2,
-    "ability": "Destroy your other cards here. +2 Power for each destroyed.",
-    "trigger": "on_reveal"
+    "abilities": [
+      "on_reveal",
+      "destroy",
+      "increase_power",
+      "power_on_destroy",
+      "merge"
+    ],
+    "source": "pool-1"
   },
   {
     "name": "Cosmo",
-    "type": "character",
+    "description": "Ongoing: On Reveal abilities won’t happen at this location.",
     "cost": 3,
     "power": 3,
-    "ability": "On Reveal abilities won’t happen at this location.",
-    "trigger": "ongoing"
+    "abilities": ["ongoing", "on_reveal", "disable_ability"],
+    "source": "pool-1"
   },
   {
     "name": "Deathlok",
-    "type": "character",
+    "description": "On Reveal: Destroy your other cards at this location.",
     "cost": 3,
     "power": 5,
-    "ability": "Destroy your other cards at this location.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "destroy"],
+    "source": "pool-1"
   },
   {
     "name": "Devil Dinosaur",
-    "type": "character",
+    "description": "Ongoing: +2 Power for each card in your hand.",
     "cost": 5,
     "power": 3,
-    "ability": "+2 Power for each card in your hand.",
-    "trigger": "ongoing"
+    "abilities": ["ongoing", "increase_power", "power_on_hand_count"],
+    "source": "pool-1"
   },
   {
     "name": "Doctor Strange",
-    "type": "character",
+    "description": "On Reveal: Move your highest Power cards to this location.",
     "cost": 3,
     "power": 3,
-    "ability": "Move your highest Power cards to this location.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "move"],
+    "source": "pool-1"
   },
   {
     "name": "Domino",
-    "type": "character",
+    "description": "You always draw this card on turn 2, and not before.",
     "cost": 2,
     "power": 3,
-    "ability": "You always draw this card on turn 2, and not before."
+    "abilities": ["draw_on_turn"],
+    "source": "pool-1"
   },
   {
     "name": "Elektra",
-    "type": "character",
+    "description": "On Reveal: Destroy a random enemy 1-Cost card at this location.",
     "cost": 1,
     "power": 1,
-    "ability": "Destroy a random enemy 1-Cost card at this location.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "destroy"],
+    "source": "pool-1"
   },
   {
     "name": "Enchantress",
-    "type": "character",
+    "description": "On Reveal: Remove the abilities from all Ongoing cards at this location.",
     "cost": 4,
     "power": 4,
-    "ability": "Remove the abilities from all Ongoing cards at this location.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "disable_ability", "ongoing"],
+    "source": "pool-1"
   },
   {
     "name": "Forge",
-    "type": "character",
+    "description": "On Reveal: Give the next card you play +2 Power.",
     "cost": 2,
     "power": 1,
-    "ability": "Give the next card you play +2 Power.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "increase_power", "power_on_card_play"],
+    "source": "pool-1"
   },
   {
     "name": "Groot",
-    "type": "character",
+    "description": "If your opponent played a card here this turn, +3 Power.",
     "cost": 3,
     "power": 3,
-    "ability": "If your opponent played a card here this turn, +3 Power."
+    "abilities": ["increase_power", "on_reveal", "power_on_card_play"],
+    "source": "pool-1"
   },
   {
     "name": "Heimdall",
-    "type": "character",
+    "description": "On Reveal: Move your other cards one location to the left.",
     "cost": 6,
     "power": 8,
-    "ability": "Move your other cards one location to the left.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "move"],
+    "source": "pool-1"
   },
   {
     "name": "Hulk Buster",
-    "type": "character",
+    "description": "On Reveal: Merge this card with a random friendly card at this location.",
     "cost": 3,
     "power": 4,
-    "ability": "Merge this card with a random friendly card at this location.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "merge"],
+    "source": "pool-1"
   },
   {
     "name": "Iron Fist",
-    "type": "character",
+    "description": "On Reveal: Move the next card you play one location to the left after it reveals.",
     "cost": 1,
     "power": 2,
-    "ability": "Move the next card you play one location to the left after it reveals.",
-    "trigger": "on_reveal"
-  },
-  {
-    "name": "Ka-Zar",
-    "type": "character",
-    "cost": 4,
-    "power": 4,
-    "ability": "Your 1-Cost cards have +1 Power.",
-    "trigger": "ongoing"
+    "abilities": ["on_reveal", "move"],
+    "source": "pool-1"
   },
   {
     "name": "Klaw",
-    "type": "character",
+    "description": "Ongoing: The location to the right has +6 Power.",
     "cost": 5,
     "power": 4,
-    "ability": "The location to the right has +6 Power.",
-    "trigger": "ongoing"
+    "abilities": ["ongoing", "power_on_location_position"],
+    "source": "pool-1"
   },
   {
     "name": "Korg",
-    "type": "character",
+    "description": "On Reveal: Shuffle a Rock into your opponent’s deck.",
     "cost": 1,
     "power": 2,
-    "ability": "Shuffle a Rock into your opponent’s deck.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "add_card", "add_card_to_deck"],
+    "source": "pool-1"
   },
   {
     "name": "Kraven",
-    "type": "character",
+    "description": "When a card moves here, this gets +2 Power.",
     "cost": 2,
     "power": 2,
-    "ability": "When a card moves here, this gets +2 Power."
+    "abilities": ["increase_power", "move", "power_on_move"],
+    "source": "pool-1"
   },
   {
     "name": "Lady Sif",
-    "type": "character",
+    "description": "On Reveal: Discard the highest-cost card from your hand.",
     "cost": 3,
     "power": 4,
-    "ability": "Discard the highest-cost card from your hand.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "discard"],
+    "source": "pool-1"
   },
   {
     "name": "Lizard",
-    "type": "character",
+    "description": "Ongoing: -3 Power if your opponent has 4 cards here.",
     "cost": 2,
     "power": 5,
-    "ability": "-3 Power if your opponent has 4 cards here.",
-    "trigger": "ongoing"
+    "abilities": ["ongoing", "power_on_card_count"],
+    "source": "pool-1"
   },
   {
     "name": "Mantis",
-    "type": "character",
+    "description": "On Reveal: If your opponent played a card here this turn, draw a card from their deck.",
     "cost": 1,
     "power": 2,
-    "ability": "If your opponent played a card here this turn, draw a card from their deck.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "card_draw"],
+    "source": "pool-1"
   },
   {
     "name": "Mister Sinister",
-    "type": "character",
+    "description": "On Reveal: Add a Sinister Clone to this location with the same Power.",
     "cost": 2,
     "power": 2,
-    "ability": "Add a Sinister Clone to this location with the same Power.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "add_card", "add_card_at_location"],
+    "source": "pool-1"
   },
   {
     "name": "Moon Girl",
-    "type": "character",
+    "description": "On Reveal: Duplicate your hand.",
     "cost": 4,
     "power": 4,
-    "ability": "Duplicate your hand.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "duplicate_card"],
+    "source": "pool-1"
   },
   {
     "name": "Morph",
-    "type": "character",
+    "description": "On Reveal: Become a copy of a random card in your opponent’s hand.",
     "cost": 3,
     "power": 0,
-    "ability": "Become a copy of a random card in your opponent’s hand.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "duplicate_card"],
+    "source": "pool-1"
   },
   {
     "name": "Multiple Man",
-    "type": "character",
+    "description": "On Reveal: When this moves, add a copy to the old location.",
     "cost": 2,
     "power": 3,
-    "ability": "When this moves, add a copy to the old location.",
-    "trigger": "on_reveal"
+    "abilities": ["duplicate_card", "move"],
+    "source": "pool-1"
   },
   {
     "name": "Namor",
-    "type": "character",
+    "description": "Ongoing: +5 Power if this is your only card here.",
     "cost": 4,
     "power": 5,
-    "ability": "+5 Power if this is your only card here.",
-    "trigger": "ongoing"
+    "abilities": ["ongoing", "increase_power", "power_on_card_count"],
+    "source": "pool-1"
   },
   {
     "name": "Nova",
-    "type": "character",
+    "description": "When this is destroyed, give your cards +1 Power.",
     "cost": 1,
     "power": 2,
-    "ability": "When this is destroyed, give your cards +1 Power."
+    "abilities": ["increase_power", "destroy", "power_on_destroy"],
+    "source": "pool-1"
   },
   {
     "name": "Onslaught",
-    "type": "character",
+    "description": "Ongoing: Double your other Ongoing effects at this location.",
     "cost": 6,
     "power": 7,
-    "ability": "Double your other Ongoing effects at this location.",
-    "trigger": "ongoing"
+    "abilities": ["ongoing"],
+    "source": "pool-1"
   },
   {
     "name": "Professor X",
-    "type": "character",
+    "description": "Ongoing: Lock down this location. (Cards can’t be added, removed, etc.).",
     "cost": 5,
     "power": 3,
-    "ability": "Lock down this location. (Cards can’t be added, removed, etc.).",
-    "trigger": "ongoing"
+    "abilities": ["ongoing", "disable_location"],
+    "source": "pool-1"
   },
   {
     "name": "Rocket Racoon",
-    "type": "character",
+    "description": "On Reveal: If your opponent played a card here this turn, +2 Power.",
     "cost": 1,
     "power": 2,
-    "ability": "If your opponent played a card here this turn, +2 Power.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "increase_power", "power_on_card_play"],
+    "source": "pool-1"
   },
   {
     "name": "Scarlet Witch",
-    "type": "character",
+    "description": "On Reveal: Replace this location with a random new one.",
     "cost": 2,
     "power": 3,
-    "ability": "Replace this location with a random new one.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "change_location"],
+    "source": "pool-1"
   },
   {
     "name": "Spider-Woman",
-    "type": "character",
+    "description": "On Reveal: Afflict all enemy cards here with -1 Power.",
     "cost": 5,
     "power": 7,
-    "ability": "Afflict all enemy cards here with -1 Power.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "decrease_power"],
+    "source": "pool-1"
   },
   {
     "name": "Squirrel Girl",
-    "type": "character",
+    "description": "On Reveal: Add a 1-Power Squirrel to each other location.",
     "cost": 1,
     "power": 1,
-    "ability": "Add a 1-Power Squirrel to each other location.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "add_card_at_location", "add_card"],
+    "source": "pool-1"
   },
   {
     "name": "Strong Guy",
-    "type": "character",
+    "description": "Ongoing: If your hand is empty, +6 Power.",
     "cost": 4,
     "power": 4,
-    "ability": "If your hand is empty, +6 Power.",
-    "trigger": "ongoing"
+    "abilities": ["ongoing", "increase_power", "power_on_hand_count"],
+    "source": "pool-1"
   },
   {
     "name": "Sword Master",
-    "type": "character",
+    "description": "On Reveal: Discard a card from your hand.",
     "cost": 3,
     "power": 6,
-    "ability": "Discard a card from your hand.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "discard"],
+    "source": "pool-1"
+  },
+  {
+    "name": "Uatu the Watcher",
+    "description": "Once this is in your hand, you can see the unrevealed locations.",
+    "cost": 1,
+    "power": 2,
+    "abilities": ["reveal_location"],
+    "source": "pool-1"
   },
   {
     "name": "White Queen",
-    "type": "character",
+    "description": "On Reveal: Draw a copy of the highest Cost card in your opponent’s hand.",
     "cost": 4,
     "power": 6,
-    "ability": "Draw a copy of the highest Cost card in your opponent’s hand.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "add_card", "add_card_to_hand", "card_draw"],
+    "source": "pool-1"
   },
   {
     "name": "Wolverine",
-    "type": "character",
+    "description": "When this is discarded or destroyed, play it at a random location.",
     "cost": 2,
     "power": 3,
-    "ability": "When this is discarded or destroyed, play it at a random location."
+    "abilities": ["destroy", "add_card_at_location", "discard", "add_card"],
+    "source": "pool-1"
   },
   {
     "name": "Yondu",
-    "type": "character",
+    "description": "On Reveal: Remove the top card of your opponent’s deck.",
     "cost": 1,
     "power": 2,
-    "ability": "Remove the top card of your opponent’s deck.",
-    "trigger": "on_reveal"
+    "abilities": ["on_reveal", "discard"],
+    "source": "pool-1"
   }
 ]

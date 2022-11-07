@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Jessica Jones",
+    "description": "On Reveal: If you don’t play a card here next turn, +4 Power.",
+    "cost": 4,
+    "power": 4,
+    "abilities": ["on_reveal", "power_on_card_play", "increase_power"],
+    "source": "pool-0"
+  },
+  {
+    "name": "Ka-Zar",
+    "description": "Ongoing: Your 1-Cost cards have +1 Power.",
+    "cost": 4,
+    "power": 4,
+    "abilities": ["ongoing", "increase_power"],
+    "source": "pool-0"
+  },
+  {
+    "name": "Mister Fantastic",
+    "description": "Ongoing: Adjacent locations have +2 Power.",
+    "cost": 3,
+    "power": 2,
+    "abilities": ["ongoing", "power_on_location_position", "increase_power"],
+    "source": "pool-0"
+  },
+  {
+    "name": "Nightcrawler",
+    "description": "You can move this once.",
+    "cost": 1,
+    "power": 2,
+    "abilities": ["move"],
+    "source": "pool-0"
+  },
+  {
+    "name": "Odin",
+    "description": "On Reveal: Activate the On Reveal ability of your other cards at this location.",
+    "cost": 6,
+    "power": 8,
+    "abilities": ["on_reveal"],
+    "source": "pool-0"
+  },
+  {
+    "name": "Spectrum",
+    "description": "On Reveal: Give your Ongoing cards +2 Power.",
+    "cost": 6,
+    "power": 5,
+    "abilities": ["on_reveal", "ongoing", "increase_power"],
+    "source": "pool-0"
+  },
+  {
+    "name": "White Tiger",
+    "description": "On Reveal: Add a 7-Power Tiger to another location.",
+    "cost": 5,
+    "power": 1,
+    "abilities": ["on_reveal", "add_card_at_location", "add_card"],
+    "source": "pool-0"
+  },
+  {
+    "name": "Wolfsbane",
+    "description": "On Reveal: +2 Power for each other card you have here.",
+    "cost": 3,
+    "power": 1,
+    "abilities": ["on_reveal", "power_on_card_count", "increase_power"],
+    "source": "pool-0"
+  }
+]

@@ -1,6 +1,7 @@
 import { PrismaClient } from "@prisma/client";
 
-import base from "./data/cards/base.json";
+import starter from "./data/cards/starter.json";
+import pool0 from "./data/cards/pool_0.json";
 import pool1 from "./data/cards/pool_1.json";
 
 const prisma = new PrismaClient();
@@ -11,7 +12,7 @@ async function main() {
 
   // Create cards
   await Promise.all(
-    [...base, ...pool1].map((card) => {
+    [...starter, ...pool0, ...pool1].map((card) => {
       return prisma.card.create({
         data: card,
       });

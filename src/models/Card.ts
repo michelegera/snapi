@@ -5,11 +5,10 @@ builder.prismaObject("Card", {
   fields: (t) => ({
     id: t.exposeID("id"),
     name: t.exposeString("name"),
-    type: t.exposeString("type"),
+    description: t.exposeString("description"),
     cost: t.exposeInt("cost"),
     power: t.exposeInt("power"),
-    ability: t.exposeString("ability"),
-    trigger: t.exposeString("trigger", { nullable: true }),
+    abilities: t.exposeStringList("abilities"),
   }),
 });
 
