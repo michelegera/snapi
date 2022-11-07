@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Asgard",
+    "description": "After turn 4, whoever is winning here draws 2 cards.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": [
+      "move"
+    ]
+  },
+  {
+    "name": "Asteroid M",
+    "description": "When you play a 3 or 4-Cost card, move it here.",
+    "rarity": "common",
+    "difficulty": "advanced",
+    "abilities": [
+      "move"
+    ]
+  },
+  {
+    "name": "Atlantis",
+    "description": "If you only have one card here, it has +5 Power.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": [
+      "increase_power",
+      "power_on_card_count"
+    ]
+  },
+  {
+    "name": "Attilan",
+    "description": "After turn 3, shuffle your hand into your deck. Draw 3 cards.",
+    "rarity": "common",
+    "difficulty": "standard",
+    "abilities": [
+      "limit_card_play_location"
+    ]
+  }
+]
