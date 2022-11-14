@@ -1,0 +1,10 @@
+pre-commit:
+  parallel: true
+  commands:
+    rome-format:
+      glob: "*.{js,ts}"
+      run: ./node_modules/rome/bin/rome format {staged_files}
+
+    rome-check:
+      glob: "*.{js,ts}"
+      run: ./node_modules/rome/bin/rome check {staged_files}

@@ -5,12 +5,12 @@ import type PrismaTypes from "@pothos/plugin-prisma/generated";
 import { prisma } from "./db";
 
 export const builder = new SchemaBuilder<{
-  PrismaTypes: PrismaTypes;
+	PrismaTypes: PrismaTypes;
 }>({
-  plugins: [PrismaPlugin],
-  prisma: {
-    client: prisma,
-  },
+	plugins: [PrismaPlugin],
+	prisma: {
+		client: prisma,
+	},
 });
 
 builder.queryType({});

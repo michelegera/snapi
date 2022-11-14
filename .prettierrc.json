@@ -1,4 +1,0 @@
-{
-  "plugins": ["./node_modules/prettier-plugin-multiline-arrays"],
-  "multilineArraysWrapThreshold": 0
-}
