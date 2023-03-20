@@ -33,6 +33,7 @@ model Location {
   rarity      String
   difficulty  String
   abilities   String[]
+  released    Boolean
 
   @@map("location")
 }

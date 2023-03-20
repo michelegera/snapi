@@ -8,6 +8,7 @@ builder.prismaObject("Location", {
 		description: t.exposeString("description"),
 		rarity: t.exposeString("rarity"),
 		difficulty: t.exposeString("difficulty"),
+		released: t.exposeBoolean("released"),
 	}),
 });
 
