@@ -1,0 +1,559 @@
+[
+  {
+    "name": "America Chavez",
+    "slug": "america-chavez",
+    "ability": "You always draw this card on turn 6, and not before.",
+    "cost": 6,
+    "power": 9,
+    "status": "released",
+    "tags": [],
+    "source": "pool-1"
+  },
+  {
+    "name": "Angel",
+    "slug": "angel",
+    "ability": "When one of your cards is destroyed, this flies out of your deck to replace it.",
+    "cost": 1,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "destroy"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Angela",
+    "slug": "angela",
+    "ability": "After you play a card here, +2 Power.",
+    "cost": 2,
+    "power": 0,
+    "status": "released",
+    "tags": [],
+    "source": "pool-1"
+  },
+  {
+    "name": "Apocalypse",
+    "slug": "apocalypse",
+    "ability": "When you discard this from your hand, put it back with +4 Power.",
+    "cost": 6,
+    "power": 8,
+    "status": "released",
+    "tags": [
+      "discard"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Armor",
+    "slug": "armor",
+    "ability": "Ongoing: Cards at this location can’t be destroyed.",
+    "cost": 2,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Bishop",
+    "slug": "bishop",
+    "ability": "After you play a card, this gains +1 Power.",
+    "cost": 3,
+    "power": 1,
+    "status": "released",
+    "tags": [],
+    "source": "pool-1"
+  },
+  {
+    "name": "Blade",
+    "slug": "blade",
+    "ability": "On Reveal: Discard a card from your hand.",
+    "cost": 1,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "discard",
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Cable",
+    "slug": "cable",
+    "ability": "On Reveal: Put the bottom card of your opponent’s deck into your hand.",
+    "cost": 2,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Captain America",
+    "slug": "captain-america",
+    "ability": "Ongoing: Your other cards at this location have +1 Power.",
+    "cost": 3,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "shield",
+      "ongoing"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Carnage",
+    "slug": "carnage",
+    "ability": "On Reveal: Destroy your other cards here. +2 Power for each destroyed.",
+    "cost": 2,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "destroy",
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Cosmo",
+    "slug": "cosmo",
+    "ability": "Ongoing: On Reveal abilities won’t happen at this location.",
+    "cost": 3,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "on-reveal",
+      "ongoing"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Deathlok",
+    "slug": "deathlok",
+    "ability": "On Reveal: Destroy your other cards at this location.",
+    "cost": 3,
+    "power": 5,
+    "status": "released",
+    "tags": [
+      "destroy",
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Devil Dinosaur",
+    "slug": "devil-dinosaur",
+    "ability": "Ongoing: +2 Power for each card in your hand.",
+    "cost": 5,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Doctor Strange",
+    "slug": "doctor-strange",
+    "ability": "On Reveal: Move your highest Power cards to this location.",
+    "cost": 3,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Domino",
+    "slug": "domino",
+    "ability": "You always draw this card on turn 2, and not before.",
+    "cost": 2,
+    "power": 3,
+    "status": "released",
+    "tags": [],
+    "source": "pool-1"
+  },
+  {
+    "name": "Elektra",
+    "slug": "elektra",
+    "ability": "On Reveal: Destroy a random enemy 1-Cost card at this location.",
+    "cost": 1,
+    "power": 1,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Enchantress",
+    "slug": "enchantress",
+    "ability": "On Reveal: Remove the abilities from all Ongoing cards at this location.",
+    "cost": 4,
+    "power": 4,
+    "status": "released",
+    "tags": [
+      "move",
+      "on-reveal",
+      "ongoing"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Forge",
+    "slug": "forge",
+    "ability": "On Reveal: Give the next card you play +2 Power.",
+    "cost": 2,
+    "power": 1,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Groot",
+    "slug": "groot",
+    "ability": "On Reveal: If your opponent played a card here this turn, +2 Power.",
+    "cost": 3,
+    "power": 4,
+    "status": "released",
+    "tags": [
+      "guardians-of-the-galaxy",
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Heimdall",
+    "slug": "heimdall",
+    "ability": "On Reveal: Move your other cards one location to the left.",
+    "cost": 6,
+    "power": 8,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Hulkbuster",
+    "slug": "hulkbuster",
+    "ability": "On Reveal: Merge this card with a random friendly card at this location.",
+    "cost": 3,
+    "power": 4,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Iron Fist",
+    "slug": "iron-fist",
+    "ability": "On Reveal: After you play your next card, move it one location to the left.",
+    "cost": 1,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "move",
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Klaw",
+    "slug": "klaw",
+    "ability": "Ongoing: The location to the right has +6 Power.",
+    "cost": 5,
+    "power": 4,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Korg",
+    "slug": "korg",
+    "ability": "On Reveal: Shuffle a Rock into your opponent’s deck.",
+    "cost": 1,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Kraven",
+    "slug": "kraven",
+    "ability": "When a card moves here, this gets +2 Power.",
+    "cost": 2,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "move"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Lady Sif",
+    "slug": "lady-sif",
+    "ability": "On Reveal: Discard the highest-cost card from your hand.",
+    "cost": 3,
+    "power": 4,
+    "status": "released",
+    "tags": [
+      "discard",
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Lizard",
+    "slug": "lizard",
+    "ability": "Ongoing: -3 Power if your opponent has 4 cards here.",
+    "cost": 2,
+    "power": 5,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Mantis",
+    "slug": "mantis",
+    "ability": "On Reveal: If your opponent played a card here this turn, draw a card from their deck.",
+    "cost": 1,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "guardians-of-the-galaxy",
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Mister Sinister",
+    "slug": "mister-sinister",
+    "ability": "On Reveal: Add a Sinister Clone to this location with the same Power.",
+    "cost": 2,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Moon Girl",
+    "slug": "moon-girl",
+    "ability": "On Reveal: Duplicate your hand.",
+    "cost": 4,
+    "power": 4,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Morph",
+    "slug": "morph",
+    "ability": "On Reveal: Become a copy of a random card in your opponent’s hand.",
+    "cost": 3,
+    "power": 0,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Multiple Man",
+    "slug": "multiple-man",
+    "ability": "When this moves, add a copy to the old location.",
+    "cost": 2,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "move"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Namor",
+    "slug": "namor",
+    "ability": "Ongoing: +5 Power if this is your only card here.",
+    "cost": 4,
+    "power": 6,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Nova",
+    "slug": "nova",
+    "ability": "When this is destroyed, give your cards +1 Power.",
+    "cost": 1,
+    "power": 1,
+    "status": "released",
+    "tags": [
+      "destroy"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Onslaught",
+    "slug": "onslaught",
+    "ability": "Ongoing: Double your other Ongoing effects at this location.",
+    "cost": 6,
+    "power": 7,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Professor X",
+    "slug": "professor-x",
+    "ability": "Ongoing: Lock down this location. (Cards can’t be added, removed, etc.)",
+    "cost": 5,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Rocket Raccoon",
+    "slug": "rocket-raccoon",
+    "ability": "On Reveal: If your opponent played a card here this turn, +2 Power.",
+    "cost": 1,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "guardians-of-the-galaxy",
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Scarlet Witch",
+    "slug": "scarlet-witch",
+    "ability": "On Reveal: Replace this location with a random new one.",
+    "cost": 2,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "hydra",
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Spider-Woman",
+    "slug": "spider-woman",
+    "ability": "On Reveal: Afflict all enemy cards here with -1 Power.",
+    "cost": 5,
+    "power": 8,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Squirrel Girl",
+    "slug": "squirrel-girl",
+    "ability": "On Reveal: Add a 1-Power Squirrel to each other location.",
+    "cost": 1,
+    "power": 1,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Strong Guy",
+    "slug": "strong-guy",
+    "ability": "Ongoing: If your hand is empty, +6 Power.",
+    "cost": 4,
+    "power": 4,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Sword Master",
+    "slug": "sword-master",
+    "ability": "On Reveal: Discard a card from your hand.",
+    "cost": 3,
+    "power": 6,
+    "status": "released",
+    "tags": [
+      "discard",
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Uatu the Watcher",
+    "slug": "uatu-the-watcher",
+    "ability": "Once this is in your hand, you can see the unrevealed locations.",
+    "cost": 1,
+    "power": 2,
+    "status": "released",
+    "tags": [],
+    "source": "pool-1"
+  },
+  {
+    "name": "White Queen",
+    "slug": "white-queen",
+    "ability": "On Reveal: Draw a copy of the highest Cost card in your opponent’s hand.",
+    "cost": 4,
+    "power": 6,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Wolverine",
+    "slug": "wolverine",
+    "ability": "When this is discarded or destroyed, regenerate it at a random location with +2 Power.",
+    "cost": 2,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "destroy",
+      "discard"
+    ],
+    "source": "pool-1"
+  },
+  {
+    "name": "Yondu",
+    "slug": "yondu",
+    "ability": "On Reveal: Destroy the top card of your opponent’s deck.",
+    "cost": 1,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-1"
+  }
+]

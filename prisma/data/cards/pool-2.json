@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Agent 13",
+    "slug": "agent-13",
+    "ability": "On Reveal: Add a random card to your hand.",
+    "cost": 1,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "shield",
+      "on-reveal"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Bucky Barnes",
+    "slug": "bucky-barnes",
+    "ability": "When this is destroyed, create the Winter Soldier in its place.",
+    "cost": 2,
+    "power": 1,
+    "status": "released",
+    "tags": [
+      "destroy"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Cloak",
+    "slug": "cloak",
+    "ability": "On Reveal: Next turn, both players can move cards to this location.",
+    "cost": 2,
+    "power": 4,
+    "status": "released",
+    "tags": [
+      "move",
+      "on-reveal"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Ebony Maw",
+    "slug": "ebony-maw",
+    "ability": "You can’t play this after turn 3. Ongoing: You can’t play cards here.",
+    "cost": 1,
+    "power": 7,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Hobgoblin",
+    "slug": "hobgoblin",
+    "ability": "On Reveal: Your opponent gains control of this.",
+    "cost": 5,
+    "power": -8,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Iceman",
+    "slug": "iceman",
+    "ability": "On Reveal: Give a random card in your opponent’s hand +1 Cost. (maximum 6)",
+    "cost": 1,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Jubilee",
+    "slug": "jubilee",
+    "ability": "On Reveal: Add a card from your deck to this location.",
+    "cost": 4,
+    "power": 1,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Killmonger",
+    "slug": "killmonger",
+    "ability": "On Reveal: Destroy ALL 1-Cost cards.",
+    "cost": 3,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "destroy",
+      "on-reveal"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Leech",
+    "slug": "leech",
+    "ability": "On Reveal: Remove the abilities from all cards in your opponent’s hand.",
+    "cost": 5,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Morbius",
+    "slug": "morbius",
+    "ability": "Ongoing: +2 Power for each time you discarded a card this game.",
+    "cost": 2,
+    "power": 0,
+    "status": "released",
+    "tags": [
+      "discard",
+      "ongoing"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Nakia",
+    "slug": "nakia",
+    "ability": "On Reveal: Give the 2 leftmost cards in your hand +2 Power.",
+    "cost": 3,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Okoye",
+    "slug": "okoye",
+    "ability": "On Reveal: Give every card in your deck +1 Power.",
+    "cost": 2,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Rhino",
+    "slug": "rhino",
+    "ability": "On Reveal: Ruin this location. (remove its ability)",
+    "cost": 3,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Sabretooth",
+    "slug": "sabretooth",
+    "ability": "When this is destroyed, return it to your hand. It costs 0.",
+    "cost": 3,
+    "power": 4,
+    "status": "released",
+    "tags": [
+      "destroy"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Sandman",
+    "slug": "sandman",
+    "ability": "Ongoing: Players can only play 1 card a turn.",
+    "cost": 5,
+    "power": 5,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Scorpion",
+    "slug": "scorpion",
+    "ability": "On Reveal: Afflict cards in your opponent’s hand with -1 Power.",
+    "cost": 2,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Shang-Chi",
+    "slug": "shang-chi",
+    "ability": "On Reveal: Destroy all enemy cards at this location that have 9 or more Power.",
+    "cost": 4,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "destroy",
+      "on-reveal"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "ability": "On Reveal: Flood this location. Next turn is the last turn cards can be played here.",
+    "cost": 3,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Sunspot",
+    "slug": "sunspot",
+    "ability": "At the end of each turn, gain +1 Power for each unspent Energy.",
+    "cost": 1,
+    "power": 1,
+    "status": "released",
+    "tags": [],
+    "source": "pool-2"
+  },
+  {
+    "name": "Swarm",
+    "slug": "swarm",
+    "ability": "When this is discarded from your hand, add two copies that Cost 0 to your hand.",
+    "cost": 2,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "discard"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "The Collector",
+    "slug": "the-collector",
+    "ability": "",
+    "cost": 2,
+    "power": 1,
+    "status": "released",
+    "tags": [],
+    "source": "pool-2"
+  },
+  {
+    "name": "The Infinaut",
+    "slug": "the-infinaut",
+    "ability": "If you played a card last turn, you can’t play this.",
+    "cost": 6,
+    "power": 20,
+    "status": "released",
+    "tags": [],
+    "source": "pool-2"
+  },
+  {
+    "name": "Vision",
+    "slug": "vision",
+    "ability": "You can move this each turn.",
+    "cost": 5,
+    "power": 7,
+    "status": "released",
+    "tags": [
+      "move"
+    ],
+    "source": "pool-2"
+  },
+  {
+    "name": "Vulture",
+    "slug": "vulture",
+    "ability": "When this card moves, +5 Power.",
+    "cost": 3,
+    "power": 3,
+    "status": "released",
+    "tags": [],
+    "source": "pool-2"
+  },
+  {
+    "name": "Warpath",
+    "slug": "warpath",
+    "ability": "Ongoing: If any of your locations are empty, +4 Power.",
+    "cost": 4,
+    "power": 5,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-2"
+  }
+]

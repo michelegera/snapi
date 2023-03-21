@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Ant Man",
+    "slug": "ant-man",
+    "ability": "Ongoing: If you have 3 other cards here, +3 Power.",
+    "cost": 1,
+    "power": 1,
+    "status": "released",
+    "tags": [],
+    "source": "recruit-season"
+  },
+  {
+    "name": "Blue Marvel",
+    "slug": "blue-marvel",
+    "ability": "Ongoing: Your other cards have +1 Power.",
+    "cost": 5,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "recruit-season"
+  },
+  {
+    "name": "Colossus",
+    "slug": "colossus",
+    "ability": "Ongoing: Can’t be destroyed, moved, or have its Power reduced.",
+    "cost": 2,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "destroy",
+      "move",
+      "ongoing"
+    ],
+    "source": "recruit-season"
+  },
+  {
+    "name": "Gamora",
+    "slug": "gamora",
+    "ability": "On Reveal: If your opponent played a card here this turn, +5 Power.",
+    "cost": 5,
+    "power": 7,
+    "status": "released",
+    "tags": [
+      "guardians-of-the-galaxy",
+      "on-reveal"
+    ],
+    "source": "recruit-season"
+  },
+  {
+    "name": "Ironheart",
+    "slug": "ironheart",
+    "ability": "On Reveal: Give 3 other friendly cards +2 Power.",
+    "cost": 3,
+    "power": 0,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "recruit-season"
+  }
+]

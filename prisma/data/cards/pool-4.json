@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Attuma",
+    "slug": "attuma",
+    "ability": "If you have another card here at the end of your turn, destroy this.",
+    "cost": 4,
+    "power": 10,
+    "status": "released",
+    "tags": [
+      "destroy"
+    ],
+    "source": "pool-4"
+  },
+  {
+    "name": "Bast",
+    "slug": "bast",
+    "ability": "On Reveal: Set the Power of all cards in your hand to 3.",
+    "cost": 1,
+    "power": 1,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-4"
+  },
+  {
+    "name": "Black Panther",
+    "slug": "black-panther",
+    "ability": "On Reveal: Double this card’s Power.",
+    "cost": 5,
+    "power": 4,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-4"
+  },
+  {
+    "name": "Darkhawk",
+    "slug": "darkhawk",
+    "ability": "Ongoing: +2 Power for each card in your opponent’s deck.",
+    "cost": 4,
+    "power": 0,
+    "status": "released",
+    "tags": [],
+    "source": "pool-4"
+  },
+  {
+    "name": "Knull",
+    "slug": "knull",
+    "ability": "Ongoing: Has the combined Power of all cards destroyed this game.",
+    "cost": 6,
+    "power": 0,
+    "status": "released",
+    "tags": [
+      "destroy"
+    ],
+    "source": "pool-4"
+  },
+  {
+    "name": "M’Baku",
+    "slug": "m-baku",
+    "ability": "If this is in your deck at the end of the game, it jumps to a random location.",
+    "cost": 1,
+    "power": 2,
+    "status": "released",
+    "tags": [],
+    "source": "pool-4"
+  },
+  {
+    "name": "Orka",
+    "slug": "orka",
+    "ability": "Ongoing: +5 Power if this is your only card here.",
+    "cost": 6,
+    "power": 9,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-4"
+  },
+  {
+    "name": "Sentry",
+    "slug": "sentry",
+    "ability": "You can’t play this at the right location. On Reveal: Add a -8 Power Void to the right location.",
+    "cost": 4,
+    "power": 8,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-4"
+  },
+  {
+    "name": "Shuri",
+    "slug": "shuri",
+    "ability": "On Reveal: Double the Power of the next card you play.",
+    "cost": 4,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-4"
+  },
+  {
+    "name": "Silver Surfer",
+    "slug": "silver-surfer",
+    "ability": "On Reveal: Give your other 3-Cost cards +2 Power.",
+    "cost": 3,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-4"
+  },
+  {
+    "name": "Super-Skrull",
+    "slug": "super-skrull",
+    "ability": "Ongoing: Has the Ongoing effects of all enemy cards.",
+    "cost": 4,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-4"
+  },
+  {
+    "name": "Valkyrie",
+    "slug": "valkyrie",
+    "ability": "On Reveal: Set ALL cards at this location to 3 Power.",
+    "cost": 5,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-4"
+  }
+]

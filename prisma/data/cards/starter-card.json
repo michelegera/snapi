@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Abomination",
+    "slug": "abomination",
+    "ability": "",
+    "cost": 5,
+    "power": 9,
+    "status": "released",
+    "tags": [
+      "no-ability"
+    ],
+    "source": "starter-card"
+  },
+  {
+    "name": "Cyclops",
+    "slug": "cyclops",
+    "ability": "",
+    "cost": 3,
+    "power": 4,
+    "status": "released",
+    "tags": [
+      "no-ability"
+    ],
+    "source": "starter-card"
+  },
+  {
+    "name": "Hawkeye",
+    "slug": "hawkeye",
+    "ability": "On Reveal: If you play a card here next turn, +2 Power.",
+    "cost": 1,
+    "power": 1,
+    "status": "released",
+    "tags": [
+      "shield",
+      "on-reveal"
+    ],
+    "source": "starter-card"
+  },
+  {
+    "name": "Hulk",
+    "slug": "hulk",
+    "ability": "",
+    "cost": 6,
+    "power": 12,
+    "status": "released",
+    "tags": [
+      "no-ability"
+    ],
+    "source": "starter-card"
+  },
+  {
+    "name": "Iron Man",
+    "slug": "iron-man",
+    "ability": "Ongoing: Your total Power is doubled at this location.",
+    "cost": 5,
+    "power": 0,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "starter-card"
+  },
+  {
+    "name": "Medusa",
+    "slug": "medusa",
+    "ability": "On Reveal: If this is at the middle location, +2 Power.",
+    "cost": 2,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "starter-card"
+  },
+  {
+    "name": "Misty Knight",
+    "slug": "misty-knight",
+    "ability": "",
+    "cost": 1,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "no-ability"
+    ],
+    "source": "starter-card"
+  },
+  {
+    "name": "Punisher",
+    "slug": "punisher",
+    "ability": "Ongoing: +1 Power for each opposing card at this location.",
+    "cost": 3,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "starter-card"
+  },
+  {
+    "name": "Quicksilver",
+    "slug": "quicksilver",
+    "ability": "Starts in your opening hand.",
+    "cost": 1,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "hydra"
+    ],
+    "source": "starter-card"
+  },
+  {
+    "name": "Sentinel",
+    "slug": "sentinel",
+    "ability": "On Reveal: Add another Sentinel to your hand.",
+    "cost": 2,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "starter-card"
+  },
+  {
+    "name": "Shocker",
+    "slug": "shocker",
+    "ability": "",
+    "cost": 2,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "no-ability"
+    ],
+    "source": "starter-card"
+  },
+  {
+    "name": "Star-Lord",
+    "slug": "star-lord",
+    "ability": "On Reveal: If your opponent played a card here this turn, +3 Power.",
+    "cost": 2,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "guardians-of-the-galaxy",
+      "on-reveal"
+    ],
+    "source": "starter-card"
+  },
+  {
+    "name": "The Thing",
+    "slug": "the-thing",
+    "ability": "",
+    "cost": 4,
+    "power": 6,
+    "status": "released",
+    "tags": [
+      "no-ability"
+    ],
+    "source": "starter-card"
+  }
+]

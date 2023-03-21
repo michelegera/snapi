@@ -4,11 +4,13 @@ import { prisma } from "../db";
 builder.prismaObject("Card", {
 	fields: (t) => ({
 		id: t.exposeID("id"),
+		slug: t.exposeString("slug"),
 		name: t.exposeString("name"),
-		description: t.exposeString("description"),
+		ability: t.exposeString("ability"),
 		cost: t.exposeInt("cost"),
 		power: t.exposeInt("power"),
-		abilities: t.exposeStringList("abilities"),
+		tags: t.exposeStringList("tags"),
+		source: t.exposeString("source"),
 	}),
 });
 

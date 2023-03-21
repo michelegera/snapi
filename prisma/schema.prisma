@@ -15,13 +15,15 @@ datasource db {
 }
 
 model Card {
-  id          String   @id @default(cuid())
-  name        String
-  description String
-  cost        Int
-  power       Int
-  abilities   String[]
-  source      String
+  id      String   @id @default(cuid())
+  slug    String   @unique
+  name    String
+  ability String
+  cost    Int
+  power   Int
+  status  String
+  tags    String[]
+  source  String
 
   @@map("card")
 }

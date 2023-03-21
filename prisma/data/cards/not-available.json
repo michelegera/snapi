@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Annihilus",
+    "slug": "annihilus",
+    "ability": "On Reveal: Each of your cards randomly chooses a location to move to.",
+    "cost": 6,
+    "power": 5,
+    "status": "unreleased",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Black Knight",
+    "slug": "black-knight",
+    "ability": "When this is destroyed, draw a card.",
+    "cost": 1,
+    "power": 2,
+    "status": "unreleased",
+    "tags": [],
+    "source": "not-available"
+  },
+  {
+    "name": "Blink",
+    "slug": "blink",
+    "ability": "You can move this each turn. When it moves, +1 Power.",
+    "cost": 3,
+    "power": 1,
+    "status": "unreleased",
+    "tags": [
+      "move"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Blob",
+    "slug": "blob",
+    "ability": "Ongoing: Nothing can move this to another location.",
+    "cost": 3,
+    "power": 4,
+    "status": "unreleased",
+    "tags": [
+      "move",
+      "ongoing"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Bullseye",
+    "slug": "bullseye",
+    "ability": "On Reveal: The next card you draw will be a 2-Cost card. (if any are left)",
+    "cost": 1,
+    "power": 2,
+    "status": "unreleased",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Elsa Bloodstone",
+    "slug": "elsa-bloodstone",
+    "ability": "At the end of each turn, if you are winning this location, +1 Power.",
+    "cost": 1,
+    "power": 1,
+    "status": "unreleased",
+    "tags": [],
+    "source": "not-available"
+  },
+  {
+    "name": "Flatman",
+    "slug": "flatman",
+    "ability": "Ongoing: Adjacent locations have +1 Power.",
+    "cost": 2,
+    "power": 2,
+    "status": "unreleased",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Ghost-Spider",
+    "slug": "ghost-spider",
+    "ability": "On Reveal: Move the last card you played here.",
+    "cost": 2,
+    "power": 2,
+    "status": "unreleased",
+    "tags": [
+      "move",
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Goblin Queen",
+    "slug": "goblin-queen",
+    "ability": "On Reveal: Other cards can't be revealed this turn.",
+    "cost": 2,
+    "power": 3,
+    "status": "unreleased",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Gwenpool",
+    "slug": "gwenpool",
+    "ability": "On Reveal: Double this card's Power.",
+    "cost": 2,
+    "power": 1,
+    "status": "unreleased",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Hit Monkey",
+    "slug": "hit-monkey",
+    "ability": "On Reveal: Gain +2 Power for each other card you played this turn.",
+    "cost": 2,
+    "power": 0,
+    "status": "unreleased",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "J. Jonah Jameson",
+    "slug": "j-jonah-jameson",
+    "ability": "Ongoing: Your emotes are ruder.",
+    "cost": 1,
+    "power": 1,
+    "status": "unreleased",
+    "tags": [],
+    "source": "not-available"
+  },
+  {
+    "name": "Jean Grey",
+    "slug": "jean-grey",
+    "ability": "On Reveal: The next card your opponent plays must be played here, if possible.",
+    "cost": 3,
+    "power": 3,
+    "status": "unreleased",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Jeff the Baby Land Shark",
+    "slug": "jeff-the-baby-land-shark",
+    "ability": "You can move this once. Nothing can stop you from moving or playing this to any location.",
+    "cost": 2,
+    "power": 3,
+    "status": "unreleased",
+    "tags": [],
+    "source": "not-available"
+  },
+  {
+    "name": "King Eitri",
+    "slug": "king-eitri",
+    "ability": "On Reveal: Give the next card you play +4 Power.",
+    "cost": 5,
+    "power": 3,
+    "status": "unreleased",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Kitty Pryde",
+    "slug": "kitty-pryde",
+    "ability": "You can return this to your hand to gain +2 Power.",
+    "cost": 1,
+    "power": 0,
+    "status": "unreleased",
+    "tags": [],
+    "source": "not-available"
+  },
+  {
+    "name": "Lady Deathstrike",
+    "slug": "lady-deathstrike",
+    "ability": "On Reveal: Destroy the enemy card with the highest Power at this location.",
+    "cost": 6,
+    "power": 4,
+    "status": "unreleased",
+    "tags": [
+      "destroy",
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Legion",
+    "slug": "legion",
+    "ability": "On Reveal: Change other locations into this location.",
+    "cost": 5,
+    "power": 4,
+    "status": "unreleased",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Makkari",
+    "slug": "makkari",
+    "ability": "When you draw this, place it at a random location.",
+    "cost": 0,
+    "power": 2,
+    "status": "unreleased",
+    "tags": [],
+    "source": "not-available"
+  },
+  {
+    "name": "Mephisto",
+    "slug": "mephisto",
+    "ability": "If you win this game, double your winnings.",
+    "cost": 6,
+    "power": 0,
+    "status": "unreleased",
+    "tags": [],
+    "source": "not-available"
+  },
+  {
+    "name": "Mirage",
+    "slug": "mirage",
+    "ability": "As you play this, disguise it as Mister Fantastic. After the final turn, reveal it.",
+    "cost": 4,
+    "power": 5,
+    "status": "unreleased",
+    "tags": [],
+    "source": "not-available"
+  },
+  {
+    "name": "Ms. Marvel",
+    "slug": "ms-marvel",
+    "ability": "Ongoing: If this is your only card here, adjacent locations have +5 Power.",
+    "cost": 3,
+    "power": 4,
+    "status": "unreleased",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Nebula",
+    "slug": "nebula",
+    "ability": "On Reveal: If your opponent played a card here this turn, x2 Power and put this in your hand.",
+    "cost": 1,
+    "power": 1,
+    "status": "unreleased",
+    "tags": [
+      "guardians-of-the-galaxy",
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Negasonic Teenage Warhead",
+    "slug": "negasonic-teenage-warhead",
+    "ability": "After ANY card is played here, destroy this card AND that card.",
+    "cost": 3,
+    "power": 2,
+    "status": "unreleased",
+    "tags": [
+      "destroy"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Night Nurse",
+    "slug": "night-nurse",
+    "ability": "On Reveal: Add all cards you discarded or destroyed last turn to your hand.",
+    "cost": 2,
+    "power": 2,
+    "status": "unreleased",
+    "tags": [
+      "destroy",
+      "discard",
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Random",
+    "slug": "random",
+    "ability": "On Reveal: Set this card's Power equal to the Power of a random card in your deck.",
+    "cost": 4,
+    "power": 0,
+    "status": "unreleased",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Red Guardian",
+    "slug": "red-guardian",
+    "ability": "On Reveal: You must play a card here next turn.",
+    "cost": 3,
+    "power": 6,
+    "status": "unreleased",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Silk",
+    "slug": "silk",
+    "ability": "After ANY card is played here, this moves to another location.",
+    "cost": 2,
+    "power": 5,
+    "status": "unreleased",
+    "tags": [
+      "move"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Silver Sable",
+    "slug": "silver-sable",
+    "ability": "You can only play this at a location where you have 6+ total Power.",
+    "cost": 2,
+    "power": 6,
+    "status": "unreleased",
+    "tags": [],
+    "source": "not-available"
+  },
+  {
+    "name": "Silver Samurai",
+    "slug": "silver-samurai",
+    "ability": "When this is discarded from your hand, draw a card.",
+    "cost": 1,
+    "power": 2,
+    "status": "unreleased",
+    "tags": [
+      "discard"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Snowguard",
+    "slug": "snowguard",
+    "ability": "While in your hand, this transforms each turn into a Hawk or a Bear.",
+    "cost": 1,
+    "power": 2,
+    "status": "unreleased",
+    "tags": [],
+    "source": "not-available"
+  },
+  {
+    "name": "Stegron",
+    "slug": "stegron",
+    "ability": "On Reveal: Move an enemy card from here to another location.",
+    "cost": 4,
+    "power": 5,
+    "status": "unreleased",
+    "tags": [],
+    "source": "not-available"
+  },
+  {
+    "name": "Stryfe",
+    "slug": "stryfe",
+    "ability": "If your opponent has 12+ Power here at the end of any turn, destroy this.",
+    "cost": 3,
+    "power": 7,
+    "status": "unreleased",
+    "tags": [
+      "destroy"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Surtur",
+    "slug": "surtur",
+    "ability": "If you move the Human Torch to this location, +10 Power.",
+    "cost": 5,
+    "power": 0,
+    "status": "unreleased",
+    "tags": [
+      "move"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "The Living Tribunal",
+    "slug": "the-living-tribunal",
+    "ability": "At the end of the game, split your total Power evenly among all Locations.",
+    "cost": 6,
+    "power": 4,
+    "status": "unreleased",
+    "tags": [],
+    "source": "not-available"
+  },
+  {
+    "name": "The Phoenix Force",
+    "slug": "the-phoenix-force",
+    "ability": "On Reveal: Revive one of your destroyed cards with +5 Power. If it's {card.Card_Modified.Name}, +10 Power.",
+    "cost": 6,
+    "power": 3,
+    "status": "unreleased",
+    "tags": [
+      "destroy",
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Toad",
+    "slug": "toad",
+    "ability": "On Reveal: Move the last card you played to this location.",
+    "cost": 2,
+    "power": 3,
+    "status": "unreleased",
+    "tags": [
+      "move",
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Uncle Ben",
+    "slug": "uncle-ben",
+    "ability": "When this card is destroyed, add Spider-Man to your hand.",
+    "cost": 1,
+    "power": 2,
+    "status": "unreleased",
+    "tags": [
+      "destroy"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Viv Vision",
+    "slug": "viv-vision",
+    "ability": "When you move a card to a location, move this card there as well.",
+    "cost": 2,
+    "power": 3,
+    "status": "unreleased",
+    "tags": [
+      "move"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "War Machine",
+    "slug": "war-machine",
+    "ability": "Ongoing: Your 1-Cost cards have +1 Power.",
+    "cost": 4,
+    "power": 5,
+    "status": "unreleased",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Witchfire",
+    "slug": "witchfire",
+    "ability": "On Reveal: Your opponent draws a card, increase its cost by 1.",
+    "cost": 2,
+    "power": 3,
+    "status": "unreleased",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "X-23",
+    "slug": "x-23",
+    "ability": "When this is discarded from your hand, put it back. It costs 0.",
+    "cost": 3,
+    "power": 3,
+    "status": "unreleased",
+    "tags": [
+      "discard"
+    ],
+    "source": "not-available"
+  },
+  {
+    "name": "Yo-Yo",
+    "slug": "yo-yo",
+    "ability": "When this card moves, move it back with +1 Power.",
+    "cost": 1,
+    "power": 2,
+    "status": "unreleased",
+    "tags": [
+      "move"
+    ],
+    "source": "not-available"
+  }
+]

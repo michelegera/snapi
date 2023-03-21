@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Dazzler",
+    "slug": "dazzler",
+    "ability": "Ongoing: If you have 4 cards at each location, +6 Power.",
+    "cost": 4,
+    "power": 4,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-5"
+  },
+  {
+    "name": "Galactus",
+    "slug": "galactus",
+    "ability": "On Reveal: If this is your only card here, destroy all other locations.",
+    "cost": 6,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "destroy",
+      "on-reveal"
+    ],
+    "source": "pool-5"
+  },
+  {
+    "name": "Ghost",
+    "slug": "ghost",
+    "ability": "Ongoing: Your cards are always revealed last. (Their On Reveal abilities happen last.)",
+    "cost": 1,
+    "power": 2,
+    "status": "released",
+    "tags": [],
+    "source": "pool-5"
+  },
+  {
+    "name": "Kang",
+    "slug": "kang",
+    "ability": "On Reveal: Look at what your opponent did, then restart the turn. (without Kang)",
+    "cost": 5,
+    "power": 0,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-5"
+  },
+  {
+    "name": "Master Mold",
+    "slug": "master-mold",
+    "ability": "On Reveal: Add 2 Sentinel to your opponent’s hand.",
+    "cost": 2,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-5"
+  },
+  {
+    "name": "MODOK",
+    "slug": "modok",
+    "ability": "On Reveal: Discard your hand.",
+    "cost": 5,
+    "power": 8,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-5"
+  },
+  {
+    "name": "Sauron",
+    "slug": "sauron",
+    "ability": "On Reveal: Remove the abilities from all Ongoing cards in your hand and deck.",
+    "cost": 3,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "on-reveal",
+      "ongoing"
+    ],
+    "source": "pool-5"
+  },
+  {
+    "name": "Shadow King",
+    "slug": "shadow-king",
+    "ability": "On Reveal: Set all cards here to their original base Power.",
+    "cost": 4,
+    "power": 3,
+    "status": "released",
+    "tags": [
+      "on-reveal"
+    ],
+    "source": "pool-5"
+  },
+  {
+    "name": "Shanna",
+    "slug": "shanna",
+    "ability": "On Reveal: Add a random 1-Cost card to each location",
+    "cost": 4,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "discard",
+      "move"
+    ],
+    "source": "pool-5"
+  },
+  {
+    "name": "Stature",
+    "slug": "stature",
+    "ability": "Costs 1 if your opponent discarded a card from their hand this game.",
+    "cost": 5,
+    "power": 7,
+    "status": "released",
+    "tags": [],
+    "source": "pool-5"
+  },
+  {
+    "name": "Thanos",
+    "slug": "thanos",
+    "ability": "At the start of the game, shuffle the six Infinity Stones into your deck.",
+    "cost": 6,
+    "power": 11,
+    "status": "released",
+    "tags": [],
+    "source": "pool-5"
+  },
+  {
+    "name": "Zabu",
+    "slug": "zabu",
+    "ability": "Ongoing: Your 4-Cost cards cost 1 less. (minimum 1)",
+    "cost": 2,
+    "power": 2,
+    "status": "released",
+    "tags": [
+      "ongoing"
+    ],
+    "source": "pool-5"
+  }
+]
