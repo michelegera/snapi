@@ -12,30 +12,25 @@ import locations from "./data/locations/locations.json";
 const prisma = new PrismaClient();
 
 async function main() {
-  // Seed Cards
-  await prisma.card.deleteMany({});
-  await Promise.all(
-    [
-      ...starter,
-      ...pool0,
-      ...pool1,
-      ...pool2,
-    ].map((card) => {
-      return prisma.card.create({
-        data: card,
-      });
-    })
-  );
+	// Seed Cards
+	await prisma.card.deleteMany({});
+	await Promise.all(
+		[...starter, ...pool0, ...pool1, ...pool2].map((card) => {
+			return prisma.card.create({
+				data: card,
+			});
+		}),
+	);
 
-  // Seed Locations
-  await prisma.location.deleteMany({});
-  await Promise.all(
-    locations.map((location) => {
-      return prisma.location.create({
-        data: location,
-      });
-    })
-  );
+	// Seed Locations
+	await prisma.location.deleteMany({});
+	await Promise.all(
+		locations.map((location) => {
+			return prisma.location.create({
+				data: location,
+			});
+		}),
+	);
 }
 
 main();
