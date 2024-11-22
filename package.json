@@ -25,7 +25,7 @@
   "dependencies": {
     "@graphql-yoga/node": "^2.13.13",
     "@pothos/core": "^3.22.9",
-    "@pothos/plugin-prisma": "^3.35.8",
+    "@pothos/plugin-prisma": "^3.65.3",
     "@prisma/client": "^4.5.0",
     "graphql": "^16.8.1"
   }
