@@ -1,5 +1,5 @@
-import { ApolloServer } from "@apollo/server";
-import { startStandaloneServer } from "@apollo/server/standalone";
+import { ApolloServer } from '@apollo/server';
+import { startStandaloneServer } from '@apollo/server/standalone';
 
 // Define your GraphQL schema
 const typeDefs = `#graphql
@@ -11,7 +11,7 @@ const typeDefs = `#graphql
 // Define your resolvers
 const resolvers = {
   Query: {
-    hello: () => "Hello, world!",
+    hello: () => 'Hello, world!',
   },
 };
 
