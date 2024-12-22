@@ -1,0 +1,646 @@
+[
+  {
+    "id": 424,
+    "name": "Altar of Death"
+  },
+  {
+    "id": 15,
+    "name": "Asgard"
+  },
+  {
+    "id": 583,
+    "name": "Asgard Besieged"
+  },
+  {
+    "id": 326,
+    "name": "Asteroid M"
+  },
+  {
+    "id": 16,
+    "name": "Atlantis"
+  },
+  {
+    "id": 327,
+    "name": "Attilan"
+  },
+  {
+    "id": 452,
+    "name": "Aunt May's"
+  },
+  {
+    "id": 17,
+    "name": "Avengers Compound"
+  },
+  {
+    "id": 328,
+    "name": "Bar Sinister"
+  },
+  {
+    "id": 259,
+    "name": "Bar With No Name"
+  },
+  {
+    "id": 19,
+    "name": "Baxter Building"
+  },
+  {
+    "id": 511,
+    "name": "Black Vortex"
+  },
+  {
+    "id": 558,
+    "name": "Brooklyn Bridge"
+  },
+  {
+    "id": 431,
+    "name": "Camp Lehigh"
+  },
+  {
+    "id": 531,
+    "name": "Cancun"
+  },
+  {
+    "id": 496,
+    "name": "Castle Blackstone"
+  },
+  {
+    "id": 525,
+    "name": "Castle Zemo"
+  },
+  {
+    "id": 38,
+    "name": "Central Park"
+  },
+  {
+    "id": 41,
+    "name": "Cloning Vats"
+  },
+  {
+    "id": 556,
+    "name": "Clubhouse"
+  },
+  {
+    "id": 425,
+    "name": "Collapsed Mine"
+  },
+  {
+    "id": 329,
+    "name": "Counter-Earth"
+  },
+  {
+    "id": 45,
+    "name": "Crimson Cosmos"
+  },
+  {
+    "id": 512,
+    "name": "Crown City"
+  },
+  {
+    "id": 330,
+    "name": "Crystal Towers"
+  },
+  {
+    "id": 50,
+    "name": "Daily Bugle"
+  },
+  {
+    "id": 51,
+    "name": "Danger Room"
+  },
+  {
+    "id": 53,
+    "name": "Dark Dimension"
+  },
+  {
+    "id": 365,
+    "name": "Death's Domain"
+  },
+  {
+    "id": 331,
+    "name": "Deep Space"
+  },
+  {
+    "id": 557,
+    "name": "Destroyed Mansion"
+  },
+  {
+    "id": 63,
+    "name": "District X"
+  },
+  {
+    "id": 71,
+    "name": "Dream Dimension"
+  },
+  {
+    "id": 74,
+    "name": "Ego"
+  },
+  {
+    "id": 78,
+    "name": "Elysium"
+  },
+  {
+    "id": 544,
+    "name": "Eternals' Ark"
+  },
+  {
+    "id": 426,
+    "name": "Eternity Range"
+  },
+  {
+    "id": 572,
+    "name": "F.E.A.S.T."
+  },
+  {
+    "id": 332,
+    "name": "Fisk Tower"
+  },
+  {
+    "id": 348,
+    "name": "Flooded"
+  },
+  {
+    "id": 349,
+    "name": "Flooding"
+  },
+  {
+    "id": 333,
+    "name": "Fogwell's Gym"
+  },
+  {
+    "id": 405,
+    "name": "Gamma Lab"
+  },
+  {
+    "id": 334,
+    "name": "Genosha"
+  },
+  {
+    "id": 89,
+    "name": "Grand Central"
+  },
+  {
+    "id": 513,
+    "name": "Great Portal"
+  },
+  {
+    "id": 450,
+    "name": "Great Web"
+  },
+  {
+    "id": 92,
+    "name": "Hala"
+  },
+  {
+    "id": 335,
+    "name": "Hell's Kitchen"
+  },
+  {
+    "id": 98,
+    "name": "Hellfire Club"
+  },
+  {
+    "id": 485,
+    "name": "Hotel Inferno"
+  },
+  {
+    "id": 336,
+    "name": "Isle of Silence"
+  },
+  {
+    "id": 337,
+    "name": "Jotunheim"
+  },
+  {
+    "id": 114,
+    "name": "K'un-Lun"
+  },
+  {
+    "id": 115,
+    "name": "Kamar-Taj"
+  },
+  {
+    "id": 122,
+    "name": "Klyntar"
+  },
+  {
+    "id": 123,
+    "name": "Knowhere"
+  },
+  {
+    "id": 345,
+    "name": "Krakoa"
+  },
+  {
+    "id": 126,
+    "name": "Kyln"
+  },
+  {
+    "id": 457,
+    "name": "Lake Hellas"
+  },
+  {
+    "id": 418,
+    "name": "Lamentis-1"
+  },
+  {
+    "id": 130,
+    "name": "Lechuguilla"
+  },
+  {
+    "id": 338,
+    "name": "Lemuria"
+  },
+  {
+    "id": 133,
+    "name": "Limbo"
+  },
+  {
+    "id": 137,
+    "name": "Los Diablos Base"
+  },
+  {
+    "id": 404,
+    "name": "Luke's Bar"
+  },
+  {
+    "id": 339,
+    "name": "Machineworld"
+  },
+  {
+    "id": 340,
+    "name": "Madripoor"
+  },
+  {
+    "id": 442,
+    "name": "Milano"
+  },
+  {
+    "id": 149,
+    "name": "Mindscape"
+  },
+  {
+    "id": 150,
+    "name": "Miniaturized Lab"
+  },
+  {
+    "id": 152,
+    "name": "Mirror Dimension"
+  },
+  {
+    "id": 159,
+    "name": "Mojoworld"
+  },
+  {
+    "id": 161,
+    "name": "Monster Island"
+  },
+  {
+    "id": 162,
+    "name": "Monster Metropolis"
+  },
+  {
+    "id": 341,
+    "name": "Morag"
+  },
+  {
+    "id": 342,
+    "name": "Mother Mold"
+  },
+  {
+    "id": 466,
+    "name": "Mount Vesuvius"
+  },
+  {
+    "id": 343,
+    "name": "Mt. Wundagore"
+  },
+  {
+    "id": 168,
+    "name": "Muir Island"
+  },
+  {
+    "id": 170,
+    "name": "Murderworld"
+  },
+  {
+    "id": 344,
+    "name": "Necrosha"
+  },
+  {
+    "id": 178,
+    "name": "Negative Zone"
+  },
+  {
+    "id": 179,
+    "name": "New York"
+  },
+  {
+    "id": 346,
+    "name": "Nidavellir"
+  },
+  {
+    "id": 486,
+    "name": "Noor Dimension"
+  },
+  {
+    "id": 183,
+    "name": "Nova Roma"
+  },
+  {
+    "id": 186,
+    "name": "Olympia"
+  },
+  {
+    "id": 189,
+    "name": "Onslaught's Citadel"
+  },
+  {
+    "id": 432,
+    "name": "Orchis Forge"
+  },
+  {
+    "id": 347,
+    "name": "Oscorp Tower"
+  },
+  {
+    "id": 559,
+    "name": "Otto's Lab"
+  },
+  {
+    "id": 573,
+    "name": "Our Lady of Saints"
+  },
+  {
+    "id": 532,
+    "name": "Panoptichron"
+  },
+  {
+    "id": 438,
+    "name": "Pet Mansion"
+  },
+  {
+    "id": 350,
+    "name": "Pleasant Hill"
+  },
+  {
+    "id": 427,
+    "name": "Plunder Castle"
+  },
+  {
+    "id": 351,
+    "name": "Project Pegasus"
+  },
+  {
+    "id": 352,
+    "name": "Quantum Realm"
+  },
+  {
+    "id": 433,
+    "name": "Quantum Tunnel"
+  },
+  {
+    "id": 428,
+    "name": "Rickety Bridge"
+  },
+  {
+    "id": 211,
+    "name": "Ruins"
+  },
+  {
+    "id": 213,
+    "name": "Sakaar"
+  },
+  {
+    "id": 514,
+    "name": "Sanctuary II"
+  },
+  {
+    "id": 214,
+    "name": "Sanctum Sanctorum"
+  },
+  {
+    "id": 216,
+    "name": "Savage Land"
+  },
+  {
+    "id": 353,
+    "name": "Sewer System"
+  },
+  {
+    "id": 223,
+    "name": "Shadowland"
+  },
+  {
+    "id": 416,
+    "name": "Shuri's Lab"
+  },
+  {
+    "id": 233,
+    "name": "Sinister London"
+  },
+  {
+    "id": 236,
+    "name": "Sokovia"
+  },
+  {
+    "id": 585,
+    "name": "Spider Island"
+  },
+  {
+    "id": 246,
+    "name": "Stark Tower"
+  },
+  {
+    "id": 364,
+    "name": "Starlight Citadel"
+  },
+  {
+    "id": 248,
+    "name": "Strange Academy"
+  },
+  {
+    "id": 251,
+    "name": "Subterranea"
+  },
+  {
+    "id": 354,
+    "name": "T.A.H.I.T.I."
+  },
+  {
+    "id": 543,
+    "name": "Taco Truck"
+  },
+  {
+    "id": 487,
+    "name": "Tarnax IV"
+  },
+  {
+    "id": 488,
+    "name": "The Abbey"
+  },
+  {
+    "id": 355,
+    "name": "The Bifrost"
+  },
+  {
+    "id": 260,
+    "name": "The Big House"
+  },
+  {
+    "id": 263,
+    "name": "The Hub"
+  },
+  {
+    "id": 356,
+    "name": "The Ice Box"
+  },
+  {
+    "id": 357,
+    "name": "The Nexus"
+  },
+  {
+    "id": 406,
+    "name": "The Peak"
+  },
+  {
+    "id": 358,
+    "name": "The Raft"
+  },
+  {
+    "id": 437,
+    "name": "The Sacred Timeline"
+  },
+  {
+    "id": 439,
+    "name": "The Sandbar"
+  },
+  {
+    "id": 267,
+    "name": "The Space Throne"
+  },
+  {
+    "id": 268,
+    "name": "The Superflow"
+  },
+  {
+    "id": 359,
+    "name": "The Triskelion"
+  },
+  {
+    "id": 270,
+    "name": "The Vault"
+  },
+  {
+    "id": 419,
+    "name": "Throne Room"
+  },
+  {
+    "id": 526,
+    "name": "Thunderbolts Tower"
+  },
+  {
+    "id": 476,
+    "name": "Time Theater"
+  },
+  {
+    "id": 275,
+    "name": "Tinkerer's Workshop"
+  },
+  {
+    "id": 276,
+    "name": "Titan"
+  },
+  {
+    "id": 586,
+    "name": "Tokyo 2099"
+  },
+  {
+    "id": 278,
+    "name": "Transia"
+  },
+  {
+    "id": 360,
+    "name": "TVA"
+  },
+  {
+    "id": 361,
+    "name": "Utopia"
+  },
+  {
+    "id": 574,
+    "name": "Valhalla"
+  },
+  {
+    "id": 477,
+    "name": "Valley Of The Hand"
+  },
+  {
+    "id": 414,
+    "name": "Vibranium Mines"
+  },
+  {
+    "id": 362,
+    "name": "Vormir"
+  },
+  {
+    "id": 288,
+    "name": "Wakanda"
+  },
+  {
+    "id": 289,
+    "name": "Wakandan Embassy"
+  },
+  {
+    "id": 363,
+    "name": "Warrior Falls"
+  },
+  {
+    "id": 292,
+    "name": "Washington D.C."
+  },
+  {
+    "id": 545,
+    "name": "Weapon X Facility"
+  },
+  {
+    "id": 295,
+    "name": "Weirdworld"
+  },
+  {
+    "id": 296,
+    "name": "Westview"
+  },
+  {
+    "id": 458,
+    "name": "White Hot Room"
+  },
+  {
+    "id": 497,
+    "name": "White Palace"
+  },
+  {
+    "id": 546,
+    "name": "World Forge"
+  },
+  {
+    "id": 304,
+    "name": "Worldship"
+  },
+  {
+    "id": 305,
+    "name": "X-Mansion"
+  },
+  {
+    "id": 306,
+    "name": "Xandar"
+  },
+  {
+    "id": 478,
+    "name": "Yashida Base"
+  },
+  {
+    "id": 575,
+    "name": "Yggdrasil"
+  }
+]

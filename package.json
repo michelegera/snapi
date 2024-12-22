@@ -4,8 +4,11 @@
   "type": "module",
   "scripts": {
     "dev": "bun run src/index.ts",
+    "format": "bun prettier --write .",
     "lint": "bun eslint .",
-    "format": "bun prettier --write ."
+    "seed": "bun run src/seed.ts",
+    "seed:cards": "bun run src/seed.ts cards",
+    "seed:locations": "bun run src/seed.ts locations"
   },
   "devDependencies": {
     "@types/bun": "latest",
