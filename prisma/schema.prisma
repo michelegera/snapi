@@ -1,0 +1,23 @@
+// Define the database connection
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+// Generate the Prisma client
+generator client {
+  provider = "prisma-client-js"
+}
+
+// Define the Card model
+model Card {
+  id   Int    @id @default(autoincrement())
+  name String
+}
+
+// Define the Location model
+model Location {
+  id   Int    @id @default(autoincrement())
+  name String
+}
