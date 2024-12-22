@@ -1,1602 +1,4168 @@
 [
   {
     "id": 1,
-    "name": "Abomination"
+    "name": "Abomination",
+    "cost": 5,
+    "power": 9,
+    "abilities": [""],
+    "status": "released",
+    "source": "starter-card"
   },
   {
     "id": 2,
-    "name": "Absorbing Man"
+    "name": "Absorbing Man",
+    "cost": 4,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: If the last card you played has an On Reveal, copy its text. (if able)"
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 547,
-    "name": "Acid Arrow"
+    "name": "Acid Arrow",
+    "cost": 1,
+    "power": -2,
+    "abilities": ["<span>On Reveal</span>: Switch sides."],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 3,
-    "name": "Adam Warlock"
+    "name": "Adam Warlock",
+    "cost": 5,
+    "power": 5,
+    "abilities": ["After each turn, draw a card if you're winning here."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 4,
-    "name": "Aero"
+    "name": "Aero",
+    "cost": 5,
+    "power": 10,
+    "abilities": [
+      "<span>On Reveal</span>: Move the last enemy card played anywhere to this location."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 5,
-    "name": "Agatha Harkness"
+    "name": "Agatha Harkness",
+    "cost": 6,
+    "power": 14,
+    "abilities": [
+      "At the start of the game, draw Agatha. She controls your cards on even turns."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 6,
-    "name": "Agent 13"
+    "name": "Agent 13",
+    "cost": 1,
+    "power": 2,
+    "abilities": ["<span>On Reveal</span>: Add a random card to your hand."],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 7,
-    "name": "Agent Coulson"
+    "name": "Agent Coulson",
+    "cost": 3,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: Add a random 4-Cost and 5-Cost card to your hand."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 566,
-    "name": "Agent Venom"
+    "name": "Agent Venom",
+    "cost": 2,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: Set the Power of all cards in your deck to 3."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 576,
-    "name": "Agony"
+    "name": "Agony",
+    "cost": 1,
+    "power": 2,
+    "abilities": ["After you play a card here, merge this with it."],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 538,
-    "name": "Ajax"
+    "name": "Ajax",
+    "cost": 5,
+    "power": 7,
+    "abilities": [
+      "<span>Ongoing</span>: +1 Power for each card in play afflicted with negative Power."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 467,
-    "name": "Alioth"
+    "name": "Alioth",
+    "cost": 6,
+    "power": 9,
+    "abilities": [
+      "<span>On Reveal</span>: Remove the text from all unrevealed enemy cards here."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 8,
-    "name": "America Chavez"
+    "name": "America Chavez",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Give the top card of your deck +2 Power."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 9,
-    "name": "Angel"
+    "name": "Angel",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "When one of your cards is destroyed, this flies out of your hand or deck to replace it."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 10,
-    "name": "Angela"
+    "name": "Angela",
+    "cost": 2,
+    "power": 3,
+    "abilities": ["After you play a card here, +1 Power."],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 386,
-    "name": "Annihilus"
+    "name": "Annihilus",
+    "cost": 5,
+    "power": 6,
+    "abilities": [
+      "<span>On Reveal</span>: Your cards with Power below 0 switch sides. Destroy those that can't."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 407,
-    "name": "Ant Man"
+    "name": "Ant Man",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "<span>Ongoing</span>: If your side of this location is full, +4 Power."
+    ],
+    "status": "released",
+    "source": "recruit-season"
   },
   {
     "id": 567,
-    "name": "Anti-Venom"
+    "name": "Anti-Venom",
+    "cost": 4,
+    "power": 7,
+    "abilities": [
+      "<span>On Reveal</span>: Set the Cost and Power of your deck's top card to 0."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 12,
-    "name": "Apocalypse"
+    "name": "Apocalypse",
+    "cost": 6,
+    "power": 8,
+    "abilities": ["When you discard this, put it back with +4 Power."],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 560,
-    "name": "Araña"
+    "name": "Araña",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "Activate: Give the next card you play +2 Power and move it to the right."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 584,
-    "name": "Ares"
+    "name": "Ares",
+    "cost": 4,
+    "power": 6,
+    "abilities": [
+      "<span>On Reveal</span>: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 533,
-    "name": "Arishem"
+    "name": "Arishem",
+    "cost": 7,
+    "power": 7,
+    "abilities": [
+      "Game Start: Shuffle 12 new cards into your deck. On turn 3, get +1 Max Energy."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 13,
-    "name": "Armor"
+    "name": "Armor",
+    "cost": 2,
+    "power": 3,
+    "abilities": ["<span>Ongoing</span>: Cards here can't be destroyed."],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 14,
-    "name": "Arnim Zola"
+    "name": "Arnim Zola",
+    "cost": 6,
+    "power": 0,
+    "abilities": [
+      "<span>On Reveal</span>: Destroy one of your other cards here to copy it at the other locations."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 379,
-    "name": "Attuma"
+    "name": "Attuma",
+    "cost": 4,
+    "power": 10,
+    "abilities": [
+      "After each turn, destroy one of your cards here with less Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 18,
-    "name": "Baron Mordo"
+    "name": "Baron Mordo",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: The top card of your opponent's deck costs 6 until turn 6."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 519,
-    "name": "Baron Zemo"
+    "name": "Baron Zemo",
+    "cost": 3,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: Recruit a card that costs the least from your opponent's deck to your side of this location."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 548,
-    "name": "Basic Arrow"
+    "name": "Basic Arrow",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "<span>On Reveal</span>: If you play a card at this location next turn, +3 Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 380,
-    "name": "Bast"
+    "name": "Bast",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "<span>On Reveal</span>: Set the Power of all cards in your hand to 3."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 601,
-    "name": "Batroc the Leaper"
+    "name": "Batroc the Leaper",
+    "cost": 1,
+    "power": 2,
+    "abilities": [""],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 20,
-    "name": "Beast"
+    "name": "Beast",
+    "cost": 3,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: Return your other cards here to your hand. They cost 1 less next turn."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 498,
-    "name": "Beta Ray Bill"
+    "name": "Beta Ray Bill",
+    "cost": 4,
+    "power": 6,
+    "abilities": [
+      "<span>On Reveal</span>: Shuffle Stormbreaker into your deck."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 21,
-    "name": "Bishop"
+    "name": "Bishop",
+    "cost": 3,
+    "power": 1,
+    "abilities": ["After you play a card, this gains +1 Power."],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 22,
-    "name": "Black Bolt"
+    "name": "Black Bolt",
+    "cost": 5,
+    "power": 7,
+    "abilities": [
+      "<span>On Reveal</span>: Discard the card that costs the least from your opponent's hand."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 23,
-    "name": "Black Cat"
+    "name": "Black Cat",
+    "cost": 4,
+    "power": 10,
+    "abilities": ["If this is in your hand after the turn, discard it."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 24,
-    "name": "Black Knight"
+    "name": "Black Knight",
+    "cost": 1,
+    "power": 2,
+    "abilities": [""],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 25,
-    "name": "Black Panther"
+    "name": "Black Panther",
+    "cost": 5,
+    "power": 5,
+    "abilities": ["<span>On Reveal</span>: Double this card's Power."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 506,
-    "name": "Black Swan"
+    "name": "Black Swan",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "Activate: Until the end of next turn, your 1-Cost cards cost 0."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 26,
-    "name": "Black Widow"
+    "name": "Black Widow",
+    "cost": 3,
+    "power": 3,
+    "abilities": ["Activate: Add a Widow's Bite to your opponent's hand."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 27,
-    "name": "Blade"
+    "name": "Blade",
+    "cost": 1,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Discard the rightmost card from your hand."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 28,
-    "name": "Blink"
+    "name": "Blink",
+    "cost": 5,
+    "power": 7,
+    "abilities": [
+      "<span>On Reveal</span>: Swap the last card you played with a card that costs more from your deck."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 29,
-    "name": "Blob"
+    "name": "Blob",
+    "cost": 6,
+    "power": 0,
+    "abilities": [
+      "<span>On Reveal</span>: Merge cards from your deck into this until it gains 13 or more Power."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 30,
-    "name": "Blue Marvel"
+    "name": "Blue Marvel",
+    "cost": 5,
+    "power": 3,
+    "abilities": ["<span>Ongoing</span>: Your other cards have +1 Power."],
+    "status": "released",
+    "source": "recruit-season"
   },
   {
     "id": 31,
-    "name": "Brood"
+    "name": "Brood",
+    "cost": 3,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Add 2 Broodlings here with the same Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 387,
-    "name": "Broodling"
+    "name": "Broodling",
+    "cost": 3,
+    "power": 2,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 587,
-    "name": "Bruce Banner"
+    "name": "Bruce Banner",
+    "cost": 2,
+    "power": 1,
+    "abilities": [
+      "When you end a turn with unspent Energy, 25% chance to HULK OUT!"
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 32,
-    "name": "Bucky Barnes"
+    "name": "Bucky Barnes",
+    "cost": 2,
+    "power": 1,
+    "abilities": [
+      "When this is destroyed, replace it with the Winter Soldier."
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 33,
-    "name": "Bullseye"
+    "name": "Bullseye",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
+    ],
+    "status": "unreleased",
+    "source": "not-available"
   },
   {
     "id": 34,
-    "name": "Cable"
+    "name": "Cable",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Draw a card from your opponent's deck."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 499,
-    "name": "Caiera"
+    "name": "Caiera",
+    "cost": 3,
+    "power": 4,
+    "abilities": [
+      "<span>Ongoing</span>: Your 1 and 6-Cost cards can't be destroyed."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 515,
-    "name": "Cannonball"
+    "name": "Cannonball",
+    "cost": 5,
+    "power": 8,
+    "abilities": [
+      "<span>On Reveal</span>: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 602,
-    "name": "Cap's Shield"
+    "name": "Cap's Shield",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "<span>Ongoing</span>: This can't be destroyed. Give your Cap +2 Power when this moves to Cap's location."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 35,
-    "name": "Captain America"
+    "name": "Captain America",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: Your other Ongoing cards here have +2 Power."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 36,
-    "name": "Captain Marvel"
+    "name": "Captain Marvel",
+    "cost": 4,
+    "power": 5,
+    "abilities": [
+      "At the end of the game, move to a location that wins you the game. (If possible)"
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 37,
-    "name": "Carnage"
+    "name": "Carnage",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Destroy your other cards here. +2 Power for each destroyed."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 539,
-    "name": "Cassandra Nova"
+    "name": "Cassandra Nova",
+    "cost": 3,
+    "power": 0,
+    "abilities": [
+      "<span>On Reveal</span>: Steal 1 Power from each card in your opponent's deck."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 39,
-    "name": "Cerebro"
+    "name": "Cerebro",
+    "cost": 2,
+    "power": 0,
+    "abilities": [
+      "<span>Ongoing</span>: Your highest-Power cards have +2 Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 540,
-    "name": "Chimichanga"
+    "name": "Chimichanga",
+    "cost": 0,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Merge this with one of your cards here."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 40,
-    "name": "Cloak"
+    "name": "Cloak",
+    "cost": 2,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: Next turn, both players can move cards to this location."
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 603,
-    "name": "Cobra"
+    "name": "Cobra",
+    "cost": 3,
+    "power": 6,
+    "abilities": [
+      "You can only play this at a location where your opponent has exactly one card."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 42,
-    "name": "Colleen Wing"
+    "name": "Colleen Wing",
+    "cost": 2,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: Discard the card that costs the least from your hand."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 43,
-    "name": "Colossus"
+    "name": "Colossus",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: Can't be destroyed, moved, or have its Power reduced."
+    ],
+    "status": "released",
+    "source": "recruit-season"
   },
   {
     "id": 541,
-    "name": "Copycat"
+    "name": "Copycat",
+    "cost": 3,
+    "power": 5,
+    "abilities": [
+      "When you draw this, copy the text from the bottom card of your opponent's deck."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 507,
-    "name": "Corvus Glaive"
+    "name": "Corvus Glaive",
+    "cost": 3,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: Discard 2 cards from your hand to get +1 Max Energy."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 44,
-    "name": "Cosmo"
+    "name": "Cosmo",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: On Reveal abilities won't happen here."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 46,
-    "name": "Crossbones"
+    "name": "Crossbones",
+    "cost": 4,
+    "power": 10,
+    "abilities": ["You can only play this at locations where you are winning."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 47,
-    "name": "Crystal"
+    "name": "Crystal",
+    "cost": 3,
+    "power": 4,
+    "abilities": ["<span>On Reveal</span>: Each player draws a card."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 508,
-    "name": "Cull Obsidian"
+    "name": "Cull Obsidian",
+    "cost": 4,
+    "power": 10,
+    "abilities": ["You can only play this where you have a 1-Cost card."],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 48,
-    "name": "Cyclops"
+    "name": "Cyclops",
+    "cost": 3,
+    "power": 4,
+    "abilities": [""],
+    "status": "released",
+    "source": "starter-card"
   },
   {
     "id": 49,
-    "name": "Dagger"
+    "name": "Dagger",
+    "cost": 2,
+    "power": 0,
+    "abilities": [
+      "When this moves to a location, +3 Power for each enemy card there."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 468,
-    "name": "Daken"
+    "name": "Daken",
+    "cost": 3,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: Add the Muramasa Shard to your hand."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 52,
-    "name": "Daredevil"
+    "name": "Daredevil",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "On turn 5, you get to see your opponent's plays before you make your own."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 54,
-    "name": "Darkhawk"
+    "name": "Darkhawk",
+    "cost": 5,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: +2 Power for each card in your opponent's deck."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 55,
-    "name": "Dazzler"
+    "name": "Dazzler",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>Ongoing</span>: +2 Power for each location that's full on your side."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 56,
-    "name": "Deadpool"
+    "name": "Deadpool",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "When this is destroyed, return it to your hand with double the Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 57,
-    "name": "Death"
+    "name": "Death",
+    "cost": 8,
+    "power": 12,
+    "abilities": ["Costs 1 less for each card destroyed this game."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 58,
-    "name": "Deathlok"
+    "name": "Deathlok",
+    "cost": 3,
+    "power": 5,
+    "abilities": ["<span>On Reveal</span>: Destroy your other cards here."],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 59,
-    "name": "Debrii"
+    "name": "Debrii",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Add a Rock to each other location, for both players."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 60,
-    "name": "Demon"
+    "name": "Demon",
+    "cost": 1,
+    "power": 6,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 61,
-    "name": "Destroyer"
+    "name": "Destroyer",
+    "cost": 6,
+    "power": 16,
+    "abilities": [
+      "<span>On Reveal</span>: Destroy your cards at other locations."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 62,
-    "name": "Devil Dinosaur"
+    "name": "Devil Dinosaur",
+    "cost": 5,
+    "power": 3,
+    "abilities": ["<span>Ongoing</span>: +2 Power for each card in your hand."],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 604,
-    "name": "Diamondback"
+    "name": "Diamondback",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: Enemy cards here afflicted with negative Power have an additional -2 Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 479,
-    "name": "Djinn"
+    "name": "Djinn",
+    "cost": 0,
+    "power": 1,
+    "abilities": ["<span>On Reveal</span>: Next turn, you get +2 Energy."],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 64,
-    "name": "Doctor Doom"
+    "name": "Doctor Doom",
+    "cost": 6,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: Add a 5-Power DoomBot to each other location."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 588,
-    "name": "Doctor Doom 2099"
+    "name": "Doctor Doom 2099",
+    "cost": 4,
+    "power": 2,
+    "abilities": [""],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 65,
-    "name": "Doctor Octopus"
+    "name": "Doctor Octopus",
+    "cost": 4,
+    "power": 8,
+    "abilities": [
+      "<span>On Reveal</span>: Pull the lowest-Power card from your opponent's hand to their side of this location."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 66,
-    "name": "Doctor Strange"
+    "name": "Doctor Strange",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Move your highest-Power card(s) to this location."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 67,
-    "name": "Domino"
+    "name": "Domino",
+    "cost": 2,
+    "power": 3,
+    "abilities": ["You always draw this card on turn 2, and not before."],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 68,
-    "name": "Doombot"
+    "name": "Doombot",
+    "cost": 6,
+    "power": 5,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 589,
-    "name": "DoomBot 2099"
+    "name": "DoomBot 2099",
+    "cost": 4,
+    "power": 2,
+    "abilities": [
+      "<span>Ongoing</span>: Your other DoomBots and Doom have +1 Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 69,
-    "name": "Dracula"
+    "name": "Dracula",
+    "cost": 4,
+    "power": 1,
+    "abilities": [
+      "At the end of the game, discard a card from your hand to gain its Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 70,
-    "name": "Drax"
+    "name": "Drax",
+    "cost": 4,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: If your opponent played a card here this turn, +4 Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 72,
-    "name": "Drone"
+    "name": "Drone",
+    "cost": 1,
+    "power": 2,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 73,
-    "name": "Ebony Maw"
+    "name": "Ebony Maw",
+    "cost": 1,
+    "power": 7,
+    "abilities": [
+      "You can't play this after turn 3. <span>Ongoing</span>: You can't play cards here."
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 455,
-    "name": "Echo"
+    "name": "Echo",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "After your opponent plays an Ongoing card here, remove its abilities."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 75,
-    "name": "Electro"
+    "name": "Electro",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: +1 Max Energy. <span>Ongoing</span>: You can only play 1 card a turn."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 76,
-    "name": "Elektra"
+    "name": "Elektra",
+    "cost": 1,
+    "power": 2,
+    "abilities": ["<span>On Reveal</span>: Destroy an enemy 1-Cost card here."],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 77,
-    "name": "Elsa Bloodstone"
+    "name": "Elsa Bloodstone",
+    "cost": 3,
+    "power": 4,
+    "abilities": [
+      "Each card you play to fill your side of a location gains +2 Power."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 79,
-    "name": "Enchantress"
+    "name": "Enchantress",
+    "cost": 4,
+    "power": 6,
+    "abilities": [
+      "<span>On Reveal</span>: Remove the abilities from all Ongoing cards here."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 459,
-    "name": "Evolved Abomination"
+    "name": "Evolved Abomination",
+    "cost": 5,
+    "power": 9,
+    "abilities": [
+      "Costs 1 less for each enemy card in play that's afflicted with negative Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 460,
-    "name": "Evolved Cyclops"
+    "name": "Evolved Cyclops",
+    "cost": 3,
+    "power": 4,
+    "abilities": [
+      "When you end a turn with unspent Energy, afflict 2 enemy cards here with -1 Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 461,
-    "name": "Evolved Hulk"
+    "name": "Evolved Hulk",
+    "cost": 6,
+    "power": 12,
+    "abilities": [""],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 462,
-    "name": "Evolved Misty Knight"
+    "name": "Evolved Misty Knight",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "When you end a turn with unspent Energy, give one of your other cards +1 Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 463,
-    "name": "Evolved Shocker"
+    "name": "Evolved Shocker",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Give the leftmost card in your hand -1 Cost."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 464,
-    "name": "Evolved The Thing"
+    "name": "Evolved The Thing",
+    "cost": 4,
+    "power": 6,
+    "abilities": [
+      "<span>On Reveal</span>: Afflict 3 enemy cards here with -1 Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 465,
-    "name": "Evolved Wasp"
+    "name": "Evolved Wasp",
+    "cost": 0,
+    "power": 1,
+    "abilities": [
+      "<span>On Reveal</span>: Afflict an enemy card here with -1 Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 80,
-    "name": "Falcon"
+    "name": "Falcon",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Return your 1-Cost cards to your hand."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 577,
-    "name": "Fenris Wolf"
+    "name": "Fenris Wolf",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "Activate: Resurrect your opponent's highest-Power discarded or destroyed card on your side of this location."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 480,
-    "name": "Firestar"
+    "name": "Firestar",
+    "cost": 6,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: Each card you played last turn gains +3 Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 381,
-    "name": "Flatman"
+    "name": "Flatman",
+    "cost": 2,
+    "power": 2,
+    "abilities": ["<span>Ongoing</span>: Adjacent locations have +1 Power."],
+    "status": "unreleased",
+    "source": "None"
   },
   {
     "id": 81,
-    "name": "Forge"
+    "name": "Forge",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Give the next card you play +2 Power."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 578,
-    "name": "Frigga"
+    "name": "Frigga",
+    "cost": 3,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: Add a copy of the last card you played to your hand. (if able)"
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 590,
-    "name": "Galacta"
+    "name": "Galacta",
+    "cost": 4,
+    "power": 6,
+    "abilities": [
+      "Each turn, the first card you play at another location reveals with +3 Power."
+    ],
+    "status": "released",
+    "source": "season-pass"
   },
   {
     "id": 82,
-    "name": "Galactus"
+    "name": "Galactus",
+    "cost": 6,
+    "power": 6,
+    "abilities": [
+      "<span>On Reveal</span>: If you're winning this location and this is your only card here, destroy all other locations."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 83,
-    "name": "Gambit"
+    "name": "Gambit",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Discard a card from your hand to destroy a random enemy card."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 84,
-    "name": "Gamora"
+    "name": "Gamora",
+    "cost": 5,
+    "power": 8,
+    "abilities": [
+      "<span>On Reveal</span>: If your opponent played a card here this turn, +4 Power."
+    ],
+    "status": "released",
+    "source": "recruit-season"
   },
   {
     "id": 422,
-    "name": "Ghost"
+    "name": "Ghost",
+    "cost": 3,
+    "power": 5,
+    "abilities": [
+      "<span>Ongoing</span>: Your cards are always revealed last. (Their On Reveal abilities happen last.)"
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 85,
-    "name": "Ghost Rider"
+    "name": "Ghost Rider",
+    "cost": 4,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: Bring back one of your discarded cards to this location."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 86,
-    "name": "Ghost-Spider"
+    "name": "Ghost-Spider",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: The last card you played moves here."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 87,
-    "name": "Giganto"
+    "name": "Giganto",
+    "cost": 6,
+    "power": 14,
+    "abilities": ["You can only play this at the left location."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 534,
-    "name": "Gilgamesh"
+    "name": "Gilgamesh",
+    "cost": 5,
+    "power": 9,
+    "abilities": [
+      "<span>On Reveal</span>: +1 Power for each of your other cards in play with increased Power."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 456,
-    "name": "Gladiator"
+    "name": "Gladiator",
+    "cost": 3,
+    "power": 8,
+    "abilities": [
+      "<span>On Reveal</span>: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 382,
-    "name": "Goblin Queen"
+    "name": "Goblin Queen",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Other cards can't be revealed this turn."
+    ],
+    "status": "unreleased",
+    "source": "None"
   },
   {
     "id": 88,
-    "name": "Goose"
+    "name": "Goose",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>Ongoing</span>: Nobody can play cards that cost 4, 5, or 6 here."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 591,
-    "name": "Gorgon"
+    "name": "Gorgon",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: Your opponent's cards that didn't start in their deck cost 1 more. (maximum 6)"
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 447,
-    "name": "Gorr"
+    "name": "Gorr",
+    "cost": 6,
+    "power": -1,
+    "abilities": [
+      "<span>Ongoing</span>: +2 Power for EACH On Reveal card in play."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 500,
-    "name": "Grand Master"
+    "name": "Grand Master",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 549,
-    "name": "Grapple Arrow"
+    "name": "Grapple Arrow",
+    "cost": 1,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: After you play your next card, move it to this location."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 90,
-    "name": "Green Goblin"
+    "name": "Green Goblin",
+    "cost": 3,
+    "power": -3,
+    "abilities": ["<span>On Reveal</span>: Switch sides."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 91,
-    "name": "Groot"
+    "name": "Groot",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: If your opponent played a card here this turn, +4 Power."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 383,
-    "name": "Gwenpool"
+    "name": "Gwenpool",
+    "cost": 4,
+    "power": 6,
+    "abilities": [
+      "<span>On Reveal</span>: Pick a random card in your hand 3 times. Give +2 Power each time."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 481,
-    "name": "Havok"
+    "name": "Havok",
+    "cost": 2,
+    "power": 0,
+    "abilities": [
+      "After each turn, you lose 1 Max Energy and this gains +4 Power."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 93,
-    "name": "Hawkeye"
+    "name": "Hawkeye",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "<span>On Reveal</span>: If you play a card at this location next turn, +3 Power."
+    ],
+    "status": "released",
+    "source": "starter-card"
   },
   {
     "id": 94,
-    "name": "Hazmat"
+    "name": "Hazmat",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Afflict all other cards with -1 Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 95,
-    "name": "Heimdall"
+    "name": "Heimdall",
+    "cost": 6,
+    "power": 10,
+    "abilities": [
+      "<span>On Reveal</span>: Move your other cards one location to the left."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 96,
-    "name": "Hela"
+    "name": "Hela",
+    "cost": 6,
+    "power": 7,
+    "abilities": [
+      "<span>On Reveal</span>: Resurrect all cards you discarded to random locations with -3 Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 384,
-    "name": "Helicarrier"
+    "name": "Helicarrier",
+    "cost": 6,
+    "power": 10,
+    "abilities": ["When you discard this, fill your hand with random cards."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 97,
-    "name": "Hellcow"
+    "name": "Hellcow",
+    "cost": 4,
+    "power": 7,
+    "abilities": ["Activate: Discard a card from your hand."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 501,
-    "name": "Hercules"
+    "name": "Hercules",
+    "cost": 3,
+    "power": 5,
+    "abilities": [
+      "The first time another card moves here each turn, move it to another location."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 443,
-    "name": "High Evolutionary"
+    "name": "High Evolutionary",
+    "cost": 4,
+    "power": 6,
+    "abilities": [
+      "At the start of the game, unlock the potential of your cards with no abilities."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 99,
-    "name": "Hit Monkey"
+    "name": "Hit Monkey",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Gain +2 Power for each other card you played this turn."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 100,
-    "name": "Hobgoblin"
+    "name": "Hobgoblin",
+    "cost": 5,
+    "power": -8,
+    "abilities": ["<span>On Reveal</span>: Switch sides."],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 516,
-    "name": "Hope Summers"
+    "name": "Hope Summers",
+    "cost": 3,
+    "power": 4,
+    "abilities": ["After you play a card here, you get +1 Energy next turn."],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 444,
-    "name": "Howard the Duck"
+    "name": "Howard the Duck",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>Ongoing</span>: Tap this to see the top card of your deck."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 101,
-    "name": "Hulk"
+    "name": "Hulk",
+    "cost": 6,
+    "power": 12,
+    "abilities": [""],
+    "status": "released",
+    "source": "starter-card"
   },
   {
     "id": 102,
-    "name": "Hulkbuster"
+    "name": "Hulkbuster",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Merge this with one of your cards here."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 550,
-    "name": "Hulkling"
+    "name": "Hulkling",
+    "cost": 6,
+    "power": 12,
+    "abilities": [
+      "At the start of the game, copy the text of a random 6-Cost card."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 103,
-    "name": "Human Torch"
+    "name": "Human Torch",
+    "cost": 1,
+    "power": 2,
+    "abilities": ["When this moves, double its Power."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 565,
-    "name": "Hydra Bob"
+    "name": "Hydra Bob",
+    "cost": 1,
+    "power": 5,
+    "abilities": ["After each turn, this moves if a player Snapped."],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 592,
-    "name": "Ice Cube"
+    "name": "Ice Cube",
+    "cost": 1,
+    "power": 0,
+    "abilities": [
+      "At the start of each turn, get +1 Energy. Then destroy this if your side is full here."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 104,
-    "name": "Iceman"
+    "name": "Iceman",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Give a card in your opponent's hand +1 Cost. (maximum 6)"
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 396,
-    "name": "Illusion!"
+    "name": "Illusion!",
+    "cost": 2,
+    "power": 0,
+    "abilities": ["This is a fake Mysterio!"],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 105,
-    "name": "Invisible Woman"
+    "name": "Invisible Woman",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: Cards you play here are not revealed until the game ends."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 106,
-    "name": "Iron Fist"
+    "name": "Iron Fist",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: After you play your next card, move it one location to the left."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 445,
-    "name": "Iron Lad"
+    "name": "Iron Lad",
+    "cost": 4,
+    "power": 6,
+    "abilities": [
+      "<span>On Reveal</span>: Copy the text of your deck's top card."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 107,
-    "name": "Iron Man"
+    "name": "Iron Man",
+    "cost": 5,
+    "power": 0,
+    "abilities": ["<span>Ongoing</span>: Your total Power is doubled here."],
+    "status": "released",
+    "source": "starter-card"
   },
   {
     "id": 593,
-    "name": "Iron Patriot"
+    "name": "Iron Patriot",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Add a random 4, 5, or 6-Cost card to your hand. If you're winning here after next turn, give it -4 Cost."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 108,
-    "name": "Ironheart"
+    "name": "Ironheart",
+    "cost": 3,
+    "power": 0,
+    "abilities": [
+      "<span>On Reveal</span>: Give 3 of your other cards +2 Power."
+    ],
+    "status": "released",
+    "source": "recruit-season"
   },
   {
     "id": 440,
-    "name": "J. Jonah Jameson"
+    "name": "J. Jonah Jameson",
+    "cost": 1,
+    "power": 1,
+    "abilities": ["<span>Ongoing</span>: Your emotes are ruder."],
+    "status": "unreleased",
+    "source": "None"
   },
   {
     "id": 408,
-    "name": "Jane Foster Mighty Thor"
+    "name": "Jane Foster Mighty Thor",
+    "cost": 5,
+    "power": 9,
+    "abilities": [
+      "<span>On Reveal</span>: Draw all cards that cost 0 from your deck."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 110,
-    "name": "Jean Grey"
+    "name": "Jean Grey",
+    "cost": 3,
+    "power": 4,
+    "abilities": [
+      "<span>Ongoing</span>: Players must play their first card here each turn. (if possible)"
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 430,
-    "name": "Jeff the Baby Land Shark"
+    "name": "Jeff the Baby Land Shark",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "You can move this once. Nothing can stop you from moving or playing this to any location."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 111,
-    "name": "Jessica Jones"
+    "name": "Jessica Jones",
+    "cost": 4,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: If you don't play a card at this location next turn, +5 Power."
+    ],
+    "status": "released",
+    "source": "collection-level"
   },
   {
     "id": 605,
-    "name": "Joaquin Torres Falcon II"
+    "name": "Joaquin Torres Falcon II",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: The On Reveal abilities of your 1-Cost cards here happen twice."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 112,
-    "name": "Jubilee"
+    "name": "Jubilee",
+    "cost": 4,
+    "power": 1,
+    "abilities": [
+      "<span>On Reveal</span>: Add the top card of your deck to this location."
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 113,
-    "name": "Juggernaut"
+    "name": "Juggernaut",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Move away all enemy cards played here this turn. (including unrevealed cards)"
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 117,
-    "name": "Ka-Zar"
+    "name": "Ka-Zar",
+    "cost": 4,
+    "power": 4,
+    "abilities": ["<span>Ongoing</span>: Your 1-Cost cards have +1 Power."],
+    "status": "released",
+    "source": "collection-level"
   },
   {
     "id": 116,
-    "name": "Kang"
+    "name": "Kang",
+    "cost": 5,
+    "power": 0,
+    "abilities": [
+      "<span>On Reveal</span>: Look at what your opponent did, then restart the turn. (without this)"
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 551,
-    "name": "Kate Bishop"
+    "name": "Kate Bishop",
+    "cost": 2,
+    "power": 3,
+    "abilities": ["<span>On Reveal</span>: Add 2 Arrows to your hand."],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 118,
-    "name": "Killmonger"
+    "name": "Killmonger",
+    "cost": 3,
+    "power": 3,
+    "abilities": ["<span>On Reveal</span>: Destroy ALL 1-Cost cards."],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 385,
-    "name": "King Eitri"
+    "name": "King Eitri",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "Activate: Draw a card from your deck that didn't start there."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 119,
-    "name": "Kingpin"
+    "name": "Kingpin",
+    "cost": 1,
+    "power": 2,
+    "abilities": ["When an enemy card moves here, afflict it with -2 Power."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 120,
-    "name": "Kitty Pryde"
+    "name": "Kitty Pryde",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "When this returns to your hand, +1 Power. Returns at the start of each turn."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 121,
-    "name": "Klaw"
+    "name": "Klaw",
+    "cost": 5,
+    "power": 4,
+    "abilities": [
+      "<span>Ongoing</span>: The location to the right has +7 Power."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 409,
-    "name": "Knull"
+    "name": "Knull",
+    "cost": 6,
+    "power": 0,
+    "abilities": [
+      "<span>Ongoing</span>: Has the combined Power of all cards destroyed this game."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 124,
-    "name": "Korg"
+    "name": "Korg",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Shuffle a Rock into your opponent's deck."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 125,
-    "name": "Kraven"
+    "name": "Kraven",
+    "cost": 2,
+    "power": 3,
+    "abilities": ["When a card moves here, this gains +2 Power."],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 127,
-    "name": "Lady Deathstrike"
+    "name": "Lady Deathstrike",
+    "cost": 5,
+    "power": 7,
+    "abilities": [
+      "<span>On Reveal</span>: Destroy each card here with 3 or less Power."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 128,
-    "name": "Lady Sif"
+    "name": "Lady Sif",
+    "cost": 3,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: Discard the card that costs the most from your hand."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 579,
-    "name": "Lasher"
+    "name": "Lasher",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "Activate: Afflict an enemy card here with negative Power equal to this card's Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 582,
-    "name": "Laufey"
+    "name": "Laufey",
+    "cost": 4,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: Steal 1 Power from each other card here."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 129,
-    "name": "Leader"
+    "name": "Leader",
+    "cost": 6,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Copy the enemy card(s) with the highest Power played this turn, but on your side."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 131,
-    "name": "Leech"
+    "name": "Leech",
+    "cost": 4,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: Remove the text from 6-Cost cards in your opponent's hand."
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 132,
-    "name": "Legion"
+    "name": "Legion",
+    "cost": 5,
+    "power": 7,
+    "abilities": [
+      "<span>On Reveal</span>: Replace each other location with this one."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 134,
-    "name": "Lizard"
+    "name": "Lizard",
+    "cost": 2,
+    "power": 5,
+    "abilities": [
+      "<span>Ongoing</span>: -4 Power if your opponent has 4 cards here."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 135,
-    "name": "Lockjaw"
+    "name": "Lockjaw",
+    "cost": 4,
+    "power": 5,
+    "abilities": [
+      "After you play a card here, swap it with a card in your deck."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 446,
-    "name": "Loki"
+    "name": "Loki",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Replace your deck with your opponent's starting deck. Give those cards -1 Cost."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 138,
-    "name": "Luke Cage"
+    "name": "Luke Cage",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: Your cards can't have their Power reduced."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 594,
-    "name": "Luna Snow"
+    "name": "Luna Snow",
+    "cost": 3,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: Add an Ice Cube to each side of this location."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 139,
-    "name": "M'Baku"
+    "name": "M'Baku",
+    "cost": 1,
+    "power": 2,
+    "abilities": [""],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 561,
-    "name": "Madame Web"
+    "name": "Madame Web",
+    "cost": 2,
+    "power": 1,
+    "abilities": [
+      "<span>Ongoing</span>: You can move one of your other cards away from here each turn."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 140,
-    "name": "Magik"
+    "name": "Magik",
+    "cost": 3,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Replace this location with 'Limbo'. Doesn't work after turn 5."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 141,
-    "name": "Magneto"
+    "name": "Magneto",
+    "cost": 6,
+    "power": 12,
+    "abilities": [
+      "<span>On Reveal</span>: Move all enemy 3 and 4-Cost cards to this location."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 142,
-    "name": "Makkari"
+    "name": "Makkari",
+    "cost": 3,
+    "power": 4,
+    "abilities": [""],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 580,
-    "name": "Malekith"
+    "name": "Malekith",
+    "cost": 4,
+    "power": 6,
+    "abilities": [
+      "<span>On Reveal</span>: Add a 1, 2, or 3-Cost card from your deck here, but don't reveal it until the game ends."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 473,
-    "name": "Man-Thing"
+    "name": "Man-Thing",
+    "cost": 4,
+    "power": 7,
+    "abilities": [
+      "<span>Ongoing</span>: 1, 2, and 3-Cost cards here have -2 Power."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 143,
-    "name": "Mantis"
+    "name": "Mantis",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: If your opponent played any cards here this turn, copy one of them into your hand."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 144,
-    "name": "Maria Hill"
+    "name": "Maria Hill",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Add a random 2-Cost card to your hand."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 482,
-    "name": "Martyr"
+    "name": "Martyr",
+    "cost": 1,
+    "power": 5,
+    "abilities": [""],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 552,
-    "name": "Marvel Boy"
+    "name": "Marvel Boy",
+    "cost": 3,
+    "power": 1,
+    "abilities": ["After each turn, give 3 of your 1-Cost cards +1 Power."],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 314,
-    "name": "Master Mold"
+    "name": "Master Mold",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Add 2 Sentinel to your opponent's hand."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 145,
-    "name": "Maximus"
+    "name": "Maximus",
+    "cost": 2,
+    "power": 6,
+    "abilities": ["<span>On Reveal</span>: Your opponent draws 2 cards."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 146,
-    "name": "Medusa"
+    "name": "Medusa",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: If this is at the middle location, +3 Power."
+    ],
+    "status": "released",
+    "source": "starter-card"
   },
   {
     "id": 147,
-    "name": "Mephisto"
+    "name": "Mephisto",
+    "cost": 6,
+    "power": 0,
+    "abilities": ["If you win this game, double your winnings."],
+    "status": "unreleased",
+    "source": "not-available"
   },
   {
     "id": 502,
-    "name": "Miek"
+    "name": "Miek",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "When you discard a card, this gains +1 Power and can move next turn."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 315,
-    "name": "Miles Morales"
+    "name": "Miles Morales",
+    "cost": 4,
+    "power": 6,
+    "abilities": ["If a card moved last turn, this costs 1."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 148,
-    "name": "Mind Stone"
+    "name": "Mind Stone",
+    "cost": 1,
+    "power": 1,
+    "abilities": ["<span>On Reveal</span>: Draw 2 Stones from your deck."],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 151,
-    "name": "Mirage"
+    "name": "Mirage",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Copy the card that costs the least from your opponent's hand into your hand. Give it +2 Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 568,
-    "name": "Misery"
+    "name": "Misery",
+    "cost": 4,
+    "power": 8,
+    "abilities": [
+      "<span>On Reveal</span>: Repeat the On Reveal abilities of your other cards here, then destroy them."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 153,
-    "name": "Mister Fantastic"
+    "name": "Mister Fantastic",
+    "cost": 3,
+    "power": 2,
+    "abilities": ["<span>Ongoing</span>: Adjacent locations have +2 Power."],
+    "status": "released",
+    "source": "collection-level"
   },
   {
     "id": 154,
-    "name": "Mister Negative"
+    "name": "Mister Negative",
+    "cost": 4,
+    "power": -1,
+    "abilities": [
+      "<span>On Reveal</span>: Swap the Power and Cost of all cards in your deck."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 155,
-    "name": "Mister Sinister"
+    "name": "Mister Sinister",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Add a Sinister Clone here with the same Power."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 156,
-    "name": "Misty Knight"
+    "name": "Misty Knight",
+    "cost": 1,
+    "power": 2,
+    "abilities": [""],
+    "status": "released",
+    "source": "starter-card"
   },
   {
     "id": 378,
-    "name": "Mjölnir"
+    "name": "Mjölnir",
+    "cost": 0,
+    "power": 0,
+    "abilities": ["<span>On Reveal</span>: Give Thor +6 Power."],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 469,
-    "name": "Mobius M. Mobius"
+    "name": "Mobius M. Mobius",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: Your Costs can't be increased. Your opponent's Costs can't be reduced."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 517,
-    "name": "Mockingbird"
+    "name": "Mockingbird",
+    "cost": 6,
+    "power": 9,
+    "abilities": [
+      "Costs 1 less for each of your cards in play that didn't start in your deck."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 157,
-    "name": "MODOK"
+    "name": "MODOK",
+    "cost": 5,
+    "power": 8,
+    "abilities": ["<span>On Reveal</span>: Discard your hand."],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 158,
-    "name": "Mojo"
+    "name": "Mojo",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>Ongoing</span>: If both sides here are full, +6 Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 160,
-    "name": "Monster"
+    "name": "Monster",
+    "cost": 6,
+    "power": 10,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 163,
-    "name": "Moon Girl"
+    "name": "Moon Girl",
+    "cost": 4,
+    "power": 5,
+    "abilities": ["<span>On Reveal</span>: Duplicate your hand."],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 164,
-    "name": "Moon Knight"
+    "name": "Moon Knight",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Discard an even-costed card from each player's hand."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 595,
-    "name": "Moonstone"
+    "name": "Moonstone",
+    "cost": 4,
+    "power": 6,
+    "abilities": [
+      "<span>Ongoing</span>: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 165,
-    "name": "Morbius"
+    "name": "Morbius",
+    "cost": 2,
+    "power": 0,
+    "abilities": [
+      "<span>Ongoing</span>: +2 Power for each time you discarded a card this game."
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 166,
-    "name": "Morph"
+    "name": "Morph",
+    "cost": 3,
+    "power": 0,
+    "abilities": [
+      "<span>On Reveal</span>: Become a copy of a card in your opponent's hand."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 316,
-    "name": "Ms. Marvel"
+    "name": "Ms. Marvel",
+    "cost": 4,
+    "power": 4,
+    "abilities": [
+      "<span>Ongoing</span>: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 169,
-    "name": "Multiple Man"
+    "name": "Multiple Man",
+    "cost": 2,
+    "power": 3,
+    "abilities": ["When this moves, add a copy to the old location."],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 171,
-    "name": "Mysterio"
+    "name": "Mysterio",
+    "cost": 2,
+    "power": 4,
+    "abilities": [
+      "As you play this, play Illusions to other locations. Disguise this as an Illusion until the game ends."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 410,
-    "name": "Mysterio?"
+    "name": "Mysterio?",
+    "cost": 2,
+    "power": 0,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 173,
-    "name": "Mystique"
+    "name": "Mystique",
+    "cost": 3,
+    "power": 0,
+    "abilities": [
+      "<span>On Reveal</span>: If the last card you played has an Ongoing, copy its text. (if able)"
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 174,
-    "name": "Nakia"
+    "name": "Nakia",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Give all cards in your hand +1 Power."
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 175,
-    "name": "Namor"
+    "name": "Namor",
+    "cost": 4,
+    "power": 6,
+    "abilities": [
+      "<span>Ongoing</span>: +5 Power if this is your only card here."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 527,
-    "name": "Namora"
+    "name": "Namora",
+    "cost": 5,
+    "power": 6,
+    "abilities": [
+      "<span>On Reveal</span>: Give +5 Power to each of your cards alone at another location."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 176,
-    "name": "Nebula"
+    "name": "Nebula",
+    "cost": 1,
+    "power": 1,
+    "abilities": [""],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 177,
-    "name": "Negasonic Teenage Warhead"
+    "name": "Negasonic Teenage Warhead",
+    "cost": 3,
+    "power": 3,
+    "abilities": [""],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 180,
-    "name": "Nick Fury"
+    "name": "Nick Fury",
+    "cost": 4,
+    "power": 6,
+    "abilities": [
+      "<span>On Reveal</span>: Add 3 random 6-Cost cards to your hand."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 474,
-    "name": "Nico Minoru"
+    "name": "Nico Minoru",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: After you play your next card, cast a spell. (The spell changes each turn.)"
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 489,
-    "name": "Nico Minoru Spell 01"
+    "name": "Nico Minoru Spell 01",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: After you play your next card, it becomes a Demon."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 490,
-    "name": "Nico Minoru Spell 02"
+    "name": "Nico Minoru Spell 02",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: After you play your next card, destroy it to draw two cards."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 491,
-    "name": "Nico Minoru Spell 03"
+    "name": "Nico Minoru Spell 03",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: After you play your next card, move it one location to the right."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 492,
-    "name": "Nico Minoru Spell 04"
+    "name": "Nico Minoru Spell 04",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: After you play your next card, give it +2 Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 493,
-    "name": "Nico Minoru Spell 05"
+    "name": "Nico Minoru Spell 05",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: After you play your next card, replace that card's location."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 494,
-    "name": "Nico Minoru Spell 06"
+    "name": "Nico Minoru Spell 06",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: After you play your next card, add a copy of it to your hand."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 495,
-    "name": "Nico Minoru Spell 07"
+    "name": "Nico Minoru Spell 07",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: After you play your next card, double this card's Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 388,
-    "name": "Night Nurse"
+    "name": "Night Nurse",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Add all cards you discarded or destroyed last turn to your hand."
+    ],
+    "status": "unreleased",
+    "source": "None"
   },
   {
     "id": 181,
-    "name": "Nightcrawler"
+    "name": "Nightcrawler",
+    "cost": 1,
+    "power": 2,
+    "abilities": ["You can move this once."],
+    "status": "released",
+    "source": "collection-level"
   },
   {
     "id": 429,
-    "name": "Nimrod"
+    "name": "Nimrod",
+    "cost": 5,
+    "power": 6,
+    "abilities": ["When this is destroyed, add a copy to each other location."],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 398,
-    "name": "Ninja"
+    "name": "Ninja",
+    "cost": 1,
+    "power": -2,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 528,
-    "name": "Nocturne"
+    "name": "Nocturne",
+    "cost": 3,
+    "power": 4,
+    "abilities": [
+      "You can move this once. When this moves, replace its location with a random new one."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 182,
-    "name": "Nova"
+    "name": "Nova",
+    "cost": 1,
+    "power": 1,
+    "abilities": ["When this is destroyed, give your cards +1 Power."],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 184,
-    "name": "Odin"
+    "name": "Odin",
+    "cost": 6,
+    "power": 8,
+    "abilities": [
+      "<span>On Reveal</span>: Repeat the On Reveal abilities of your other cards here."
+    ],
+    "status": "released",
+    "source": "collection-level"
   },
   {
     "id": 185,
-    "name": "Okoye"
+    "name": "Okoye",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Give every card in your deck +1 Power."
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 187,
-    "name": "Omega Red"
+    "name": "Omega Red",
+    "cost": 4,
+    "power": 5,
+    "abilities": [
+      "<span>Ongoing</span>: If you're winning here, +3 Power to other locations."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 188,
-    "name": "Onslaught"
+    "name": "Onslaught",
+    "cost": 6,
+    "power": 7,
+    "abilities": [
+      "<span>Ongoing</span>: Double your other Ongoing effects here."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 190,
-    "name": "Orka"
+    "name": "Orka",
+    "cost": 6,
+    "power": 11,
+    "abilities": [
+      "<span>Ongoing</span>: +5 Power if this is your only card here."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 191,
-    "name": "Patriot"
+    "name": "Patriot",
+    "cost": 3,
+    "power": 1,
+    "abilities": [
+      "<span>Ongoing</span>: Your cards with no abilities have +2 Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 596,
-    "name": "Peni Parker"
+    "name": "Peni Parker",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 535,
-    "name": "Phastos"
+    "name": "Phastos",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Give each card in your deck -1 Cost or +2 Power."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 451,
-    "name": "Pig"
+    "name": "Pig",
+    "cost": 0,
+    "power": 0,
+    "abilities": [""],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 518,
-    "name": "Pixie"
+    "name": "Pixie",
+    "cost": 2,
+    "power": 1,
+    "abilities": [
+      "<span>On Reveal</span>: Shuffle the base Costs of all cards in your deck that started there."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 193,
-    "name": "Polaris"
+    "name": "Polaris",
+    "cost": 3,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: Move an enemy 1 or 2-Cost card to this location."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 194,
-    "name": "Power Stone"
+    "name": "Power Stone",
+    "cost": 1,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: If you've played all 6 stones, Thanos has +10 Power. (wherever he is)"
+    ],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 195,
-    "name": "Professor X"
+    "name": "Professor X",
+    "cost": 5,
+    "power": 2,
+    "abilities": [
+      "<span>Ongoing</span>: Moving is the only way to add or remove a card from here."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 509,
-    "name": "Proxima Midnight"
+    "name": "Proxima Midnight",
+    "cost": 4,
+    "power": 7,
+    "abilities": [""],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 196,
-    "name": "Psylocke"
+    "name": "Psylocke",
+    "cost": 2,
+    "power": 2,
+    "abilities": ["<span>On Reveal</span>: Next turn, you get +1 Energy."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 411,
-    "name": "Punisher"
+    "name": "Punisher",
+    "cost": 3,
+    "power": 3,
+    "abilities": ["<span>Ongoing</span>: +1 Power for each enemy card here."],
+    "status": "released",
+    "source": "starter-card"
   },
   {
     "id": 553,
-    "name": "PymParticle Arrow"
+    "name": "PymParticle Arrow",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "<span>Ongoing</span>: If your side of this location is full, +3 Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 197,
-    "name": "Quake"
+    "name": "Quake",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Swap the positions of the other two locations."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 198,
-    "name": "Quicksilver"
+    "name": "Quicksilver",
+    "cost": 1,
+    "power": 2,
+    "abilities": ["Starts in your opening hand."],
+    "status": "released",
+    "source": "starter-card"
   },
   {
     "id": 199,
-    "name": "Quinjet"
+    "name": "Quinjet",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>Ongoing</span>: Cards that didn't start in your deck cost 1 less. (minimum 1)"
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 389,
-    "name": "Random"
+    "name": "Random",
+    "cost": 4,
+    "power": 0,
+    "abilities": [
+      "<span>On Reveal</span>: Set this card's Power equal to the Power of a random card in your deck."
+    ],
+    "status": "unreleased",
+    "source": "not-available"
   },
   {
     "id": 200,
-    "name": "Raptor"
+    "name": "Raptor",
+    "cost": 1,
+    "power": 1,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 471,
-    "name": "Ravonna Renslayer"
+    "name": "Ravonna Renslayer",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>Ongoing</span>: Your cards with 1 or less Power cost 1 less. (minimum 1)"
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 201,
-    "name": "Reality Stone"
+    "name": "Reality Stone",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "<span>On Reveal</span>: Replace this location with a new one."
+    ],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 202,
-    "name": "Red Guardian"
+    "name": "Red Guardian",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 520,
-    "name": "Red Hulk"
+    "name": "Red Hulk",
+    "cost": 6,
+    "power": 10,
+    "abilities": [""],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 203,
-    "name": "Red Skull"
+    "name": "Red Skull",
+    "cost": 5,
+    "power": 14,
+    "abilities": ["<span>Ongoing</span>: Enemy cards here have +2 Power."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 606,
-    "name": "Redwing"
+    "name": "Redwing",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Return one of your other 1-Cost cards here to your hand to give it +2 Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 204,
-    "name": "Rescue"
+    "name": "Rescue",
+    "cost": 4,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: If you play a card at this location next turn, +5 Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 205,
-    "name": "Rhino"
+    "name": "Rhino",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Ruin this location. (remove its ability)"
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 206,
-    "name": "Rock"
+    "name": "Rock",
+    "cost": 1,
+    "power": 0,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 597,
-    "name": "Rocket and Groot"
+    "name": "Rocket and Groot",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "You can move this once. After your opponent plays a card here, steal 1 Power from it."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 207,
-    "name": "Rocket Raccoon"
+    "name": "Rocket Raccoon",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "<span>On Reveal</span>: If your opponent played a card here this turn, +4 Power."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 208,
-    "name": "Rockslide"
+    "name": "Rockslide",
+    "cost": 4,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: Shuffle 2 Rocks into your opponent's deck."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 209,
-    "name": "Rogue"
+    "name": "Rogue",
+    "cost": 3,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Steal the text from an enemy Ongoing card here."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 210,
-    "name": "Ronan the Accuser"
+    "name": "Ronan the Accuser",
+    "cost": 5,
+    "power": 5,
+    "abilities": [
+      "<span>Ongoing</span>: +2 Power for each card in your opponent's hand."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 212,
-    "name": "Sabretooth"
+    "name": "Sabretooth",
+    "cost": 3,
+    "power": 5,
+    "abilities": [
+      "When this is destroyed, return it to your hand. It costs 0."
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 529,
-    "name": "Sage"
+    "name": "Sage",
+    "cost": 3,
+    "power": 0,
+    "abilities": [
+      "<span>On Reveal</span>: +2 Power for each different Power among all other cards here."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 607,
-    "name": "Sam Wilson Captain America"
+    "name": "Sam Wilson Captain America",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "Game Start: Add Cap's Shield to a random location. <span>Ongoing</span>: You can move Cap's Shield."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 215,
-    "name": "Sandman"
+    "name": "Sandman",
+    "cost": 5,
+    "power": 7,
+    "abilities": [
+      "<span>On Reveal</span>: Next turn, cards cost 1 more. (maximum 6)"
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 530,
-    "name": "Sasquatch"
+    "name": "Sasquatch",
+    "cost": 6,
+    "power": 10,
+    "abilities": ["Costs 1 less for each card you played last turn."],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 390,
-    "name": "Sauron"
+    "name": "Sauron",
+    "cost": 3,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: Remove the abilities from all Ongoing cards in your hand and deck."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 562,
-    "name": "Scarlet Spider"
+    "name": "Scarlet Spider",
+    "cost": 4,
+    "power": 5,
+    "abilities": ["Activate: Add an exact clone of this to another location."],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 563,
-    "name": "Scarlet Spider Clone"
+    "name": "Scarlet Spider Clone",
+    "cost": 4,
+    "power": 5,
+    "abilities": [""],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 217,
-    "name": "Scarlet Witch"
+    "name": "Scarlet Witch",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Replace this location with a new one."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 569,
-    "name": "Scorn"
+    "name": "Scorn",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 218,
-    "name": "Scorpion"
+    "name": "Scorpion",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Afflict cards in your opponent's hand with -1 Power."
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 570,
-    "name": "Scream"
+    "name": "Scream",
+    "cost": 2,
+    "power": 3,
+    "abilities": [""],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 483,
-    "name": "Sebastian Shaw"
+    "name": "Sebastian Shaw",
+    "cost": 3,
+    "power": 4,
+    "abilities": [""],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 484,
-    "name": "Selene"
+    "name": "Selene",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Afflict the lowest-Power card in each player's hand with -3 Power."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 219,
-    "name": "Sentinel"
+    "name": "Sentinel",
+    "cost": 2,
+    "power": 3,
+    "abilities": ["<span>On Reveal</span>: Add another Sentinel to your hand."],
+    "status": "released",
+    "source": "starter-card"
   },
   {
     "id": 220,
-    "name": "Sentry"
+    "name": "Sentry",
+    "cost": 4,
+    "power": 8,
+    "abilities": [
+      "You can't play this at the right location. <span>On Reveal</span>: Add a -8 Power Void to the right location."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 221,
-    "name": "Sera"
+    "name": "Sera",
+    "cost": 5,
+    "power": 4,
+    "abilities": [
+      "<span>Ongoing</span>: Cards in your hand cost 1 less. (minimum 1)"
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 536,
-    "name": "Sersi"
+    "name": "Sersi",
+    "cost": 5,
+    "power": 7,
+    "abilities": [
+      "<span>On Reveal</span>: Transform your other cards here into random cards that cost 1 more. (if possible)"
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 222,
-    "name": "Shadow King"
+    "name": "Shadow King",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Reset all cards here to their original Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 224,
-    "name": "Shang-Chi"
+    "name": "Shang-Chi",
+    "cost": 4,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Destroy all enemy cards here that have 10 or more Power."
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 317,
-    "name": "Shanna"
+    "name": "Shanna",
+    "cost": 3,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: Add a random 1-Cost card to each location."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 226,
-    "name": "She-Hulk"
+    "name": "She-Hulk",
+    "cost": 6,
+    "power": 10,
+    "abilities": ["Costs 1 less for each unspent Energy last turn."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 227,
-    "name": "Shocker"
+    "name": "Shocker",
+    "cost": 2,
+    "power": 3,
+    "abilities": [""],
+    "status": "released",
+    "source": "starter-card"
   },
   {
     "id": 228,
-    "name": "Shuri"
+    "name": "Shuri",
+    "cost": 4,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: If you play your next card at this location, double its Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 229,
-    "name": "Silk"
+    "name": "Silk",
+    "cost": 2,
+    "power": 5,
+    "abilities": [
+      "After ANY card is played here, this moves to another location."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 230,
-    "name": "Silver Sable"
+    "name": "Silver Sable",
+    "cost": 1,
+    "power": 0,
+    "abilities": [
+      "<span>On Reveal</span>: Steal 2 Power from the top card of your opponent's deck."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 231,
-    "name": "Silver Samurai"
+    "name": "Silver Samurai",
+    "cost": 4,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: Each player discards the lowest-Power card from their hand."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 232,
-    "name": "Silver Surfer"
+    "name": "Silver Surfer",
+    "cost": 3,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Give your other 3-Cost cards +2 Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 400,
-    "name": "Sinister Clone"
+    "name": "Sinister Clone",
+    "cost": 2,
+    "power": 2,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 503,
-    "name": "Skaar"
+    "name": "Skaar",
+    "cost": 6,
+    "power": 10,
+    "abilities": [
+      "Costs 2 less for each of your cards that has 10 or more Power."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 235,
-    "name": "Snowguard"
+    "name": "Snowguard",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Add the Hawk and Bear auroras to your hand."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 434,
-    "name": "Snowguard Bear"
+    "name": "Snowguard Bear",
+    "cost": 3,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: Trigger the effect of this location."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 435,
-    "name": "Snowguard Hawk"
+    "name": "Snowguard Hawk",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Ignore all location abilities until the end of next turn. (They resume if the game ends.)"
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 436,
-    "name": "Snowguard Wolf"
+    "name": "Snowguard Wolf",
+    "cost": 4,
+    "power": 8,
+    "abilities": [
+      "<span>Ongoing</span>: -2 Power for each other card you have here."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 237,
-    "name": "Soul Stone"
+    "name": "Soul Stone",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "<span>On Reveal</span>: Draw a card. <span>Ongoing</span>: Thanos can't be discarded or destroyed."
+    ],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 600,
-    "name": "SP//dr"
+    "name": "SP//dr",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Merge with one of your cards here. You can move that card next turn."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 238,
-    "name": "Space Stone"
+    "name": "Space Stone",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "<span>On Reveal</span>: Draw a card. <span>Ongoing</span>: Nothing can stop you from playing or moving Thanos."
+    ],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 239,
-    "name": "Spectrum"
+    "name": "Spectrum",
+    "cost": 6,
+    "power": 6,
+    "abilities": ["<span>On Reveal</span>: Give your Ongoing cards +2 Power."],
+    "status": "released",
+    "source": "collection-level"
   },
   {
     "id": 554,
-    "name": "Speed"
+    "name": "Speed",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: +1 Power for each turn in which you spent all your Energy."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 453,
-    "name": "Spider-Ham"
+    "name": "Spider-Ham",
+    "cost": 1,
+    "power": 1,
+    "abilities": [
+      "<span>On Reveal</span>: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 240,
-    "name": "Spider-Man"
+    "name": "Spider-Man",
+    "cost": 3,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: Move to another location and pull an enemy card from here to there."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 454,
-    "name": "Spider-Man 2099"
+    "name": "Spider-Man 2099",
+    "cost": 5,
+    "power": 9,
+    "abilities": [
+      "The first time this moves to any location, destroy an enemy card there."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 242,
-    "name": "Spider-Woman"
+    "name": "Spider-Woman",
+    "cost": 5,
+    "power": 8,
+    "abilities": [
+      "<span>On Reveal</span>: Afflict all enemy cards here with -1 Power."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 243,
-    "name": "Squirrel"
+    "name": "Squirrel",
+    "cost": 1,
+    "power": 1,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 244,
-    "name": "Squirrel Girl"
+    "name": "Squirrel Girl",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Add a 1-Power Squirrel to each other location."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 245,
-    "name": "Star-Lord"
+    "name": "Star-Lord",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: If your opponent played a card here this turn, +4 Power."
+    ],
+    "status": "released",
+    "source": "starter-card"
   },
   {
     "id": 423,
-    "name": "Stature"
+    "name": "Stature",
+    "cost": 5,
+    "power": 7,
+    "abilities": ["Costs 1 if your opponent discarded a card this game."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 441,
-    "name": "Stegron"
+    "name": "Stegron",
+    "cost": 4,
+    "power": 7,
+    "abilities": [
+      "<span>On Reveal</span>: Move an enemy card here one location to the right."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 247,
-    "name": "Storm"
+    "name": "Storm",
+    "cost": 4,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: Flood this location. Next turn is the last turn cards can be played here."
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 504,
-    "name": "Stormbreaker"
+    "name": "Stormbreaker",
+    "cost": 0,
+    "power": 3,
+    "abilities": ["<span>On Reveal</span>: Double Beta Ray Bill's Power."],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 249,
-    "name": "Strong Guy"
+    "name": "Strong Guy",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: +6 Power if your hand has 1 or fewer cards."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 250,
-    "name": "Stryfe"
+    "name": "Stryfe",
+    "cost": 3,
+    "power": 7,
+    "abilities": [
+      "If your opponent has 12+ Power here at the end of any turn, destroy this."
+    ],
+    "status": "unreleased",
+    "source": "not-available"
   },
   {
     "id": 252,
-    "name": "Sunspot"
+    "name": "Sunspot",
+    "cost": 1,
+    "power": 0,
+    "abilities": ["After each turn, gain +1 Power for each unspent Energy."],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 253,
-    "name": "Super-Skrull"
+    "name": "Super-Skrull",
+    "cost": 4,
+    "power": 2,
+    "abilities": [
+      "<span>Ongoing</span>: Has the Ongoing effects of all enemy cards."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 510,
-    "name": "Supergiant"
+    "name": "Supergiant",
+    "cost": 4,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: All cards played next turn don't reveal until the game ends."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 254,
-    "name": "Surtur"
+    "name": "Surtur",
+    "cost": 3,
+    "power": 4,
+    "abilities": [
+      "After you play a card with 10 or more Power, this gains +3 Power."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 255,
-    "name": "Swarm"
+    "name": "Swarm",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "When you discard this, add two copies that cost 0 to your hand."
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 256,
-    "name": "Sword Master"
+    "name": "Sword Master",
+    "cost": 3,
+    "power": 7,
+    "abilities": [
+      "<span>On Reveal</span>: Discard an odd-costed card from your hand."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 412,
-    "name": "Symbiote"
+    "name": "Symbiote",
+    "cost": 4,
+    "power": 0,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 564,
-    "name": "Symbiote Spider-Man"
+    "name": "Symbiote Spider-Man",
+    "cost": 4,
+    "power": 7,
+    "abilities": [
+      "Activate: Merge your lowest-Cost card here with this. Copy its text like it just revealed."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 257,
-    "name": "Taskmaster"
+    "name": "Taskmaster",
+    "cost": 6,
+    "power": 0,
+    "abilities": [
+      "<span>On Reveal</span>: Set this card's Power equal to that of the last card you played. (if able)"
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 608,
-    "name": "Thaddeus Ross"
+    "name": "Thaddeus Ross",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "When your opponent ends a turn with unspent Energy, draw a card with 10 or more Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 258,
-    "name": "Thanos"
+    "name": "Thanos",
+    "cost": 6,
+    "power": 10,
+    "abilities": [
+      "At the start of the game, draw Thanos and shuffle the six Infinity Stones into your deck."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 261,
-    "name": "The Collector"
+    "name": "The Collector",
+    "cost": 2,
+    "power": 2,
+    "abilities": [""],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 262,
-    "name": "The Hood"
+    "name": "The Hood",
+    "cost": 1,
+    "power": -3,
+    "abilities": ["<span>On Reveal</span>: Add a Demon to your hand."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 264,
-    "name": "The Infinaut"
+    "name": "The Infinaut",
+    "cost": 6,
+    "power": 20,
+    "abilities": ["If you played a card last turn, you can't play this."],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 265,
-    "name": "The Living Tribunal"
+    "name": "The Living Tribunal",
+    "cost": 6,
+    "power": 9,
+    "abilities": [
+      "<span>Ongoing</span>: Split your total Power evenly among all locations."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 413,
-    "name": "The Phoenix Force"
+    "name": "The Phoenix Force",
+    "cost": 4,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: Revive one of your destroyed cards and merge with it. That card can move each turn."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 269,
-    "name": "The Thing"
+    "name": "The Thing",
+    "cost": 4,
+    "power": 6,
+    "abilities": [""],
+    "status": "released",
+    "source": "starter-card"
   },
   {
     "id": 271,
-    "name": "The Void"
+    "name": "The Void",
+    "cost": 4,
+    "power": -8,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 537,
-    "name": "Thena"
+    "name": "Thena",
+    "cost": 2,
+    "power": 0,
+    "abilities": [""],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 272,
-    "name": "Thor"
+    "name": "Thor",
+    "cost": 3,
+    "power": 4,
+    "abilities": ["<span>On Reveal</span>: Shuffle Mjolnir into your deck."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 273,
-    "name": "Tiger Spirit"
+    "name": "Tiger Spirit",
+    "cost": 5,
+    "power": 8,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 274,
-    "name": "Time Stone"
+    "name": "Time Stone",
+    "cost": 1,
+    "power": 1,
+    "abilities": ["<span>On Reveal</span>: Give Thanos -1 Cost. Draw a card."],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 277,
-    "name": "Titania"
+    "name": "Titania",
+    "cost": 1,
+    "power": 5,
+    "abilities": ["After ANY card is played here, this card switches sides."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 392,
-    "name": "Toad"
+    "name": "Toad",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Move the last card you played to this location."
+    ],
+    "status": "unreleased",
+    "source": "not-available"
   },
   {
     "id": 581,
-    "name": "Tombstone"
+    "name": "Tombstone",
+    "cost": 4,
+    "power": 6,
+    "abilities": ["Costs 1 if an enemy card was destroyed last turn."],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 598,
-    "name": "Toxie Doxie"
+    "name": "Toxie Doxie",
+    "cost": 2,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: Draw a card. You can't play cards next turn."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 571,
-    "name": "Toxin"
+    "name": "Toxin",
+    "cost": 2,
+    "power": 1,
+    "abilities": [
+      "<span>On Reveal</span>: Return your other cards here to your hand. +2 Power for each returned."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 279,
-    "name": "Typhoid Mary"
+    "name": "Typhoid Mary",
+    "cost": 4,
+    "power": 10,
+    "abilities": ["<span>Ongoing</span>: Your other cards here have -2 Power."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 521,
-    "name": "U.S. Agent"
+    "name": "U.S. Agent",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: 4, 5, and 6-Cost cards here have -4 Power."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 280,
-    "name": "Uatu the Watcher"
+    "name": "Uatu the Watcher",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "At the start of the game, shows unrevealed locations to you."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 281,
-    "name": "Ultron"
+    "name": "Ultron",
+    "cost": 6,
+    "power": 8,
+    "abilities": [
+      "<span>On Reveal</span>: Deploy four 2-Power Drones to each other location."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 282,
-    "name": "Uncle Ben"
+    "name": "Uncle Ben",
+    "cost": 1,
+    "power": 2,
+    "abilities": ["When this card is destroyed, replace it with Spider-Man."],
+    "status": "unreleased",
+    "source": "not-available"
   },
   {
     "id": 522,
-    "name": "Valentina"
+    "name": "Valentina",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Add a random 6-Cost card to your hand. Give it -2 Cost and -2 Power."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 283,
-    "name": "Valkyrie"
+    "name": "Valkyrie",
+    "cost": 5,
+    "power": 3,
+    "abilities": ["<span>On Reveal</span>: Set ALL cards here to 3 Power."],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 284,
-    "name": "Venom"
+    "name": "Venom",
+    "cost": 3,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Destroy your other cards here. Add their Power to this card."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 420,
-    "name": "Vibranium"
+    "name": "Vibranium",
+    "cost": 1,
+    "power": 4,
+    "abilities": ["<span>Ongoing</span>: Can't be destroyed."],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 599,
-    "name": "Victoria Hand"
+    "name": "Victoria Hand",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>Ongoing</span>: Your cards that were created in your hand have +2 Power."
+    ],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 285,
-    "name": "Viper"
+    "name": "Viper",
+    "cost": 3,
+    "power": 4,
+    "abilities": [
+      "<span>On Reveal</span>: One of your other cards here with the lowest Power switches sides."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 286,
-    "name": "Vision"
+    "name": "Vision",
+    "cost": 5,
+    "power": 8,
+    "abilities": ["You can move this each turn."],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 393,
-    "name": "Viv Vision"
+    "name": "Viv Vision",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "When you move a card to a location, move this card there as well."
+    ],
+    "status": "unreleased",
+    "source": "None"
   },
   {
     "id": 287,
-    "name": "Vulture"
+    "name": "Vulture",
+    "cost": 3,
+    "power": 3,
+    "abilities": ["When this card moves, +6 Power."],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 290,
-    "name": "War Machine"
+    "name": "War Machine",
+    "cost": 4,
+    "power": 6,
+    "abilities": [
+      "<span>Ongoing</span>: Nothing can stop you from playing cards anywhere."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 291,
-    "name": "Warpath"
+    "name": "Warpath",
+    "cost": 4,
+    "power": 5,
+    "abilities": [
+      "<span>Ongoing</span>: If any of your locations are empty, +5 Power."
+    ],
+    "status": "released",
+    "source": "pool-2"
   },
   {
     "id": 293,
-    "name": "Wasp"
+    "name": "Wasp",
+    "cost": 0,
+    "power": 1,
+    "abilities": [""],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 294,
-    "name": "Wave"
+    "name": "Wave",
+    "cost": 3,
+    "power": 5,
+    "abilities": [
+      "<span>On Reveal</span>: All cards cost a maximum of 4 until the end of next turn."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 475,
-    "name": "Werewolf By Night"
+    "name": "Werewolf By Night",
+    "cost": 3,
+    "power": 2,
+    "abilities": [
+      "After you play a card, move there to gain +2 Power if it has an On Reveal."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 297,
-    "name": "White Queen"
+    "name": "White Queen",
+    "cost": 4,
+    "power": 6,
+    "abilities": [
+      "<span>On Reveal</span>: Copy the card that costs the most from your opponent's hand into your hand."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 298,
-    "name": "White Tiger"
+    "name": "White Tiger",
+    "cost": 5,
+    "power": 1,
+    "abilities": [
+      "<span>On Reveal</span>: Add a 8-Power Tiger to another location."
+    ],
+    "status": "released",
+    "source": "collection-level"
   },
   {
     "id": 523,
-    "name": "White Widow"
+    "name": "White Widow",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Add a Widow's Kiss to your opponent's side of this location."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 555,
-    "name": "Wiccan"
+    "name": "Wiccan",
+    "cost": 4,
+    "power": 7,
+    "abilities": [
+      "<span>On Reveal</span>: If you've spent all your Energy on previous turns, +2 Max Energy."
+    ],
+    "status": "released",
+    "source": "pool-5"
   },
   {
     "id": 299,
-    "name": "Widow's Bite"
+    "name": "Widow's Bite",
+    "cost": 0,
+    "power": -1,
+    "abilities": ["While this is in your hand, you can't draw cards."],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 524,
-    "name": "Widow's Kiss"
+    "name": "Widow's Kiss",
+    "cost": 0,
+    "power": -4,
+    "abilities": ["Destroy this when your side of this location is full."],
+    "status": "released",
+    "source": "None"
   },
   {
     "id": 300,
-    "name": "Winter Soldier"
+    "name": "Winter Soldier",
+    "cost": 2,
+    "power": 7,
+    "abilities": [""],
+    "status": "released",
+    "source": "not-available"
   },
   {
     "id": 394,
-    "name": "Witchfire"
+    "name": "Witchfire",
+    "cost": 2,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Your opponent draws a card, increase its cost by 1."
+    ],
+    "status": "unreleased",
+    "source": "None"
   },
   {
     "id": 301,
-    "name": "Wolfsbane"
+    "name": "Wolfsbane",
+    "cost": 3,
+    "power": 1,
+    "abilities": [
+      "<span>On Reveal</span>: +2 Power for each other card you have here."
+    ],
+    "status": "released",
+    "source": "collection-level"
   },
   {
     "id": 302,
-    "name": "Wolverine"
+    "name": "Wolverine",
+    "cost": 2,
+    "power": 2,
+    "abilities": [
+      "When this is discarded or destroyed, regenerate it with +2 Power at a random location."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 303,
-    "name": "Wong"
+    "name": "Wong",
+    "cost": 4,
+    "power": 2,
+    "abilities": [
+      "<span>Ongoing</span>: Your On Reveal abilities here happen twice."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 395,
-    "name": "X-23"
+    "name": "X-23",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 307,
-    "name": "Yellowjacket"
+    "name": "Yellowjacket",
+    "cost": 0,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Afflict your other cards here with -1 Power."
+    ],
+    "status": "released",
+    "source": "pool-3"
   },
   {
     "id": 308,
-    "name": "Yo-Yo"
+    "name": "Yo-Yo",
+    "cost": 1,
+    "power": 2,
+    "abilities": ["When this card moves, move it back with +1 Power."],
+    "status": "unreleased",
+    "source": "None"
   },
   {
     "id": 309,
-    "name": "Yondu"
+    "name": "Yondu",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Destroy the card that costs the least in your opponent's deck."
+    ],
+    "status": "released",
+    "source": "pool-1"
   },
   {
     "id": 310,
-    "name": "Zabu"
+    "name": "Zabu",
+    "cost": 1,
+    "power": 2,
+    "abilities": [
+      "<span>On Reveal</span>: Give each 4-Cost card in your deck -1 Cost."
+    ],
+    "status": "released",
+    "source": "pool-4"
   },
   {
     "id": 311,
-    "name": "Zero"
+    "name": "Zero",
+    "cost": 1,
+    "power": 3,
+    "abilities": [
+      "<span>On Reveal</span>: Remove the abilities on the next card you play."
+    ],
+    "status": "released",
+    "source": "pool-3"
   }
 ]

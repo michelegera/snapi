@@ -1,646 +1,1290 @@
 [
   {
     "id": 424,
-    "name": "Altar of Death"
+    "name": "Altar of Death",
+    "status": "released",
+    "ability": "After you play a card here, destroy it to get +2 Energy next turn.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 15,
-    "name": "Asgard"
+    "name": "Asgard",
+    "status": "released",
+    "ability": "After turn 4, whoever is winning here draws  2.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 583,
-    "name": "Asgard Besieged"
+    "name": "Asgard Besieged",
+    "status": "unreleased",
+    "ability": "After turn 3, add The Destroyer to the winning side.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 326,
-    "name": "Asteroid M"
+    "name": "Asteroid M",
+    "status": "released",
+    "ability": "After you play a 3 or 4-Cost card, move it here.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 16,
-    "name": "Atlantis"
+    "name": "Atlantis",
+    "status": "released",
+    "ability": "If you only have one card here, it has +5 Power.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 327,
-    "name": "Attilan"
+    "name": "Attilan",
+    "status": "released",
+    "ability": "After turn 3, shuffle your hand into your deck. Draw  cards.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 452,
-    "name": "Aunt May's"
+    "name": "Aunt May's",
+    "status": "released",
+    "ability": "The next card you play here gains +3 Power and moves.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 17,
-    "name": "Avengers Compound"
+    "name": "Avengers Compound",
+    "status": "released",
+    "ability": "On turn 5, all cards must be played here.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 328,
-    "name": "Bar Sinister"
+    "name": "Bar Sinister",
+    "status": "released",
+    "ability": "After you play a card here, fill this location with copies of it.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 259,
-    "name": "Bar With No Name"
+    "name": "Bar With No Name",
+    "status": "released",
+    "ability": "Whoever has the least Power here wins.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 19,
-    "name": "Baxter Building"
+    "name": "Baxter Building",
+    "status": "released",
+    "ability": "Whoever is winning this location gets +4 Power at the others.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 511,
-    "name": "Black Vortex"
+    "name": "Black Vortex",
+    "status": "released",
+    "ability": "The next card you play here becomes a random 6-Cost card.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 558,
-    "name": "Brooklyn Bridge"
+    "name": "Brooklyn Bridge",
+    "status": "released",
+    "ability": "You can't play cards here 2 turns in a row.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 431,
-    "name": "Camp Lehigh"
+    "name": "Camp Lehigh",
+    "status": "released",
+    "ability": "Add a random 3-Cost card to each player's hand.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 531,
-    "name": "Cancun"
+    "name": "Cancun",
+    "status": "released",
+    "ability": "Power here doesn't count toward winning the game.",
+    "rarity": "ultra rare",
+    "difficulty": "Complex"
   },
   {
     "id": 496,
-    "name": "Castle Blackstone"
+    "name": "Castle Blackstone",
+    "status": "released",
+    "ability": "The player winning here gets +1 Energy each turn.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 525,
-    "name": "Castle Zemo"
+    "name": "Castle Zemo",
+    "status": "released",
+    "ability": "The next card\nyou play here switches sides.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 38,
-    "name": "Central Park"
+    "name": "Central Park",
+    "status": "released",
+    "ability": "Add a Squirrel to each location.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 41,
-    "name": "Cloning Vats"
+    "name": "Cloning Vats",
+    "status": "released",
+    "ability": "After you play a card here, add a copy to your hand.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 556,
-    "name": "Clubhouse"
+    "name": "Clubhouse",
+    "status": "released",
+    "ability": "Fill this to give\nyour cards at other locations +1 Power.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 425,
-    "name": "Collapsed Mine"
+    "name": "Collapsed Mine",
+    "status": "released",
+    "ability": "Fill this location with Rocks. Skip a turn to destroy your Rocks.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 329,
-    "name": "Counter-Earth"
+    "name": "Counter-Earth",
+    "status": "unreleased",
+    "ability": "After you play a card here, create a copy at this location.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 45,
-    "name": "Crimson Cosmos"
+    "name": "Crimson Cosmos",
+    "status": "released",
+    "ability": "Cards that cost 1, 2, or 3 can't be played here.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 512,
-    "name": "Crown City"
+    "name": "Crown City",
+    "status": "released",
+    "ability": "Whoever is winning here gets +4 Power at adjacent locations.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 330,
-    "name": "Crystal Towers"
+    "name": "Crystal Towers",
+    "status": "unreleased",
+    "ability": "Shuffle your hand into your deck. Draw 3 cards.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 50,
-    "name": "Daily Bugle"
+    "name": "Daily Bugle",
+    "status": "released",
+    "ability": "Get a copy of a card in your opponent's hand.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 51,
-    "name": "Danger Room"
+    "name": "Danger Room",
+    "status": "released",
+    "ability": "Cards played here have a 25% chance to be destroyed.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 53,
-    "name": "Dark Dimension"
+    "name": "Dark Dimension",
+    "status": "released",
+    "ability": "Cards here are not revealed until the game ends.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 365,
-    "name": "Death's Domain"
+    "name": "Death's Domain",
+    "status": "released",
+    "ability": "After you play a card here, destroy it.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 331,
-    "name": "Deep Space"
+    "name": "Deep Space",
+    "status": "released",
+    "ability": "Card text is disabled here.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 557,
-    "name": "Destroyed Mansion"
+    "name": "Destroyed Mansion",
+    "status": "released",
+    "ability": "Add a Rock here and a Vibranium to your hand.",
+    "rarity": "uncommon",
+    "difficulty": "Complex"
   },
   {
     "id": 63,
-    "name": "District X"
+    "name": "District X",
+    "status": "released",
+    "ability": "Replace both decks with 10 random cards.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 71,
-    "name": "Dream Dimension"
+    "name": "Dream Dimension",
+    "status": "released",
+    "ability": "On turn 5, cards cost  more.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 74,
-    "name": "Ego"
+    "name": "Ego",
+    "status": "released",
+    "ability": "Ego takes over and plays your cards for you.",
+    "rarity": "ultra rare",
+    "difficulty": "Complex"
   },
   {
     "id": 78,
-    "name": "Elysium"
+    "name": "Elysium",
+    "status": "released",
+    "ability": "Cards cost 1 less.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 544,
-    "name": "Eternals' Ark"
+    "name": "Eternals' Ark",
+    "status": "released",
+    "ability": "After turn 5, flood the other locations.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 426,
-    "name": "Eternity Range"
+    "name": "Eternity Range",
+    "status": "released",
+    "ability": "After turn 3, add a Rock to the losing player's side.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 572,
-    "name": "F.E.A.S.T."
+    "name": "F.E.A.S.T.",
+    "status": "released",
+    "ability": "After you play a card here, ALL players get +1 Energy next turn.",
+    "rarity": "uncommon",
+    "difficulty": "Complex"
   },
   {
     "id": 332,
-    "name": "Fisk Tower"
+    "name": "Fisk Tower",
+    "status": "released",
+    "ability": "When a card moves here, afflict it with -4 Power.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 348,
-    "name": "Flooded"
+    "name": "Flooded",
+    "status": "released",
+    "ability": "Cards can't be played here.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 349,
-    "name": "Flooding"
+    "name": "Flooding",
+    "status": "released",
+    "ability": "This is the last turn cards can be played here.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 333,
-    "name": "Fogwell's Gym"
+    "name": "Fogwell's Gym",
+    "status": "released",
+    "ability": "Both players get double Boosters this game.",
+    "rarity": "rare",
+    "difficulty": "Standard"
   },
   {
     "id": 405,
-    "name": "Gamma Lab"
+    "name": "Gamma Lab",
+    "status": "released",
+    "ability": "After turn 3, transform all cards here into the Hulk.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 334,
-    "name": "Genosha"
+    "name": "Genosha",
+    "status": "unreleased",
+    "ability": "You can move cards to this location.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 89,
-    "name": "Grand Central"
+    "name": "Grand Central",
+    "status": "released",
+    "ability": "After turn 5, put a card from each player's hand here.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 513,
-    "name": "Great Portal"
+    "name": "Great Portal",
+    "status": "released",
+    "ability": "Add a random card with 10 or more Power to your hand.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 450,
-    "name": "Great Web"
+    "name": "Great Web",
+    "status": "released",
+    "ability": "After each turn, move one card to the Web for a random player.",
+    "rarity": "rare",
+    "difficulty": "Advanced"
   },
   {
     "id": 92,
-    "name": "Hala"
+    "name": "Hala",
+    "status": "released",
+    "ability": "After turn 4, destroy all cards controlled by the player losing here.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 335,
-    "name": "Hell's Kitchen"
+    "name": "Hell's Kitchen",
+    "status": "released",
+    "ability": "Draw a 1-Cost card from your deck.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 98,
-    "name": "Hellfire Club"
+    "name": "Hellfire Club",
+    "status": "released",
+    "ability": "Cards that cost 1 can't be played here.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 485,
-    "name": "Hotel Inferno"
+    "name": "Hotel Inferno",
+    "status": "released",
+    "ability": "After you play a card here this turn, destroy the top card of your opponent's deck.",
+    "rarity": "uncommon",
+    "difficulty": "Complex"
   },
   {
     "id": 336,
-    "name": "Isle of Silence"
+    "name": "Isle of Silence",
+    "status": "released",
+    "ability": "Ongoing effects are disabled here.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 337,
-    "name": "Jotunheim"
+    "name": "Jotunheim",
+    "status": "released",
+    "ability": "After each turn, cards here lose 1 Power.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 114,
-    "name": "K'un-Lun"
+    "name": "K'un-Lun",
+    "status": "released",
+    "ability": "When a card moves here, give it +2 Power.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 115,
-    "name": "Kamar-Taj"
+    "name": "Kamar-Taj",
+    "status": "released",
+    "ability": "On Reveal effects happen twice at this location.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 122,
-    "name": "Klyntar"
+    "name": "Klyntar",
+    "status": "released",
+    "ability": "After turn 4, merge your cards here into a Symbiote.",
+    "rarity": "uncommon",
+    "difficulty": "Complex"
   },
   {
     "id": 123,
-    "name": "Knowhere"
+    "name": "Knowhere",
+    "status": "released",
+    "ability": "On Reveal effects do not happen at this location.",
+    "rarity": "uncommon",
+    "difficulty": "Complex"
   },
   {
     "id": 345,
-    "name": "Krakoa"
+    "name": "Krakoa",
+    "status": "released",
+    "ability": "Your next play here adds its Power to the top of your deck.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 126,
-    "name": "Kyln"
+    "name": "Kyln",
+    "status": "released",
+    "ability": "You can't play cards here after turn 4.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 457,
-    "name": "Lake Hellas"
+    "name": "Lake Hellas",
+    "status": "released",
+    "ability": "1-Cost cards here have + Power.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 418,
-    "name": "Lamentis-1"
+    "name": "Lamentis-1",
+    "status": "unreleased",
+    "ability": "Draw 3 cards. Destroy both decks.",
+    "rarity": "ultra rare",
+    "difficulty": "Advanced"
   },
   {
     "id": 130,
-    "name": "Lechuguilla"
+    "name": "Lechuguilla",
+    "status": "released",
+    "ability": "After you play a card here, shuffle 3 rocks into your deck.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 338,
-    "name": "Lemuria"
+    "name": "Lemuria",
+    "status": "released",
+    "ability": "No cards are revealed this turn.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 133,
-    "name": "Limbo"
+    "name": "Limbo",
+    "status": "released",
+    "ability": "There is a turn 7 this game.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 137,
-    "name": "Los Diablos Base"
+    "name": "Los Diablos Base",
+    "status": "released",
+    "ability": "After turn 3, ruin a random location.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 404,
-    "name": "Luke's Bar"
+    "name": "Luke's Bar",
+    "status": "released",
+    "ability": "After you play a card here, return it to your hand.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 339,
-    "name": "Machineworld"
+    "name": "Machineworld",
+    "status": "released",
+    "ability": "After you play a card here, add a copy to the opponent's hand.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 340,
-    "name": "Madripoor"
+    "name": "Madripoor",
+    "status": "unreleased",
+    "ability": "You can move cards from this location.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 442,
-    "name": "Milano"
+    "name": "Milano",
+    "status": "unreleased",
+    "ability": "Turn 5 is the only turn cards can be played here.",
+    "rarity": "rare",
+    "difficulty": "Advanced"
   },
   {
     "id": 149,
-    "name": "Mindscape"
+    "name": "Mindscape",
+    "status": "released",
+    "ability": "At the start of turn 6, swap hands.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 150,
-    "name": "Miniaturized Lab"
+    "name": "Miniaturized Lab",
+    "status": "released",
+    "ability": "On turns 3, 4, and 5, no cards can be added here.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 152,
-    "name": "Mirror Dimension"
+    "name": "Mirror Dimension",
+    "status": "released",
+    "ability": "On turn 4, transform into one of the other locations.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 159,
-    "name": "Mojoworld"
+    "name": "Mojoworld",
+    "status": "released",
+    "ability": "Whoever has more cards here gets +100 Power.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 161,
-    "name": "Monster Island"
+    "name": "Monster Island",
+    "status": "released",
+    "ability": "Add a Monster-Power  here for each player.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 162,
-    "name": "Monster Metropolis"
+    "name": "Monster Metropolis",
+    "status": "released",
+    "ability": "The card(s) with the highest Power here get +3 Power.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 341,
-    "name": "Morag"
+    "name": "Morag",
+    "status": "released",
+    "ability": "You can't play your first card here each turn.",
+    "rarity": "rare",
+    "difficulty": "Advanced"
   },
   {
     "id": 342,
-    "name": "Mother Mold"
+    "name": "Mother Mold",
+    "status": "unreleased",
+    "ability": "When you play a card here, add a Sentinel to your hand.",
+    "rarity": "common",
+    "difficulty": ""
   },
   {
     "id": 466,
-    "name": "Mount Vesuvius"
+    "name": "Mount Vesuvius",
+    "status": "released",
+    "ability": "Players can't retreat after turn 5.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 343,
-    "name": "Mt. Wundagore"
+    "name": "Mt. Wundagore",
+    "status": "unreleased",
+    "ability": "After you play a card here, discard a card.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 168,
-    "name": "Muir Island"
+    "name": "Muir Island",
+    "status": "released",
+    "ability": "After each turn, give cards here +1 Power.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 170,
-    "name": "Murderworld"
+    "name": "Murderworld",
+    "status": "released",
+    "ability": "After turn 3, destroy all cards here.",
+    "rarity": "common",
+    "difficulty": "Complex"
   },
   {
     "id": 344,
-    "name": "Necrosha"
+    "name": "Necrosha",
+    "status": "released",
+    "ability": "Cards here have\n-2 Power.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 178,
-    "name": "Negative Zone"
+    "name": "Negative Zone",
+    "status": "released",
+    "ability": "Cards here have\n-3 Power.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 179,
-    "name": "New York"
+    "name": "New York",
+    "status": "unreleased",
+    "ability": "",
+    "rarity": "rare",
+    "difficulty": "Basic"
   },
   {
     "id": 346,
-    "name": "Nidavellir"
+    "name": "Nidavellir",
+    "status": "released",
+    "ability": "Cards here have\n+5 Power.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 486,
-    "name": "Noor Dimension"
+    "name": "Noor Dimension",
+    "status": "released",
+    "ability": "After you play a card here, add a Djinn to your hand.",
+    "rarity": "rare",
+    "difficulty": "Advanced"
   },
   {
     "id": 183,
-    "name": "Nova Roma"
+    "name": "Nova Roma",
+    "status": "released",
+    "ability": "Draw a card.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 186,
-    "name": "Olympia"
+    "name": "Olympia",
+    "status": "released",
+    "ability": "Draw 2 cards.",
+    "rarity": "rare",
+    "difficulty": "Standard"
   },
   {
     "id": 189,
-    "name": "Onslaught's Citadel"
+    "name": "Onslaught's Citadel",
+    "status": "released",
+    "ability": "Ongoing effects here are doubled.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 432,
-    "name": "Orchis Forge"
+    "name": "Orchis Forge",
+    "status": "released",
+    "ability": "After you play a card here, add a Sentinel to your hand.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 347,
-    "name": "Oscorp Tower"
+    "name": "Oscorp Tower",
+    "status": "released",
+    "ability": "After turn 3, all cards here switch sides.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 559,
-    "name": "Otto's Lab"
+    "name": "Otto's Lab",
+    "status": "released",
+    "ability": "The next card you play here pulls a card to the enemy side from their hand.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 573,
-    "name": "Our Lady of Saints"
+    "name": "Our Lady of Saints",
+    "status": "released",
+    "ability": "When your revealed cards fill this, merge them into a Symbiote.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 532,
-    "name": "Panoptichron"
+    "name": "Panoptichron",
+    "status": "released",
+    "ability": "Cards that didn't start in your deck get +2 Power here.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 438,
-    "name": "Pet Mansion"
+    "name": "Pet Mansion",
+    "status": "released",
+    "ability": "This turn, all cards must be played here.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 350,
-    "name": "Pleasant Hill"
+    "name": "Pleasant Hill",
+    "status": "unreleased",
+    "ability": "After you play a card here, draw a card.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 427,
-    "name": "Plunder Castle"
+    "name": "Plunder Castle",
+    "status": "unreleased",
+    "ability": "Only cards that cost 6 can be played here.",
+    "rarity": "rare",
+    "difficulty": "Advanced"
   },
   {
     "id": 351,
-    "name": "Project Pegasus"
+    "name": "Project Pegasus",
+    "status": "released",
+    "ability": "+5 Energy this turn.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 352,
-    "name": "Quantum Realm"
+    "name": "Quantum Realm",
+    "status": "released",
+    "ability": "After you play a card here, set its base Power to 2.",
+    "rarity": "uncommon",
+    "difficulty": "Complex"
   },
   {
     "id": 433,
-    "name": "Quantum Tunnel"
+    "name": "Quantum Tunnel",
+    "status": "released",
+    "ability": "After you play a card here, swap it with a card in your deck.",
+    "rarity": "rare",
+    "difficulty": "Standard"
   },
   {
     "id": 428,
-    "name": "Rickety Bridge"
+    "name": "Rickety Bridge",
+    "status": "released",
+    "ability": "After each turn, if there is more than one card here, destroy them.",
+    "rarity": "rare",
+    "difficulty": "Advanced"
   },
   {
     "id": 211,
-    "name": "Ruins"
+    "name": "Ruins",
+    "status": "released",
+    "ability": " ",
+    "rarity": "common",
+    "difficulty": "Basic"
   },
   {
     "id": 213,
-    "name": "Sakaar"
+    "name": "Sakaar",
+    "status": "unreleased",
+    "ability": "Put a card from each player's hand here.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 514,
-    "name": "Sanctuary II"
+    "name": "Sanctuary II",
+    "status": "unreleased",
+    "ability": "Add a random Infinity Stone to your hand.",
+    "rarity": "rare",
+    "difficulty": "Standard"
   },
   {
     "id": 214,
-    "name": "Sanctum Sanctorum"
+    "name": "Sanctum Sanctorum",
+    "status": "released",
+    "ability": "Cards can't be played here.",
+    "rarity": "uncommon",
+    "difficulty": "Complex"
   },
   {
     "id": 216,
-    "name": "Savage Land"
+    "name": "Savage Land",
+    "status": "released",
+    "ability": "Add two Raptors on each side of this location.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 353,
-    "name": "Sewer System"
+    "name": "Sewer System",
+    "status": "released",
+    "ability": "Cards here have\n-1 Power.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 223,
-    "name": "Shadowland"
+    "name": "Shadowland",
+    "status": "released",
+    "ability": "Add a Ninja to each side with  Power.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 416,
-    "name": "Shuri's Lab"
+    "name": "Shuri's Lab",
+    "status": "released",
+    "ability": "After you play a card here, double its Power.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 233,
-    "name": "Sinister London"
+    "name": "Sinister London",
+    "status": "released",
+    "ability": "After you play a card here, add a copy to another location.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 236,
-    "name": "Sokovia"
+    "name": "Sokovia",
+    "status": "released",
+    "ability": "Discard a card from each player's hand.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 585,
-    "name": "Spider Island"
+    "name": "Spider Island",
+    "status": "unreleased",
+    "ability": "After you play a card here, move it.",
+    "rarity": "rare",
+    "difficulty": "Advanced"
   },
   {
     "id": 246,
-    "name": "Stark Tower"
+    "name": "Stark Tower",
+    "status": "released",
+    "ability": "After turn 5, give all cards here + Power.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 364,
-    "name": "Starlight Citadel"
+    "name": "Starlight Citadel",
+    "status": "released",
+    "ability": "After turn 4, swap the position of each location.",
+    "rarity": "uncommon",
+    "difficulty": "Complex"
   },
   {
     "id": 248,
-    "name": "Strange Academy"
+    "name": "Strange Academy",
+    "status": "released",
+    "ability": "After turn 5, move all cards here to other random locations.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 251,
-    "name": "Subterranea"
+    "name": "Subterranea",
+    "status": "unreleased",
+    "ability": "Shuffle 5 rocks into each deck.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 354,
-    "name": "T.A.H.I.T.I."
+    "name": "T.A.H.I.T.I.",
+    "status": "unreleased",
+    "ability": "When a card is discarded or destroyed, add a copy here.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 543,
-    "name": "Taco Truck"
+    "name": "Taco Truck",
+    "status": "released",
+    "ability": "Add a Chimichanga to your hand.",
+    "rarity": "uncommon",
+    "difficulty": "Complex"
   },
   {
     "id": 487,
-    "name": "Tarnax IV"
+    "name": "Tarnax IV",
+    "status": "released",
+    "ability": "After you play a card here, transform it into another card of the same Cost.",
+    "rarity": "rare",
+    "difficulty": "Advanced"
   },
   {
     "id": 488,
-    "name": "The Abbey"
+    "name": "The Abbey",
+    "status": "released",
+    "ability": "First to put exactly 2 cards here\ndraws a card.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 355,
-    "name": "The Bifrost"
+    "name": "The Bifrost",
+    "status": "released",
+    "ability": "After turn 4, move all cards one location to the right.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 260,
-    "name": "The Big House"
+    "name": "The Big House",
+    "status": "released",
+    "ability": "Cards that cost 4, 5, or 6 can't be played here.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 263,
-    "name": "The Hub"
+    "name": "The Hub",
+    "status": "released",
+    "ability": "Add a random card to each player's hand.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 356,
-    "name": "The Ice Box"
+    "name": "The Ice Box",
+    "status": "released",
+    "ability": "Give a card in each player’s hand +1 Cost.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 357,
-    "name": "The Nexus"
+    "name": "The Nexus",
+    "status": "released",
+    "ability": "Your Power here is granted to other locations as well.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 406,
-    "name": "The Peak"
+    "name": "The Peak",
+    "status": "unreleased",
+    "ability": "Steal the leftmost card from your opponent's hand.",
+    "rarity": "rare",
+    "difficulty": "Advanced"
   },
   {
     "id": 358,
-    "name": "The Raft"
+    "name": "The Raft",
+    "status": "released",
+    "ability": "First to fill this breaks out a 6-Cost card. It costs 0.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 437,
-    "name": "The Sacred Timeline"
+    "name": "The Sacred Timeline",
+    "status": "released",
+    "ability": "First to fill this gets a copy of their opening hand.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 439,
-    "name": "The Sandbar"
+    "name": "The Sandbar",
+    "status": "released",
+    "ability": "Cards that didn't start in your deck cost 1 more. (max 6)",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 267,
-    "name": "The Space Throne"
+    "name": "The Space Throne",
+    "status": "released",
+    "ability": "Only one card can be here for each player.",
+    "rarity": "uncommon",
+    "difficulty": "Standard"
   },
   {
     "id": 268,
-    "name": "The Superflow"
+    "name": "The Superflow",
+    "status": "released",
+    "ability": "If you have no cards here, +1 energy each turn.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 359,
-    "name": "The Triskelion"
+    "name": "The Triskelion",
+    "status": "released",
+    "ability": "Fill each player's hand with random cards.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 270,
-    "name": "The Vault"
+    "name": "The Vault",
+    "status": "released",
+    "ability": "On turn 6, cards can't be played here.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 419,
-    "name": "Throne Room"
+    "name": "Throne Room",
+    "status": "released",
+    "ability": "The highest-Power card(s) here have their Power doubled.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 526,
-    "name": "Thunderbolts Tower"
+    "name": "Thunderbolts Tower",
+    "status": "released",
+    "ability": "After turn 5, give all cards here\n- Power.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 476,
-    "name": "Time Theater"
+    "name": "Time Theater",
+    "status": "released",
+    "ability": "Copy the last card you drew instead of drawing your next card.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 275,
-    "name": "Tinkerer's Workshop"
+    "name": "Tinkerer's Workshop",
+    "status": "released",
+    "ability": "+1 Energy this turn.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 276,
-    "name": "Titan"
+    "name": "Titan",
+    "status": "released",
+    "ability": "6-Cost cards cost  less.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 586,
-    "name": "Tokyo 2099"
+    "name": "Tokyo 2099",
+    "status": "unreleased",
+    "ability": "Cards can't be discarded.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 278,
-    "name": "Transia"
+    "name": "Transia",
+    "status": "unreleased",
+    "ability": "Swap the positions of each location.",
+    "rarity": "uncommon",
+    "difficulty": "Complex"
   },
   {
     "id": 360,
-    "name": "TVA"
+    "name": "TVA",
+    "status": "released",
+    "ability": "After turn 4, end the game.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 361,
-    "name": "Utopia"
+    "name": "Utopia",
+    "status": "released",
+    "ability": "3 and 4-Cost cards cost  less.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 574,
-    "name": "Valhalla"
+    "name": "Valhalla",
+    "status": "unreleased",
+    "ability": "After turn 4, cards here repeat their On Reveal abilities.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 477,
-    "name": "Valley Of The Hand"
+    "name": "Valley Of The Hand",
+    "status": "released",
+    "ability": "After turn 5, your destroyed cards revive here.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 414,
-    "name": "Vibranium Mines"
+    "name": "Vibranium Mines",
+    "status": "released",
+    "ability": "After you play here, shuffle 3 Vibranium into your deck.",
+    "rarity": "common",
+    "difficulty": "Complex"
   },
   {
     "id": 362,
-    "name": "Vormir"
+    "name": "Vormir",
+    "status": "released",
+    "ability": "The next card you play here is destroyed.",
+    "rarity": "uncommon",
+    "difficulty": "Advanced"
   },
   {
     "id": 288,
-    "name": "Wakanda"
+    "name": "Wakanda",
+    "status": "released",
+    "ability": "Cards here can't be destroyed.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 289,
-    "name": "Wakandan Embassy"
+    "name": "Wakandan Embassy",
+    "status": "released",
+    "ability": "Give +2 Power to cards in players' hands.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 363,
-    "name": "Warrior Falls"
+    "name": "Warrior Falls",
+    "status": "released",
+    "ability": "After each turn, cards here FIGHT! Destroy the weakest one(s).",
+    "rarity": "rare",
+    "difficulty": "Advanced"
   },
   {
     "id": 292,
-    "name": "Washington D.C."
+    "name": "Washington D.C.",
+    "status": "released",
+    "ability": "Cards here with no abilities have +3 Power.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 545,
-    "name": "Weapon X Facility"
+    "name": "Weapon X Facility",
+    "status": "released",
+    "ability": "Discard a card to draw a card.",
+    "rarity": "rare",
+    "difficulty": "Complex"
   },
   {
     "id": 295,
-    "name": "Weirdworld"
+    "name": "Weirdworld",
+    "status": "released",
+    "ability": "Draw 2 cards\nfrom your opponent's deck.",
+    "rarity": "rare",
+    "difficulty": "Advanced"
   },
   {
     "id": 296,
-    "name": "Westview"
+    "name": "Westview",
+    "status": "released",
+    "ability": "Turns into a new location on turn 4.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 458,
-    "name": "White Hot Room"
+    "name": "White Hot Room",
+    "status": "released",
+    "ability": "First to fill this gets +3 Max Energy.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 497,
-    "name": "White Palace"
+    "name": "White Palace",
+    "status": "released",
+    "ability": "Copy the highest-Cost card in your opponent's hand.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 546,
-    "name": "World Forge"
+    "name": "World Forge",
+    "status": "released",
+    "ability": "Replace one of the other locations each turn.",
+    "rarity": "ultra rare",
+    "difficulty": "Complex"
   },
   {
     "id": 304,
-    "name": "Worldship"
+    "name": "Worldship",
+    "status": "released",
+    "ability": "Destroy the other locations.",
+    "rarity": "ultra rare",
+    "difficulty": "Complex"
   },
   {
     "id": 305,
-    "name": "X-Mansion"
+    "name": "X-Mansion",
+    "status": "released",
+    "ability": "After turn 3, add a random card here for each player.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 306,
-    "name": "Xandar"
+    "name": "Xandar",
+    "status": "released",
+    "ability": "Cards here have\n+1 Power.",
+    "rarity": "common",
+    "difficulty": "Standard"
   },
   {
     "id": 478,
-    "name": "Yashida Base"
+    "name": "Yashida Base",
+    "status": "unreleased",
+    "ability": "At the end of the game, destroy the last card to get here.",
+    "rarity": "common",
+    "difficulty": "Advanced"
   },
   {
     "id": 575,
-    "name": "Yggdrasil"
+    "name": "Yggdrasil",
+    "status": "unreleased",
+    "ability": "After each turn, give ALL cards at another location +1 Power.",
+    "rarity": "rare",
+    "difficulty": "Advanced"
   }
 ]

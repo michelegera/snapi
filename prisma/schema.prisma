@@ -12,12 +12,21 @@ generator client {
 
 // Define the Card model
 model Card {
-  id   Int    @id @default(autoincrement())
-  name String
+  id        Int      @id @default(autoincrement())
+  name      String
+  cost      Int
+  power     Int
+  abilities String[]
+  status    String
+  source    String
 }
 
 // Define the Location model
 model Location {
-  id   Int    @id @default(autoincrement())
-  name String
+  id         Int    @id @default(autoincrement())
+  name       String
+  status     String
+  ability    String
+  rarity     String
+  difficulty String
 }
